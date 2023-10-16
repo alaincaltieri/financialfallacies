@@ -4,7 +4,9 @@
   url: /categories
 - title: Contacts
   url: /pages/contatti
-- title: Cerca
+- title: Credits
+  url: /pages/credits
+- title: Search
   url: /pages/search
 - title: RSS
   url: /feed/index.xml

@@ -11,8 +11,8 @@ categories:
   - category 1
   
 image:
-  path: /assets/media/placeholder.jpg
-  thumbnail: /assets/media/placeholder.jpg
+  path: /assets/media/placeholder-2.jpg
+  thumbnail: /assets/media/placeholder-2.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse a nibh ipsum. Donec efficitur blandit pharetra. Nunc posuere ultrices interdum. In viverra tortor malesuada quam ornare, et imperdiet dui fermentum. Vivamus at porta lorem. Suspendisse diam risus, rutrum in laoreet eget, consectetur eleifend justo. Praesent ac velit dignissim, sagittis neque vitae, rhoncus diam. Duis elit justo, aliquam non scelerisque eget, vulputate id nulla. Vestibulum volutpat, nibh at finibus sagittis, enim purus accumsan felis, id aliquet neque massa nec nisi. Aliquam erat volutpat. Vivamus at maximus arcu. Vivamus eu neque purus. Vestibulum eu urna posuere, finibus sem eget, viverra odio.

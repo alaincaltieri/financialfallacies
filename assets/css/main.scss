@@ -30,6 +30,16 @@ img.entry-image {
     border-radius: 15px;
 }
 
+.entries-grid .entry:hover {
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+}
+
+img.entry-image:hover {
+    opacity: 0.3;
+}
+
 div.entry-excerpt {
     display: none;
 }
