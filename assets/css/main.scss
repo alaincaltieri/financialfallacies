@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+@charset "utf-8";
+
+@import "so-simple";
+
+.page-image img {
+    width: auto;
+    max-height: 400px;
+}
+
+html {
+    font-size: calc(16px + 4 * ((100vw - 320px) / 960));
+}
+
+img + em {
+    // Image caption
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: gray;
+    font-size: calc(14px + 4 * ((100vw - 320px) / 960));
+}
+
+img.entry-image {
+    border-radius: 15px;
+}
+
+div.entry-excerpt {
+    display: none;
+}
+
+footer.entry-meta {
+    display: none;   
+}
+
+.entries-grid .entry {
+    padding-bottom: 0px;
+}
+
+div.entries-grid {
+    grid-gap: 1em;
+}
