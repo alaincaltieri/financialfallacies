@@ -4,7 +4,7 @@ layout: post
 comments: true
 
 date: 2023-10-16 10:25:00+02:00  
-slug: template-post
+slug: template-post-5
 title: "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit"
 
 categories:
