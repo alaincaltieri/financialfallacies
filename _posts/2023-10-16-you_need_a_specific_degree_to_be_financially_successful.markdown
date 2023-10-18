@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 10:25:00+02:00  
+date: 2023-10-16 16:25:00+02:00  
 slug: you_need_a_specific_degree_to_be_financially_successful
 title: "You need a specific degree to be financially successful."
 

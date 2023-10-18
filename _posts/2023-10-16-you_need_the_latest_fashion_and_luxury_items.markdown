@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 10:25:00+02:00  
+date: 2023-10-16 18:15:00+02:00  
 slug: you_need_the_latest_fashion_and_luxury_items
 title: "You need the latest fashion and luxury items."
 
