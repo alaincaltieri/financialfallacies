@@ -31,4 +31,4 @@ Further readings:
 
 3. "Personal Finance for Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Personal-Finance-Dummies-Eric-Tyson/dp/1119517893)
 
-4. Wikipedia page on "Investment philosophy". [Wiki Link]
+4. "Investment style". [Wiki Link](https://en.wikipedia.org/wiki/Investment_style)

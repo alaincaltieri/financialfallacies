@@ -4,7 +4,7 @@
   url: /categories
 - title: About
   url: /pages/about
-- title: Search
-  url: /pages/search
 - title: RSS
   url: /feed/index.xml
+- title: Search
+  url: /pages/search

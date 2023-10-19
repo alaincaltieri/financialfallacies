@@ -23,7 +23,7 @@ Correct financial behavior would be evaluating your own financial circumstances,
 Further Readings Specific to This Fallacy:
 
 
-1. "The Total Money Makeover" by Dave Ramsey [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
+1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
 Book discussing proper personal finance habits including understanding loans.
 
 2. "The Two-Income Trap" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907)

@@ -22,7 +22,7 @@ The correct financial behaviour is to create, maintain and adhere to a budget. T
 
 Recommended Further Readings: 
 
-1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
+1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
 A classic book offering a profound outlook on how to manage your finances and live a more fulfilled life.
 
 2. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
