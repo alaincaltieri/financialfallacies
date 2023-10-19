@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-12 10:25:00+02:00  
+date: 2023-10-17 10:25:00+02:00  
 slug: i_can_spend_because_marry_someone_rich
 title: "I can spend because I’ll marry someone rich."
 

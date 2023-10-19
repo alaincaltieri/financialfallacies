@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-12 16:25:00+02:00  
+date: 2023-10-15 16:25:00+02:00  
 slug: i_can_spend_now_and_save_later
 title: "I can spend now and save later."
 
