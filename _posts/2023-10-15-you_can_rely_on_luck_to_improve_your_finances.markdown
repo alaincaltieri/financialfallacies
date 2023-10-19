@@ -3,32 +3,39 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 12:25:00+02:00  
+date: 2023-10-15 20-55-15:00+02:00  
 slug: you_can_rely_on_luck_to_improve_your_finances
 title: "You can rely on luck to improve your finances."
 
 categories:
-  - saving
-  - career
-  - investing
-  - retirement
+  - 'saving'
+  - 'career'
+  - 'credit'
+  - 'retirement'
+  - 'investing'
   
 image:
   path: /assets/media/you_can_rely_on_luck_to_improve_your_finances.jpg
   thumbnail: /assets/media/you_can_rely_on_luck_to_improve_your_finances.jpg
 ---
 
-Relying on luck, such as lottery winnings or sudden windfalls, to improve finances is a financial fallacy mainly because it promotes a passive, irregular, and a high-risk approach to money management. This is known as the "Luck Strategy" fallacy (Frumkin, 2010). 
+Believing that you can rely on luck to improve your finances is a financial fallacy due to its inherent unpredictability and lack of control. Building a stable financial future requires consistent effort, determination, and sound financial strategies. Luck, by definition, is an unpredictable force that is beyond our control. Hence, solely relying upon luck equates to placing your financial future in the hands of chance, rather than in your own. This method is unsustainable and often leads to financial instability.
 
-This financial fallacy deviates from the widely accepted principles and practices of personal finance management such as regular savings, wise and informed investment, prudent spending, and contingency planning (Weagley et al., 2007). It's essential to view these lottery winnings as a bonus rather than a strategic financial plan. 
+Correct financial behaviour involves diligent planning, systematic investments, prudent spending, and regular saving. It's about understanding your cash flow, setting achievable financial goals, budgeting wisely, managing debts, and regularly reviewing your investment portfolio. It's recommended to seek professional advice when needed and continue educating oneself about financial management best practices.
 
-A study analysing lottery winners over time found that, for many, winning the lottery led to bankruptcy due to bad financial decisions (Hankins, Hoekstra & Skiba, 2011).
+Further readings that can provide more insights into this topic include:
 
-Instead, the correct financial behavioural approach would be to regularly save, invest wisely, spend prudently, diversify your income streams, and to have a contingency plan. This will give a more reliable and predictable financial improvement, providing you with financial independence in the long run.
+1. "I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works" by Ramit Sethi. [Book Link](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745)
+Includes a pragmatic and actionable program to improve your finances that doesn't rely on luck.
 
-References and Further Readings:
-1. Frumkin, L. A. (2010). The "Luck Factor": Winning the Lottery … Or Not. Journal of Financial Planning.
-2. Weagley, R. O., Hanna, S. D., & Goren, P. (2007). The Demand for Financial Planning Services. Journal of Personal Finance.
-3. Hankins, S., Hoekstra, M., & Skiba, P. M. (2011). The Ticket to Easy Street? The Financial Consequences of Winning the Lottery. Review of Economics and Statistics.
+2. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766).
+It talks about focusing on saving, investing, and managing money effectively.
 
-For further practical advice and guidance, you might consider reading "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey or "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence: Revised and Updated for the 21st Century" by Vicki Robin and Joe Dominguez.
+3. "Thinking, Fast and Slow" by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+This book discusses the psychological aspects influencing decision-making, including those related to money.
+
+4. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111)
+It provides financial advice through parables set in ancient Babylon, emphasizing the importance of saving over relying on luck.
+
+6. Report: "Global Financial Literacy Survey" by Standard & Poor’s. [Report Link](https://gflec.org/initiatives/sp-global-finlit-survey/)
+A comprehensive report on financial literacy around the world, offering insights into global financial attitudes and behaviors.

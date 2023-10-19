@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 14:00:00+02:00  
+date: 2023-10-17 08-45-51:00+02:00  
 slug: you_should_invest_in_the_company_you_work_for
 title: "You should invest in the company you work for."
 
@@ -16,15 +16,20 @@ image:
   thumbnail: /assets/media/you_should_invest_in_the_company_you_work_for.jpg
 ---
 
-Investing solely in the company you work for is considered a financial fallacy mainly due to two risks - lack of diversification and concentration of risk. 
+This can be risky due to the lack of diversification. Here's why:
 
-Lack of Diversification: This means that instead of spreading your investments across different sectors, industries, or companies to manage risk, you are entirely dependent on one company's performance. If the company fails, your investments can severely decline. This is against the key concept of portfolio diversification in investment.
+Investing heavily in your employer's stocks or contributions exposes your financial health to a concentrated exposure risk. This means, if the company faces severe challenges or goes bankrupt, not only could your employment (and therefore your future income) be at risk, but the value of your investment could take a significant hit too. This lack of diversification contradicts one core principle of investment: not putting all eggs in one basket.
 
-Concentration of Risk: If you work for a company and also invest heavily in its stocks, your financial well-being is heavily tied to that one company. If the company encounters difficulties or goes bust, not only is your job at risk, but your investments would decline in value as well.
+The appropriate financial behavior is to diversify your investments to ensure a more stable financial future. Diversification can protect you from relying on a single investment’s performance, and can cushion the blow from any single asset class's downturn. Adequate diversification considers several factors, including your age, financial goals, tolerance for risk, and time horizon.
 
-Correct Financial Behaviour:
-The correct financial behaviour would be to diversify your investment portfolio. Diversification involves spreading your investments across various assets (like shares, bonds, property) or different sectors to spread the risk. You can still invest a portion in your company, but that shouldn't be your only investment. This helps to minimize the risk of a single investment or asset class drastically impacting your overall financial health. Furthermore, speak with a financial advisor to fully understand your risk tolerance and craft an individualized investment strategy. 
+Further readings on this fallacy:
 
-Further Reading:
-1. [10 Risks That Every Stock Faces](https://www.investopedia.com/articles/stocks/11/risks-every-stock-faces.asp)
-2. [The Importance of Diversification](https://www.investopedia.com/investing/importance-diversification/#:~:text=Diversification%20is%20the%20process%20of,risk%20of%20an%20investment%20portfolio.)
+1. "Concentrated vs. Diversified Portfolios" by J.B. Maverick on Investopedia. [Article Link](https://www.investopedia.com/articles/investing/030916/concentrated-vs-diversified-portfolios-comparing-pros-and-cons.asp)
+
+2. "The Four Pillars of Investing: Lessons for Building a Winning Portfolio" by William J. Bernstein. [Book Link](https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071747052)
+A chapter discusses dangers of non-diversification.
+
+3. "Company Stock Ownership: The Risks Outweigh the Rewards" [Morningstar article](https://www.morningstar.com/financial-advice/company-stock-ownership-risks-outweigh-rewards)
+
+4. "Investment diversification". [Wiki Link](https://en.wikipedia.org/wiki/Domain_Developers_Fund)
+Comprehensive coverage on the principle of diversification.

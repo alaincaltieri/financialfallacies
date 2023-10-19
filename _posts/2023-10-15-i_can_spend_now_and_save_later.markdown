@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 16:25:00+02:00  
+date: 2023-10-15 20-02-00:00+02:00  
 slug: i_can_spend_now_and_save_later
 title: "I can spend now and save later."
 
@@ -15,18 +15,18 @@ image:
   thumbnail: /assets/media/i_can_spend_now_and_save_later.jpg
 ---
 
-The concept "I can spend now and save later" is a financial fallacy because it ignores the power of compound interest, encourages poor money habits, and may lead to financial instability in the future. It's based on the flawed assumption that income will inevitably increase in the future and fails to account for unexpected expenses or economic downturns.
+The statement "I can spend now and save later" is a financial fallacy because it assumes that future income is guaranteed and that expenditure patterns will remain the same. However, life is unpredictable. You may encounter unforeseen circumstances such as job loss, economic downturn, or unexpected expenses like medical bills. Additionally, if you develop a habit of spending beyond your means, it can be hard to transition into a saving mindset later.
 
-According to Albert Einstein, "Compound interest is the eighth wonder of the world" (Investopedia). Compound interest involves earning interest on both the initial money saved (the principal) and the interest already accrued. The earlier you start saving, the more time there is for interest to compound, leading to significantly greater wealth over time. Delaying savings can thus result in substantially less monetary growth (The Balance).
+Moreover, it neglects the concept of compound interest, one of the most powerful principles of investing. The earlier you start saving, the more time your money has to grow. For instance, if you start saving in your 20s, the money has 40 years to grow before retirement, but if you start in your 40s, it only has 20 years.
 
-The behaviour also encourages a 'buy now, pay later' mentality. Establishing good financial habits, like budgeting, saving, and investing, early on is crucial for long-term financial health (Forbes).
+The correct financial behavior is to save and invest consistently from an early age, live within your means, and have a plan for regular increases in the amount saved or invested. It's important to make a budget and stick to it, prioritize needs over wants, establish an emergency fund, and work towards long-term financial goals like retirement.
 
-Finally, saving later assumes steady future income and no unexpected expenses—both unreliable assumptions. Emergencies or job losses can occur unexpectedly, and having saved money can help weather such financial storms (NerdWallet).
+Further readings related to this financial fallacy:
 
-The correct financial behaviour is to start saving and investing as early as possible to benefit from the power of compound interest. You should also establish good financial habits including budgeting and living within your means. Building an emergency fund is also essential for financial security.
+1. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
 
-References and Further Reading:
-1. [NerdWallet's Guide on Compound Interest](https://www.nerdwallet.com/article/investing/what-is-compound-interest)
-2. [The Balance's Article on Starting to Save Early](https://www.thebalance.com/power-of-compound-interest-4061154)
-3. [Forbes' Guide on Principles of Personal Finance](https://www.forbes.com/sites/robertberger/2015/07/27/10-uncomfortable-deeds-that-will-pay-off-forever/)
-4. [Investopedia's Article on The Importance of Saving Money](https://www.investopedia.com/articles/personal-finance/031215/why-saving-money-important.asp)
+2. "Compound Interest" [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest).
+This article provides an in-depth explanation of the concept of compound interest and illustrates how saving early pays off.
+
+3. "More Than Enough: The Ten Keys to Changing Your Financial Destiny" by Dave Ramsey. [Book Link](https://www.amazon.com/More-than-Enough-Changing-Financial/dp/0142000477)
+This book gives insights into why waiting to save can lead to financial distress and offers guidance on how to steer clear of such pitfalls.
