@@ -25,3 +25,9 @@ Let's pave the way to a financially secure future!
 ## Credits:
 All images on Your Financial Fallacies have been creted with [Dream by Wombo](https://dream.ai/).
 
+
+## Affiliate links:
+
+This website may contain affiliate links, which means I may earn a commission if you click on the link or make a purchase using the link. When you make a purchase, the price you pay will be the same whether you use the affiliate link or go directly to the vendor's website using a non-affiliate link. 
+
+Please be aware that I only recommend products, services, or programs that I believe in and trust. The views and opinions expressed on this website are purely my own. Any product claim, statistic, quote, or other representation about a product or service should be verified with the manufacturer, provider, or party in question.
