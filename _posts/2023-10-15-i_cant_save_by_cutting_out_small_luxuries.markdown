@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 03-00-19:00+02:00  
+date: 2023-10-15 03:00:19:00+02:00  
 slug: i_cant_save_by_cutting_out_small_luxuries
 title: "I can't save by cutting out small luxuries."
 

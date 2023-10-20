@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 17-35-27:00+02:00  
+date: 2023-10-18 17:35:27:00+02:00  
 slug: investing_is_just_like_gambling
 title: "Investing is just like gambling."
 

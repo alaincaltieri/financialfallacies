@@ -3,13 +3,12 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-19 12-12-35:00+02:00  
+date: 2023-10-19 12:12:35:00+02:00  
 slug: i_don_t_need_a_budget
 title: "I don’t need a budget."
 
 categories:
   - 'saving'
-  - 'budgeting'
   
 image:
   path: /assets/media/i_don_t_need_a_budget.jpg

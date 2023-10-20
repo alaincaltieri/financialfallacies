@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-19 11-30-19:00+02:00  
+date: 2023-10-19 11:30:19:00+02:00  
 slug: you_should_follow_the_advice_of_financial_gurus
 title: "You should follow the advice of financial gurus."
 

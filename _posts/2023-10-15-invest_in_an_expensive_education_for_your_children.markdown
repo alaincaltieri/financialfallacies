@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 00-01-11:00+02:00  
+date: 2023-10-15 00:01:11:00+02:00  
 slug: invest_in_an_expensive_education_for_your_children
 title: "Invest in an expensive education for your children."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 11-37-25:00+02:00  
+date: 2023-10-18 11:37:25:00+02:00  
 slug: renting_is_throwing_money_away
 title: "Renting is throwing money away."
 

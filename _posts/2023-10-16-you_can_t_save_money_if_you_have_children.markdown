@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 02-54-01:00+02:00  
+date: 2023-10-16 02:54:01:00+02:00  
 slug: you_can_t_save_money_if_you_have_children
 title: "You can’t save money if you have children."
 

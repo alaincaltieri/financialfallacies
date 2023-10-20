@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 05-53-07:00+02:00  
+date: 2023-10-16 05:53:07:00+02:00  
 slug: insurance_is_a_waste_of_money
 title: "Insurance is a waste of money."
 

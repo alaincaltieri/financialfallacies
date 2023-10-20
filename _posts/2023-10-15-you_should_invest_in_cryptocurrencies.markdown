@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 05-59-27:00+02:00  
+date: 2023-10-15 05:59:27:00+02:00  
 slug: you_should_invest_in_cryptocurrencies
 title: "You should invest in cryptocurrencies."
 

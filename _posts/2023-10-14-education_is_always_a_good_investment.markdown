@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 03-06-40:00+02:00  
+date: 2023-10-14 03:06:40:00+02:00  
 slug: education_is_always_a_good_investment
 title: "Education is always a good investment."
 

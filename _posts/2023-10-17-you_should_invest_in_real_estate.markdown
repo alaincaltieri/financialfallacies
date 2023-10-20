@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 17-43-08:00+02:00  
+date: 2023-10-17 17:43:08:00+02:00  
 slug: you_should_invest_in_real_estate
 title: "You should invest in real estate."
 

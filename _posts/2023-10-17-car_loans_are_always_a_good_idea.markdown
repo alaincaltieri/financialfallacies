@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 20-42-01:00+02:00  
+date: 2023-10-17 20:42:01:00+02:00  
 slug: car_loans_are_always_a_good_idea
 title: "Car loans are always a good idea."
 

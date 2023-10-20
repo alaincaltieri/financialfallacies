@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 17-49-50:00+02:00  
+date: 2023-10-16 17:49:50:00+02:00  
 slug: i_cant_start_saving_for_retirement_since_im_too_old
 title: "I can't start saving for retirement since I'm too old."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 05-46-39:00+02:00  
+date: 2023-10-17 05:46:39:00+02:00  
 slug: you_should_max_out_your_credit_cards_to_build_credit
 title: "You should max out your credit cards to build credit."
 

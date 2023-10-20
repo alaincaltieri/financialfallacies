@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 06-05-59:00+02:00  
+date: 2023-10-14 06:05:59:00+02:00  
 slug: buy_luxury_items_and_resell_them_later_for_a_profit
 title: "Buy luxury items and resell them later for a profit."
 

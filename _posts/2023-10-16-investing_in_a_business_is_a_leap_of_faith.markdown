@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 23-48-13:00+02:00  
+date: 2023-10-16 23:48:13:00+02:00  
 slug: investing_in_a_business_is_a_leap_of_faith
 title: "Investing in a business is a leap of faith."
 

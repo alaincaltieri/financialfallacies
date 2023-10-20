@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 14-57-06:00+02:00  
+date: 2023-10-15 14:57:06:00+02:00  
 slug: you_can_t_negotiate_your_salary
 title: "You can’t negotiate your salary."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 02-47-27:00+02:00  
+date: 2023-10-17 02:47:27:00+02:00  
 slug: i_can_t_save_and_pay_off_debt_simultaneously
 title: "I can’t save and pay off debt simultaneously."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-13 21-08-04:00+02:00  
+date: 2023-10-13 21:08:04:00+02:00  
 slug: you_need_a_high_income_to_be_financially_secure
 title: "You need a high income to be financially secure."
 

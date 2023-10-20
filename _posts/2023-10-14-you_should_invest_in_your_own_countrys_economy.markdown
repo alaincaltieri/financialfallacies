@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 00-07-21:00+02:00  
+date: 2023-10-14 00:07:21:00+02:00  
 slug: you_should_invest_in_your_own_countrys_economy
 title: "I love my country so I invest in it's economy."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-13 09-11-03:00+02:00  
+date: 2023-10-13 09:11:03:00+02:00  
 slug: only_invest_in_actively_managed_mutual_funds
 title: "Only invest in actively managed mutual funds."
 

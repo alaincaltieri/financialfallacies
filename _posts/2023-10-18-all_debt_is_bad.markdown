@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 08-38-21:00+02:00  
+date: 2023-10-18 08:38:21:00+02:00  
 slug: all_debt_is_bad
 title: "All debt is bad."
 

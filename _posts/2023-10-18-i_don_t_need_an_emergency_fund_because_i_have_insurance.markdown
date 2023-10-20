@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 05-39-21:00+02:00  
+date: 2023-10-18 05:39:21:00+02:00  
 slug: i_don_t_need_an_emergency_fund_because_i_have_insurance
 title: "I don’t need an emergency fund because I have insurance."
 

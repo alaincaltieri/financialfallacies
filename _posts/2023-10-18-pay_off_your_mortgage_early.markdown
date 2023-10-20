@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 20-34-46:00+02:00  
+date: 2023-10-18 20:34:46:00+02:00  
 slug: pay_off_your_mortgage_early
 title: "Pay off your mortgage early."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-19 08-31-08:00+02:00  
+date: 2023-10-19 08:31:08:00+02:00  
 slug: you_should_time_the_market_by_buying_low_and_selling_high
 title: "You should time the market by buying low and selling high."
 

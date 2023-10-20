@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 11-51-17:00+02:00  
+date: 2023-10-16 11:51:17:00+02:00  
 slug: i_can_fund_my_spending_by_skipping_gym_memberships
 title: "I can fund my spending by skipping gym memberships."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-16 14-50-37:00+02:00  
+date: 2023-10-16 14:50:37:00+02:00  
 slug: i_can_always_spend_on_credit_and_pay_it_off_later
 title: "I can always spend on credit and pay it off later."
 

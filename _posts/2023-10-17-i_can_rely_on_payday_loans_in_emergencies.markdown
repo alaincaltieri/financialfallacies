@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 23-41-03:00+02:00  
+date: 2023-10-17 23:41:03:00+02:00  
 slug: i_can_rely_on_payday_loans_in_emergencies
 title: "I can rely on payday loans in emergencies."
 

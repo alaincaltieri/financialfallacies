@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 12-04-31:00+02:00  
+date: 2023-10-14 12:04:31:00+02:00  
 slug: follow_the_4_rule_for_retirement_and_chill
 title: "Follow the 4% rule for retirement and chill."
 

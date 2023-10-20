@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-18 14-36-23:00+02:00  
+date: 2023-10-18 14:36:23:00+02:00  
 slug: getrichquick_schemes_work
 title: "Get-rich-quick schemes work."
 

@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-19 02-32-57:00+02:00  
+date: 2023-10-19 02:32:57:00+02:00  
 slug: money_can_buy_happiness
 title: "Money can buy happiness."
 

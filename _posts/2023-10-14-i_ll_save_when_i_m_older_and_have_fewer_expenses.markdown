@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 18-02-45:00+02:00  
+date: 2023-10-14 18:02:45:00+02:00  
 slug: i_ll_save_when_i_m_older_and_have_fewer_expenses
 title: "I’ll save when I’m older and have fewer expenses."
 

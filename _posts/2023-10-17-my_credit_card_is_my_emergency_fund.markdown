@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 14-44-13:00+02:00  
+date: 2023-10-17 14:44:13:00+02:00  
 slug: my_credit_card_is_my_emergency_fund
 title: "My credit card is my emergency fund."
 

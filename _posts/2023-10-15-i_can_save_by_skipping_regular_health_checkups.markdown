@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 08-58-46:00+02:00  
+date: 2023-10-15 08:58:46:00+02:00  
 slug: i_can_save_by_skipping_regular_health_checkups
 title: "I can save by skipping regular health checkups."
 

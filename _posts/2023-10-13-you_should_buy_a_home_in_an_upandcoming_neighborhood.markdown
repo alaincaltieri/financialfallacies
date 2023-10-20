@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-13 15-09-42:00+02:00  
+date: 2023-10-13 15:09:42:00+02:00  
 slug: you_should_buy_a_home_in_an_upandcoming_neighborhood
 title: "You should buy a home in an up-and-coming neighborhood."
 

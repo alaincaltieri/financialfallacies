@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 08-45-51:00+02:00  
+date: 2023-10-17 08:45:51:00+02:00  
 slug: you_should_invest_in_the_company_you_work_for
 title: "You should invest in the company you work for."
 

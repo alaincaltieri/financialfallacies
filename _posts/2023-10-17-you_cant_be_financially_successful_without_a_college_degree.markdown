@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-17 11-45-03:00+02:00  
+date: 2023-10-17 11:45:03:00+02:00  
 slug: you_cant_be_financially_successful_without_a_college_degree
 title: "You can't be financially successful without a college degree."
 

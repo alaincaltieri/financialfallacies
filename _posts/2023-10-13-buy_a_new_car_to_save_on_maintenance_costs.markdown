@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-13 18-08-50:00+02:00  
+date: 2023-10-13 18:08:50:00+02:00  
 slug: buy_a_new_car_to_save_on_maintenance_costs
 title: "Buy a new car to save on maintenance costs."
 

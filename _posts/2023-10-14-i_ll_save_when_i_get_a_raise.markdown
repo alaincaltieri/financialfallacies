@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-14 09-05-23:00+02:00  
+date: 2023-10-14 09:05:23:00+02:00  
 slug: i_ll_save_when_i_get_a_raise
 title: "I’ll save when I get a raise."
 

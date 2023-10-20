@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-15 20-55-15:00+02:00  
+date: 2023-10-15 20:55:15:00+02:00  
 slug: you_can_rely_on_luck_to_improve_your_finances
 title: "You can rely on luck to improve your finances."
 

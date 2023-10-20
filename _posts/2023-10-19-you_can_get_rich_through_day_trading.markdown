@@ -3,7 +3,7 @@ author: FinancialFallacies
 layout: post
 comments: true
 
-date: 2023-10-19 05-32-03:00+02:00  
+date: 2023-10-19 05:32:03:00+02:00  
 slug: you_can_get_rich_through_day_trading
 title: "You can get rich through day trading."
 
