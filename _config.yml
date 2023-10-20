@@ -127,6 +127,9 @@ footer_links:
   - title: Feed
     url: feed/index.xml
     icon: fas fa-rss
-  - title: Affiliations transparency
+  - title: Affiliations
     url: /pages/about#affiliate-links
     icon: fas fa-link
+  - title: Follow
+    url: https://t.me/yourfinancialfallacies
+    icon: fa fab fa-telegram-plane

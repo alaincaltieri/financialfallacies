@@ -8,5 +8,7 @@
   url: /pages/about
 - title: RSS
   url: /feed/index.xml
+- title: Telegram
+  url: "https://t.me/yourfinancialfallacies"
 - title: Search
   url: /pages/search
