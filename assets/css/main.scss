@@ -16,6 +16,29 @@ html {
     font-size: calc(16px + 4 * ((100vw - 320px) / 960));
 }
 
+.site-footer {
+    padding: 1em 0;
+}
+
+.svg-inline--fa {
+    padding: 0.2em;
+}
+
+.footer-icon, .footer-text {
+    vertical-align: middle;
+    display: inline-block; 
+    text-decoration: underline;   
+}
+
+.social-icon {
+    color: #1D3557;
+    margin: 0 1em;
+}
+
+.copyright {
+    color: #1D3557 !important;   
+}
+
 h1.site-title {
     font-size: calc(28px + 8 * ((100vw - 320px) / 960))
 }

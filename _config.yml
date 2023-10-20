@@ -120,15 +120,13 @@ author:
       url: https://twitter.com/AlainCaltieri
       icon: fab fa-twitter-square
     
-# Footer Links
 footer_links:
   - title: Get in touch
-    url: mailto:alaincaltieri@gmail.com
-    icon: fas fa-envelope
+    url: /pages/about
+    icon: fas fa-handshake
   - title: Feed
     url: feed/index.xml
-    icon: fas fa-rss-square
-  - title: Twitter
-    url: https://twitter.com/AlainCaltieri
-    icon: fab fa-twitter-square
-  
+    icon: fas fa-rss
+  - title: Affiliations transparency
+    url: /pages/about#affiliate-links
+    icon: fas fa-link

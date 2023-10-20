@@ -12,11 +12,17 @@ image:
 
 ---
 
-Please, [contact me]({{ '/pages/about' | relative_url }}) if you have more resources to recommend. I'm an avid reader.
+> Please, [contact me]({{ '/pages/about' | relative_url }}) if you have more resources to recommend. I'm an avid reader.
+
+Before we dive in, here's two ways you can get most of these books at a discount or even free:
+* [Amazon Audible Premium Plus](https://amzn.to/46WSNXl) (you can also [gift a membership](https://amzn.to/3rWyV81)). They have a 30 day free trial: free audiobooks!
+* An [Amazon Kindle](https://amzn.to/3SeqhMC): Most books are available in digital format at a fraction of the price of their paper version. Instant delivery, easier highlighting and more.
+
+Now on to the resources.
 
 ## Blogs and newsletters
 
-There's really a lot to unpack here. Let me give you my 3 favourite international resources, followed by a non exhaustive list of interesting financial blogs and websites.
+There's really a lot to unpack here. Let me give you my 3 favourite resources, followed by a non exhaustive list of interesting financial blogs and websites.
 
 1. **https://www.bankeronwheels.com/**
 Banker on Wheels is a personal finance and investing blog that focuses on easy passive investing, achieving financial independence and potentially retiring early. The blog provides advice on managing money, investing in various assets, and optimizing financial strategies with different complexity to match your needs and expertise.
@@ -41,7 +47,7 @@ For Italian readers only 🤌:
 - https://investireconbuonsenso.com/
 
 
-## Books - My favourites
+## My favourite Books 
 
 - **"Your Money or Your Life" by Vicki Robin and Joe Dominguez** - [Buy on Amazon](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766): will deeply change the way you think about money and motivate you to properly manage it.
 
@@ -50,10 +56,10 @@ For Italian readers only 🤌:
 - **"The Millionaire Next Door" by Thomas J. Stanley and William D. Danko** - [Buy on Amazon](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474): will shade light on the real habits of milionairs that were able to build a fortune. Spoiler: they don't behave in the way Hollywood portreits them!
 
 
-## Interesting Books
+## All recommended Books
 
 Here's a more exhaustive list of books that can help with personal finance.
-For each one I point out what's good and what's not so you can pick the ones suitable for your situation.
+For each one I point out what's good and what's not, so you can pick only books that are useful for your situation.
 
 1. **"Your Money or Your Life" by Vicki Robin and Joe Dominguez** - [Buy on Amazon](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766):
    - **What's Good:** This book offers a unique perspective on money and life, emphasizing the importance of aligning your spending with your values. It encourages readers to rethink their relationship with money and provides practical steps for financial independence.
