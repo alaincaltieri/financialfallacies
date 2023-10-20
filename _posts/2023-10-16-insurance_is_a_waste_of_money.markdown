@@ -22,10 +22,10 @@ The correct financial behaviour suggests that one should judiciously invest in d
 
 Further Readings: 
 
-1. "Against the Gods: The Remarkable Story of Risk" by Peter L. Bernstein. [Book Link](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639).
+1. "Against the Gods: The Remarkable Story of Risk" by Peter L. Bernstein. [Book Link](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639/ref=nosim?tag=financialfall-20).
 This book offers a comprehensive look at the concept of risk and its management throughout history. 
 
-2. "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945)
+2. "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945/ref=nosim?tag=financialfall-20)
 A comprehensive guide to understanding the basics of various types of insurance and their importance. 
 
 3. "Insurance" [Wiki Link](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act).

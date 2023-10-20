@@ -21,16 +21,16 @@ The financial fallacy in the statement, "Buy luxury items and resell them later 
 The correct financial behaviour, in contrast, focuses on long-term wealth building through time-tested methods such as investing in a diversified portfolio of stocks, bonds, and mutual funds, maintaining a strong emergency fund, maxing out retirement savings, eliminating high-interest debt, and continuously improving one's earning potential.
 
 Further readings specific to this fallacy:
-1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
 
-2. "Pound Foolish: Exposing the Dark Side of the Personal Finance Industry" by Helaine Olen. [Book Link](https://www.amazon.com/Pound-Foolish-Exposing-Personal-Industry/dp/159184679X)
+2. "Pound Foolish: Exposing the Dark Side of the Personal Finance Industry" by Helaine Olen. [Book Link](https://www.amazon.com/Pound-Foolish-Exposing-Personal-Industry/dp/159184679X/ref=nosim?tag=financialfall-20)
 
-3. "The Myth of the Rational Market: A History of Risk, Reward, and Delusion on Wall Street" by Justin Fox. [Book Link](https://www.amazon.com/Myth-Rational-Market-History-Delusion/dp/0060599030)
+3. "The Myth of the Rational Market: A History of Risk, Reward, and Delusion on Wall Street" by Justin Fox. [Book Link](https://www.amazon.com/Myth-Rational-Market-History-Delusion/dp/0060599030/ref=nosim?tag=financialfall-20)
 
-4. "Your Money and Your Brain: How the New Science of Neuroeconomics Can Help Make You Rich" by Jason Zweig. [Book Link](https://www.amazon.com/Your-Money-Brain-Science-Neuroeconomics/dp/0743276698)
+4. "Your Money and Your Brain: How the New Science of Neuroeconomics Can Help Make You Rich" by Jason Zweig. [Book Link](https://www.amazon.com/Your-Money-Brain-Science-Neuroeconomics/dp/0743276698/ref=nosim?tag=financialfall-20)
 
-5. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194)
+5. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20)
 
-6. "The Psychology of Investing" by John R. Nofsinger. [Book Link](https://www.amazon.com/Psychology-Investing-John-R-Nofsinger/dp/041539757X)
+6. "The Psychology of Investing" by John R. Nofsinger. [Book Link](https://www.amazon.com/Psychology-Investing-John-R-Nofsinger/dp/041539757X/ref=nosim?tag=financialfall-20)
 
 These readings provide diverse perspectives on common financial fallacies, behavioral finance, and effective wealth-building strategies.

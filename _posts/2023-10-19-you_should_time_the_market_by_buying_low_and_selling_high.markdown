@@ -25,8 +25,8 @@ The more sound financial behaviour is a long-term, disciplined investment strate
 
 Further readings:
 
-1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
-2. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
-3. "Your Money and Your Brain" by Jason Zweig. [Book Link](https://www.amazon.com/Your-Money-Brain-Science-Neuroeconomics/dp/0743276698)
-4. "Common Stocks and Uncommon Profits and Other Writings" by Philip A. Fisher. [Book Link](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509)
+1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
+2. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20)
+3. "Your Money and Your Brain" by Jason Zweig. [Book Link](https://www.amazon.com/Your-Money-Brain-Science-Neuroeconomics/dp/0743276698/ref=nosim?tag=financialfall-20)
+4. "Common Stocks and Uncommon Profits and Other Writings" by Philip A. Fisher. [Book Link](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509/ref=nosim?tag=financialfall-20)
 6. Market timing [Wiki Link](https://en.wikipedia.org/wiki/Operation_Market_Time)

@@ -24,10 +24,10 @@ Building a diverse portfolio, regularly contributing to it, and having a long-te
 
 Further Readings:
 
-1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
 This book covers a variety of investment options, demonstrating it's possible to start small.
 
-2. "The Little Book of Common Sense Investing" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509).
+2. "The Little Book of Common Sense Investing" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509/ref=nosim?tag=financialfall-20).
 Highlights the benefits of starting small and growing your investments over time.
 
 3. "Compound interest". [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest).

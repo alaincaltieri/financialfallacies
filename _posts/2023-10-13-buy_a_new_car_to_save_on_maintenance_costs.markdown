@@ -30,8 +30,8 @@ Further readings on this fallacy:
 
 5. "Depreciation" [Wiki Link](https://en.wikipedia.org/wiki/MACRS).
 
-6. Book: "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence: Revised and Updated for the 21st Century" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Transforming-Relationship-Achieving-Financial-Independence/dp/B08WRQLLDB)
+6. Book: "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence: Revised and Updated for the 21st Century" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Transforming-Relationship-Achieving-Financial-Independence/dp/B08WRQLLDB/ref=nosim?tag=financialfall-20)
 This book discusses the concept of "opportunity cost," a foundational aspect in understanding why it might not be financially wise to buy a new vehicle to avoid maintenance costs.
 
-6. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
+6. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20)
 Discusses the common economic behaviors of individuals who successfully accumulate wealth, including their habits about car ownership.

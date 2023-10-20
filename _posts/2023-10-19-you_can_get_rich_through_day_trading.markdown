@@ -23,13 +23,13 @@ The correct financial behaviour entails understanding that investing involves di
 
 Further Readings:
 
-1. "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+1. "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
 This book debunks various investment strategies and provides sound, empirical advice.
 
-2. "Thinking, Fast and Slow" - by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+2. "Thinking, Fast and Slow" - by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=nosim?tag=financialfall-20)
 A book that explains the different systems of thought, highlighting how quick decisions can often lead to unfavorable results. 
 
-3. "The Day Trader: From the Pit to the PC" by Lewis J. Borsellino and Patricia Commins. [Book Link](https://www.amazon.com/Day-Trader-Pit-PC/dp/0471401617)
+3. "The Day Trader: From the Pit to the PC" by Lewis J. Borsellino and Patricia Commins. [Book Link](https://www.amazon.com/Day-Trader-Pit-PC/dp/0471401617/ref=nosim?tag=financialfall-20)
 This book narrates the experience of a professional day trader, giving firsthand insight into the risks involved.
 
 5. "Barber, et. al. (2017) "Do Day Traders Rationally Learn About Their Ability?"". [Paper Link](https://faculty.haas.berkeley.edu/odean/papers/Day%20Traders/Day%20Trading%20and%20Learning%20110217.pdf)

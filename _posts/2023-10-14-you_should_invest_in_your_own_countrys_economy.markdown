@@ -26,7 +26,7 @@ Further readings:
 1. "Global equity investing: The benefits of diversification and sizing your allocation" by Vanguard. [Report link](https://corporate.vanguard.com/content/dam/corp/research/pdf/Global-equity-investing-The-benefits-of-diversification-and-sizing-your-allocation-US-ISGGEB_042021_Online.pdf)
 A comprehensive report explaining why and how to invest globally.
 
-2. "International Financial Management" by Jeff Madura. [Book Link](https://www.amazon.com/International-Financial-Management-Jeff-Madura/dp/1133947832).
+2. "International Financial Management" by Jeff Madura. [Book Link](https://www.amazon.com/International-Financial-Management-Jeff-Madura/dp/1133947832/ref=nosim?tag=financialfall-20).
 A textbook explaining various concepts in international finance, including the diversification of investments.
 
 4. "Home Bias: What it is, How it Works, Special Considerations" in Investopedia. [Article Link](https://www.investopedia.com/terms/h/homebias.asp)

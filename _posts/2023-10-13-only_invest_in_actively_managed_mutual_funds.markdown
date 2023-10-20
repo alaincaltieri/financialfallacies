@@ -20,16 +20,16 @@ The statement "Only invest in actively managed mutual funds" is a financial fall
 The correct financial behaviour suggests a diversification of investment strategies. This would mean not just putting all your eggs in the actively managed funds basket, but instead investing in passively managed funds like index funds or ETFs, bonds, real estate and more. Diversification reduces risks and can potentially increase returns because different types of investments perform well under different market conditions.
 
 For further readings on this subject, consider the following:
-1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
 A classic book that introduces efficient market theory and favours indexing.
 
-2. "Common Sense on Mutual Funds: New Imperatives for the Intelligent Investor" by John C. Bogle. [Book Link](https://www.amazon.com/Common-Sense-Mutual-Funds-Imperatives/dp/0471392286).
+2. "Common Sense on Mutual Funds: New Imperatives for the Intelligent Investor" by John C. Bogle. [Book Link](https://www.amazon.com/Common-Sense-Mutual-Funds-Imperatives/dp/0471392286/ref=nosim?tag=financialfall-20).
 The book that introduced the first index fund.
 
-3. "The Future of Finance: A New Model for Banking and Investment" by Moorad Choudhry. [Book Link](https://www.amazon.com/Future-Finance-Model-Banking-Investment/dp/0470572299)
+3. "The Future of Finance: A New Model for Banking and Investment" by Moorad Choudhry. [Book Link](https://www.amazon.com/Future-Finance-Model-Banking-Investment/dp/0470572299/ref=nosim?tag=financialfall-20)
 This book contains chapters on active vs passive management.
 
-4. "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101)
+4. "The Little Book of Common Sense Investing: The Only Way to Guarantee Your Fair Share of Stock Market Returns" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/0470102101/ref=nosim?tag=financialfall-20)
 Another legendary book on the importance of passive investing.
 
 6. "The case for low-cost index-fund investing". [Report Link](https://static.vgcontent.info/crp/intl/avw/mexico/documents/case-low-cost-index-fund-investing.pdf). 

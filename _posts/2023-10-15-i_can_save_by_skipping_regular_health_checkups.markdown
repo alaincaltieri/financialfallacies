@@ -22,7 +22,7 @@ The correct financial behavior in this situation would be seeing regular checkup
 
 Further readings on this financial fallacy:
 
-1. "The Behavior Gap: Simple Ways to Stop Doing Dumb Things with Money" by Carl Richards. [Book Link](https://www.amazon.com/Behavior-Gap-Simple-Doing-Things/dp/1591844649).
+1. "The Behavior Gap: Simple Ways to Stop Doing Dumb Things with Money" by Carl Richards. [Book Link](https://www.amazon.com/Behavior-Gap-Simple-Doing-Things/dp/1591844649/ref=nosim?tag=financialfall-20).
 This book discusses various common financial fallacies in understanding the relationship between money and behavior.
 
 3. "42% of Americans Skip Doctor Appointments Because of the Cost. Here's What to Do Instead" by Natasha Gabrielle on The Motley Fool. [Article Link](https://www.fool.com/the-ascent/personal-finance/articles/42-of-americans-skip-doctor-appointments-because-of-the-cost-heres-what-to-do-instead/).
@@ -31,5 +31,5 @@ Shades some light on this social problem and provides alternative solutions.
 5. "Preventive healthcare". [Wiki Link](https://en.wikipedia.org/wiki/Preventive_healthcare).
 An overview of what preventive healthcare is and why it's financially prudent.
 
-6. "You Can Afford To Be Healthy" by Samantha Salmon. [Book Link](https://www.amazon.com/You-Can-Afford-Be-Healthy-ebook/dp/B06ZZXGNTV).
+6. "You Can Afford To Be Healthy" by Samantha Salmon. [Book Link](https://www.amazon.com/You-Can-Afford-Be-Healthy-ebook/dp/B06ZZXGNTV/ref=nosim?tag=financialfall-20).
 This book explores the relationship between money, health, and overall wellbeing, addressing numerous financial fallacies related to health.

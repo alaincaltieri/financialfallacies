@@ -26,19 +26,19 @@ The correct financial behavior would be one more focused on long-term financial 
 
 Further readings:
 
-1. "Spent: Sex, Evolution, and Consumer Behavior" by Geoffrey Miller. [Book Link](https://www.amazon.com/Spent-Sex-Evolution-Consumer-Behavior/dp/0143117238).
+1. "Spent: Sex, Evolution, and Consumer Behavior" by Geoffrey Miller. [Book Link](https://www.amazon.com/Spent-Sex-Evolution-Consumer-Behavior/dp/0143117238/ref=nosim?tag=financialfall-20).
 A book that explores the evolution of consumer behavior and materialism.
 
-2. "Luxury Fever: Why Money Fails to Satisfy in an Era of Excess" by Robert H. Frank. [Book Link](https://www.amazon.com/Luxury-Fever-Money-Satisfy-Excess/dp/0684842343).
+2. "Luxury Fever: Why Money Fails to Satisfy in an Era of Excess" by Robert H. Frank. [Book Link](https://www.amazon.com/Luxury-Fever-Money-Satisfy-Excess/dp/0684842343/ref=nosim?tag=financialfall-20).
 A deep dive into consumer habits and the pursuit of luxury, looking at its economic and personal consequences.
 
-3. "The High Price of Materialism" by Tim Kasser. [Book Link](https://www.amazon.com/High-Price-Materialism-Tim-Kasser/dp/026261197X)
+3. "The High Price of Materialism" by Tim Kasser. [Book Link](https://www.amazon.com/High-Price-Materialism-Tim-Kasser/dp/026261197X/ref=nosim?tag=financialfall-20)
 A book outlining how a focus on materialistic values can lead to reduced wellbeing and increased social and ecological problems.
 
-4. "The Psychology of Overeating" by Kima Cargill. [Book Link](https://www.amazon.com/Psychology-Overeating-Food-Culture-Consumerism/dp/1472581075)
+4. "The Psychology of Overeating" by Kima Cargill. [Book Link](https://www.amazon.com/Psychology-Overeating-Food-Culture-Consumerism/dp/1472581075/ref=nosim?tag=financialfall-20)
 While primarily focusing on overeating, the book also explores the culture of consumerism and its impact on our lives.
 
-5. "Plenitude: The New Economics of True Wealth" by Juliet B. Schor. [Book Link](https://www.amazon.com/Plenitude-New-Economics-True-Wealth/dp/1594202540)
+5. "Plenitude: The New Economics of True Wealth" by Juliet B. Schor. [Book Link](https://www.amazon.com/Plenitude-New-Economics-True-Wealth/dp/1594202540/ref=nosim?tag=financialfall-20)
 This book explores how conventional ideas of growth and wealth can actually hinder our capacity for happiness and overall wellbeing.
 
 6. Hedonic adaptation. [Wiki Link](https://en.wikipedia.org/wiki/Hedonic_treadmill)

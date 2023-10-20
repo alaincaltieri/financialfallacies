@@ -23,13 +23,13 @@ Correct financial behavior would be evaluating your own financial circumstances,
 Further Readings Specific to This Fallacy:
 
 
-1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
+1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20)
 Book discussing proper personal finance habits including understanding loans.
 
-2. "The Two-Income Trap" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907)
+2. "The Two-Income Trap" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907/ref=nosim?tag=financialfall-20)
 Book which discusses the dangers of overreliance on credit and loans.
 
 3. "4 Big Risks Of Taking Out A Long-Term Car Loan" on Forbes. [Article Link](https://www.forbes.com/sites/nextavenue/2017/05/16/4-big-risks-of-taking-out-a-long-term-car-loan/)
 
-4. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474).
+4. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20).
 Includes a chapter on the habits of millionaires when buying a car.

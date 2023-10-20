@@ -22,7 +22,7 @@ The correct financial behavior acknowledges the simultaneous necessity of both p
 
 Further readings:
 
-1. "The Automatic Millionaire: A Powerful One-step Plan to Live and Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0767923820)
+1. "The Automatic Millionaire: A Powerful One-step Plan to Live and Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0767923820/ref=nosim?tag=financialfall-20)
 This book showcases the importance of automatic savings and debt repayment.
 
 2. "Is It Better To Save Or Pay Off Debt?" on Forbes. [Article Link](https://www.forbes.com/advisor/banking/saving-vs-paying-down-debt/)

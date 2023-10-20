@@ -22,10 +22,10 @@ The correct financial behaviour is to spend within your means - that is, to make
 
 Further reading:
 
-1. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin & Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766).
+1. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin & Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20).
 A book that delves into the principles of living within your means.
 
-2. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X).
+2. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X/ref=nosim?tag=financialfall-20).
 A book providing practical tips to get out of the trap of credit and achieve financial freedom.
 
 3. Article: "The Plastic Safety Net: How Households are Coping in a Fragile Economy" published by Demos. [Article Link](https://www.demos.org/research/plastic-safety-net-2009-how-households-are-coping-fragile-economy).

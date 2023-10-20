@@ -21,8 +21,8 @@ Correct financial behavior involves informed decision-making, understanding your
 
 Further readings:
 
-1. "A Random Walk Down Wall Street” by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338)
+1. "A Random Walk Down Wall Street” by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
 
-2. "The Intelligent Investor” by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661)
+2. "The Intelligent Investor” by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20)
 
-3. "Thinking, Fast and Slow" by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)
+3. "Thinking, Fast and Slow" by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=nosim?tag=financialfall-20)

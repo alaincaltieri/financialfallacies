@@ -31,5 +31,5 @@ A research report about the detrimental impact of payday loans on military perso
 3. "Payday Loans". [Wiki Link](https://en.wikipedia.org/wiki/Payday_loan)
 This Wikipedia page provides an overview of payday loans, their structure, and criticism.
 
-4. "The Two-Income Trap: Why Middle-Class Parents are Going Broke" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907)
+4. "The Two-Income Trap: Why Middle-Class Parents are Going Broke" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907/ref=nosim?tag=financialfall-20)
 The authors offer an insight into why families might fall into the payday loan trap, alongside strategies to avoid it.

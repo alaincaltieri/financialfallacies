@@ -24,7 +24,7 @@ The correct financial behaviour is to maintain both insurance and an emergency f
 
 Here are some readings that are informative on this topic:
 
-1. "Personal Finance For Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Personal-Finance-Dummies-Eric-Tyson/dp/1119517893)
+1. "Personal Finance For Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Personal-Finance-Dummies-Eric-Tyson/dp/1119517893/ref=nosim?tag=financialfall-20)
 This book provides a deep understanding of various aspects of personal finance, including the importance of an emergency fund.
 
 2. "Emergency Fund" on Investopedia. [Article Link](https://www.investopedia.com/terms/e/emergency_fund.asp)

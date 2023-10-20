@@ -33,5 +33,5 @@ This article provides practical tips for those who started saving late.
 5. "Individual Retirement Account". [Wiki Link](https://en.wikipedia.org/wiki/Individual_retirement_account).
 It explains what an individual retirement account is and how it can be beneficial for those starting to save later in life.
 
-6. "How to Retire Happy: The 12 Most Important Decisions You Must Make Before You Retire" by Stan Hinden. [Book Link](https://www.amazon.com/How-Retire-Happy-Important-Decisions/dp/0071464662).
+6. "How to Retire Happy: The 12 Most Important Decisions You Must Make Before You Retire" by Stan Hinden. [Book Link](https://www.amazon.com/How-Retire-Happy-Important-Decisions/dp/0071464662/ref=nosim?tag=financialfall-20).
 This book provides guidance for making key decisions about retirement savings at any age.

@@ -22,13 +22,13 @@ The correct financial behavior would involve prioritizing saving and investing, 
 
 Further readings:
 
-1. "Your Money Ratios: 8 Simple Tools for Financial Security" by Charles Farrell. [Book Link](https://www.amazon.com/Your-Money-Ratios-Financial-Security/dp/1583334165).
+1. "Your Money Ratios: 8 Simple Tools for Financial Security" by Charles Farrell. [Book Link](https://www.amazon.com/Your-Money-Ratios-Financial-Security/dp/1583334165/ref=nosim?tag=financialfall-20).
 Farrell addresses this fallacy and offers simple benchmarks for savings and spending at various income levels. 
 
-2. "Stop Acting Rich: And Start Living Like a Real Millionaire" by Thomas J. Stanley. [Book Link](https://www.amazon.com/Stop-Acting-Rich-Living-Millionaire/dp/1118011570)
+2. "Stop Acting Rich: And Start Living Like a Real Millionaire" by Thomas J. Stanley. [Book Link](https://www.amazon.com/Stop-Acting-Rich-Living-Millionaire/dp/1118011570/ref=nosim?tag=financialfall-20)
 This book discusses the fallacy of lifestyle inflation and the lack of savings among high income earners. 
 
-3. "The Psychology of Money: Timeless lessons on wealth, greed, and happiness" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681).
+3. "The Psychology of Money: Timeless lessons on wealth, greed, and happiness" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=nosim?tag=financialfall-20).
 This book explores the psychological reasons behind why we think the way we do about money and how to change our mindset.
 
 5. "Lifestyle creep" [Wiki Link](https://en.wikipedia.org/wiki/Lifestyle_creep).

@@ -21,16 +21,16 @@ The correct financial behaviour is to create, maintain and adhere to a budget. T
 
 Recommended Further Readings: 
 
-1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
+1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20)
 A classic book offering a profound outlook on how to manage your finances and live a more fulfilled life.
 
-2. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
+2. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20)
 This book provides practical advice and steps for developing a robust and effective budget.
 
-3. "Smart Money Smart Kids" by Dave Ramsey and Rachel Cruze. [Book Link](https://www.amazon.com/Smart-Money-Kids-Raising-Generation/dp/1937077632)
+3. "Smart Money Smart Kids" by Dave Ramsey and Rachel Cruze. [Book Link](https://www.amazon.com/Smart-Money-Kids-Raising-Generation/dp/1937077632/ref=nosim?tag=financialfall-20)
 Helpful reading for parents aiming to instil sound financial habits in their children.
 
-4. "Financial Peace Revisited: New Chapters on Marriage, Singles, Kids and Families" by Dave Ramsey. [Book Link](https://www.amazon.com/Financial-Peace-Revisited-Chapters-Marriage/dp/0670032085)
+4. "Financial Peace Revisited: New Chapters on Marriage, Singles, Kids and Families" by Dave Ramsey. [Book Link](https://www.amazon.com/Financial-Peace-Revisited-Chapters-Marriage/dp/0670032085/ref=nosim?tag=financialfall-20)
 Provides a comprehensive take on personal finance and how to budget. 
 
 5. "Personal Budget". [Wiki Link](https://en.wikipedia.org/wiki/Personal_budget)

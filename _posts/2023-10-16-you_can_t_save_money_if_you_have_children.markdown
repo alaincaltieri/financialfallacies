@@ -21,16 +21,16 @@ The correct financial behaviour when you have children or are planning to have t
 
 Further readings specific to this fallacy:
 
-1. "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money" by Ron Lieber. [Book Link](https://www.amazon.com/Opposite-Spoiled-Raising-Grounded-Generous/dp/0062247026).
+1. "The Opposite of Spoiled: Raising Kids Who Are Grounded, Generous, and Smart About Money" by Ron Lieber. [Book Link](https://www.amazon.com/Opposite-Spoiled-Raising-Grounded-Generous/dp/0062247026/ref=nosim?tag=financialfall-20).
 This book provides valuable insights about raising financially smart children.
 
-2. "Zero Debt for College Grads: From Student Loans to Financial Freedom" by Lynnette Khalfani-Cox. [Book Link](https://www.amazon.com/Zero-Debt-College-Grads-Financial/dp/1932450106).
+2. "Zero Debt for College Grads: From Student Loans to Financial Freedom" by Lynnette Khalfani-Cox. [Book Link](https://www.amazon.com/Zero-Debt-College-Grads-Financial/dp/1932450106/ref=nosim?tag=financialfall-20).
 This book shares strategies on managing and eventually eliminating student loan debt.
 
-3. "Raising Financially Fit Kids" by Joline Godfrey. [Book Link](https://www.amazon.com/Raising-Financially-Fit-Kids-Revised/dp/1607744082)
+3. "Raising Financially Fit Kids" by Joline Godfrey. [Book Link](https://www.amazon.com/Raising-Financially-Fit-Kids-Revised/dp/1607744082/ref=nosim?tag=financialfall-20)
 This book offers guidance on teaching financial literacy to kids.
 
-4. "Smart Money Smart Kids: Raising the Next Generation to Win with Money" by Dave Ramsey and Rachel Cruze. [Book Link](https://www.amazon.com/Smart-Money-Kids-Raising-Generation/dp/1937077632)
+4. "Smart Money Smart Kids: Raising the Next Generation to Win with Money" by Dave Ramsey and Rachel Cruze. [Book Link](https://www.amazon.com/Smart-Money-Kids-Raising-Generation/dp/1937077632/ref=nosim?tag=financialfall-20)
 This resource offers practical advice on raising money-smart kids.
 
 5. "How to Save for College and Retirement at the Same Time" on CNBC. [Article Link](https://www.cnbc.com/select/how-to-save-for-college-and-retirement-at-the-same-time/)

@@ -26,10 +26,10 @@ The correct financial behaviour in relation to education would be conducting a f
 Further Readings:
 1. "Will College Pay Off?: A Guide to the Most Important Financial Decision You'll Ever Make" - Peter Cappelli. [Book Link](https://music.amazon.com/es-cl/podcasts/1145ebdf-dc85-4939-a6e5-1636548aa19c/what's-brewing-cccsfaaa)
 
-2. "The Case against Education: Why the Education System Is a Waste of Time and Money" – Bryan Caplan. [Book Link](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652)
+2. "The Case against Education: Why the Education System Is a Waste of Time and Money" – Bryan Caplan. [Book Link](https://www.amazon.com/Case-against-Education-System-Waste/dp/0691174652/ref=nosim?tag=financialfall-20)
 
 3. "The Return on Investing in a College Education" – Federal Reserve Bank of St. Louis. [Report Link](https://www.stlouisfed.org/publications/regional-economist/2023/mar/return-investing-college-education)
 
-4. "Paying the Price: College Costs, Financial Aid, and the Betrayal of the American Dream” - Sara Goldrick-Rab. [Book Link](https://www.amazon.com/Paying-Price-Financial-Betrayal-American/dp/022640434X)
+4. "Paying the Price: College Costs, Financial Aid, and the Betrayal of the American Dream” - Sara Goldrick-Rab. [Book Link](https://www.amazon.com/Paying-Price-Financial-Betrayal-American/dp/022640434X/ref=nosim?tag=financialfall-20)
 
 5. "Return on Investment". [Wiki Link](https://en.wikipedia.org/wiki/Return_on_investment).

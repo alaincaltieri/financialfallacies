@@ -28,13 +28,13 @@ Correct Financial Behavior: Rather than assuming owning is always better, indivi
 
 Further Readings:
 
-1. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X)
+1. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X/ref=nosim?tag=financialfall-20)
 This book provides a comprehensive guide for personal finance, including a balanced view of home ownership.
 
-2. "The Wealthy Renter: How to Choose Housing That Will Make You Rich" by Alex Avery. [Book Link](https://www.amazon.com/Wealthy-Renter-Choose-Housing-That/dp/145973646X)
+2. "The Wealthy Renter: How to Choose Housing That Will Make You Rich" by Alex Avery. [Book Link](https://www.amazon.com/Wealthy-Renter-Choose-Housing-That/dp/145973646X/ref=nosim?tag=financialfall-20)
 An explicit debunking of the fallacy, promoting a view of rental as a path to wealth generation.
 
-3. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Dad-14-book-series/dp/B07VVJCTKP)
+3. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Dad-14-book-series/dp/B07VVJCTKP/ref=nosim?tag=financialfall-20)
 Offers a perspective on real estate investment, which includes both owning and renting.
 
 6. "Renting". [Wiki Link](https://en.wikipedia.org/wiki/Renting)

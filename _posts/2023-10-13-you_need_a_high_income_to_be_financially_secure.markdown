@@ -23,20 +23,20 @@ The correct financial behaviour involves responsible financial management. This 
 
 Further Readings:
 
-1. "Your Money or Your Life" by Joe Dominguez and Vicki Robin. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
+1. "Your Money or Your Life" by Joe Dominguez and Vicki Robin. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20)
 This book outlines a program for transforming your relationship with money and achieving financial independence.
 
-2. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Quadrant-Financial/dp/0751532800)
+2. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Quadrant-Financial/dp/0751532800/ref=nosim?tag=financialfall-20)
 This book focuses on the contrast of a man who lacks money management skills with a high income (poor dad) and a man with good money management skills but a moderate income (rich dad).
 
-3. "The Millionaire Next Door" by Thomas Stanley and William Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
+3. "The Millionaire Next Door" by Thomas Stanley and William Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20)
 This book shows how most millionaires are people with average income who live below their means and focus on saving and investing.
 
-4. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277)
+4. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20)
 The book outlines seven easy-to-follow steps that will lead you out of debt, into a Total Money Makeover.
 
-5. "How to Manage Your Money When You Don't Have Any" by Erik Wecks. [Book Link](https://www.amazon.com/Manage-Your-Money-When-Second-ebook/dp/B007IUGLYO)
+5. "How to Manage Your Money When You Don't Have Any" by Erik Wecks. [Book Link](https://www.amazon.com/Manage-Your-Money-When-Second-ebook/dp/B007IUGLYO/ref=nosim?tag=financialfall-20)
 A helpful guide for people with low income in managing finances effectively.
 
-6. "$2.00 a Day: Living on Almost Nothing in America" by Kathryn J. Edin. [Book Link](https://www.amazon.com/2-00-Day-Living-Nothing-America/dp/054481195X).
+6. "$2.00 a Day: Living on Almost Nothing in America" by Kathryn J. Edin. [Book Link](https://www.amazon.com/2-00-Day-Living-Nothing-America/dp/054481195X/ref=nosim?tag=financialfall-20).
 This book extensively covers how people with low income survive in America. 

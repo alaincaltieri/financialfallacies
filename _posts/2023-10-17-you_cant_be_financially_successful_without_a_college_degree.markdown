@@ -24,9 +24,9 @@ True financial success comes from a combination of factors such as financial lit
 The correct financial behaviour involves managing your money wisely. This includes making a budget and sticking to it, saving a portion of your income, investing sensibly, and minimizing debt. It also involves continuously educating yourself about personal finance, whether or not you have a formal education.
 
 For further reading on this topic, here are some resources:
-1. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474)
+1. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20)
 
-2. "Rich Dad Poor Dad" by Robert T. Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Quadrant-Financial/dp/0751532800)
+2. "Rich Dad Poor Dad" by Robert T. Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Quadrant-Financial/dp/0751532800/ref=nosim?tag=financialfall-20)
 
 3. "A College Degree Is No Guarantee of a Good Life", The Atlantic. [Article Link](https://www.theatlantic.com/family/archive/2020/07/will-going-college-make-you-happier/613729/)
 

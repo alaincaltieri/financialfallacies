@@ -29,7 +29,7 @@ The correct financial behavior would be to establish an emergency fund, even if 
 
 These resources can further elaborate on this financial fallacy:
 
-1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
+1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20)
 This book discusses personal finance as a holistic subject, dealing with emergency funds and credit card use.
 
 2. "Why Credit Cards Aren’t an Ideal Emergency Fund, and How to Build One" on NerdWallet [Article Link](https://www.nerdwallet.com/article/credit-cards/credit-card-is-not-an-emergency-fund)

@@ -24,13 +24,13 @@ The correct financial behavior is to make investment decisions based on thorough
 
 List of further readings:
 
-1. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X)
+1. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Financial-Fitness/dp/159555078X/ref=nosim?tag=financialfall-20)
 While not directly about the fallacy, this book gives a great overview of how to manage personal finances and makes the reader understand the risks of speculative investments.
    
-2. "Zillow Talk: Rewriting the Rules of Real Estate" by Spencer Rascoff. [Book Link](https://www.amazon.com/Zillow-Talk-audiobook/dp/B00QXIUG2A).
+2. "Zillow Talk: Rewriting the Rules of Real Estate" by Spencer Rascoff. [Book Link](https://www.amazon.com/Zillow-Talk-audiobook/dp/B00QXIUG2A/ref=nosim?tag=financialfall-20).
 This book discusses various aspects of real estate investment and points out common misconceptions. 
 
-3. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661).
+3. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20).
 It's a classic book in investment, touching the basic principle of managing risk in investment, including in real estate.
 
 4. "Housing Bubble". [Wiki Link](https://en.wikipedia.org/wiki/2000s_United_States_housing_bubble). - a Wikipedia entry providing insight into the volatility of the real estate market, which further illustrates why betting on an "up-and-coming" neighborhood could be risky.

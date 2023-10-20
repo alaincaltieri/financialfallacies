@@ -26,7 +26,7 @@ Further readings on this fallacy:
 
 1. "Concentrated vs. Diversified Portfolios" by J.B. Maverick on Investopedia. [Article Link](https://www.investopedia.com/articles/investing/030916/concentrated-vs-diversified-portfolios-comparing-pros-and-cons.asp)
 
-2. "The Four Pillars of Investing: Lessons for Building a Winning Portfolio" by William J. Bernstein. [Book Link](https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071747052)
+2. "The Four Pillars of Investing: Lessons for Building a Winning Portfolio" by William J. Bernstein. [Book Link](https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071747052/ref=nosim?tag=financialfall-20)
 A chapter discusses dangers of non-diversification.
 
 3. "Company Stock Ownership: The Risks Outweigh the Rewards" [Morningstar article](https://www.morningstar.com/financial-advice/company-stock-ownership-risks-outweigh-rewards)

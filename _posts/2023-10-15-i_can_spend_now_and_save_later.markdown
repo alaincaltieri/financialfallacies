@@ -23,10 +23,10 @@ The correct financial behavior is to save and invest consistently from an early 
 
 Further readings related to this financial fallacy:
 
-1. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766)
+1. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20)
 
 2. "Compound Interest" [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest).
 This article provides an in-depth explanation of the concept of compound interest and illustrates how saving early pays off.
 
-3. "More Than Enough: The Ten Keys to Changing Your Financial Destiny" by Dave Ramsey. [Book Link](https://www.amazon.com/More-than-Enough-Changing-Financial/dp/0142000477)
+3. "More Than Enough: The Ten Keys to Changing Your Financial Destiny" by Dave Ramsey. [Book Link](https://www.amazon.com/More-than-Enough-Changing-Financial/dp/0142000477/ref=nosim?tag=financialfall-20)
 This book gives insights into why waiting to save can lead to financial distress and offers guidance on how to steer clear of such pitfalls.
