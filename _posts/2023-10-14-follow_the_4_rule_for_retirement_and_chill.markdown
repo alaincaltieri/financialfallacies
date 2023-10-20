@@ -38,16 +38,16 @@ The correct financial behaviour for retirement planning should include:
 
 Further readings specific to this fallacy are:
 
-1. "The 4% Rule: The Easy Answer to ‘How Much Do I Need for Retirement?" by Mr Money Mustache. [Article Link](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/)
+1. "The 4% Rule: The Easy Answer to ‘How Much Do I Need for Retirement?" by Mr Money Mustache. [Article Link](https://www.mrmoneymustache.com/2012/05/29/how-much-do-i-need-for-retirement/){:target="_blank"}
    
-2. "The Only Guide You'll Ever Need for the Right Financial Plan: Managing Your Wealth, Risk, and Investments" by Larry E. Swedroe. [Book Link](https://www.amazon.com/Only-Guide-Youll-Right-Financial-ebook/dp/B003VIWROU/ref=nosim?tag=financialfall-20).
+2. "The Only Guide You'll Ever Need for the Right Financial Plan: Managing Your Wealth, Risk, and Investments" by Larry E. Swedroe. [Book Link](https://www.amazon.com/Only-Guide-Youll-Right-Financial-ebook/dp/B003VIWROU/ref=nosim?tag=financialfall-20){:target="_blank"}.
 
-3.  "Retirement spend-down" [Wiki Link](https://en.wikipedia.org/wiki/Retirement_spend-down).
+3.  "Retirement spend-down" [Wiki Link](https://en.wikipedia.org/wiki/Retirement_spend-down){:target="_blank"}.
 
-4. "How Much Can I Spend in Retirement?: A Guide to Investment-Based Retirement Income Strategies" by Wade D. Pfau. [Book Link](https://www.amazon.com/How-Much-Spend-Retirement-Investment-Based/dp/1945640022/ref=nosim?tag=financialfall-20)
+4. "How Much Can I Spend in Retirement?: A Guide to Investment-Based Retirement Income Strategies" by Wade D. Pfau. [Book Link](https://www.amazon.com/How-Much-Spend-Retirement-Investment-Based/dp/1945640022/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-6. "Retire Secure!: A Guide to Getting the Most out of What You've Got" by James Lange. [Book Link](https://www.amazon.com/Retire-Secure-Guide-Getting-Youve/dp/0990358836/ref=nosim?tag=financialfall-20).
+6. "Retire Secure!: A Guide to Getting the Most out of What You've Got" by James Lange. [Book Link](https://www.amazon.com/Retire-Secure-Guide-Getting-Youve/dp/0990358836/ref=nosim?tag=financialfall-20){:target="_blank"}.
 
-7. "The 4% Rule for Retirement (FIRE)" by Ben Felix. [Video Link](https://youtu.be/z7rH7h7ljHg?si=AKTyjAP5BpQsuApY)
+7. "The 4% Rule for Retirement (FIRE)" by Ben Felix. [Video Link](https://youtu.be/z7rH7h7ljHg?si=AKTyjAP5BpQsuApY){:target="_blank"}
    
 These readings will provide a more comprehensive understanding of why the 4% rule may not be an absolute and definitive rule for retirement planning. The main tip to take away is the importance of personalized finance management.

@@ -24,13 +24,13 @@ Building a diverse portfolio, regularly contributing to it, and having a long-te
 
 Further Readings:
 
-1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
+1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book covers a variety of investment options, demonstrating it's possible to start small.
 
-2. "The Little Book of Common Sense Investing" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509/ref=nosim?tag=financialfall-20).
+2. "The Little Book of Common Sense Investing" by John C. Bogle. [Book Link](https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Highlights the benefits of starting small and growing your investments over time.
 
-3. "Compound interest". [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest).
+3. "Compound interest". [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest){:target="_blank"}.
 
-4. "Micro investing". [Wiki Link](https://en.wikipedia.org/wiki/Micro-investing)
+4. "Micro investing". [Wiki Link](https://en.wikipedia.org/wiki/Micro-investing){:target="_blank"}
 A full in-depth view of investing with small amounts of money, showcasing it as a viable financial strategy and debunking the fallacy.

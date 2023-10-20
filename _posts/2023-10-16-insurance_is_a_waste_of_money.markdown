@@ -22,16 +22,16 @@ The correct financial behaviour suggests that one should judiciously invest in d
 
 Further Readings: 
 
-1. "Against the Gods: The Remarkable Story of Risk" by Peter L. Bernstein. [Book Link](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639/ref=nosim?tag=financialfall-20).
+1. "Against the Gods: The Remarkable Story of Risk" by Peter L. Bernstein. [Book Link](https://www.amazon.com/Against-Gods-Remarkable-Story-Risk/dp/0471295639/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book offers a comprehensive look at the concept of risk and its management throughout history. 
 
-2. "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945/ref=nosim?tag=financialfall-20)
+2. "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945/ref=nosim?tag=financialfall-20){:target="_blank"}
 A comprehensive guide to understanding the basics of various types of insurance and their importance. 
 
-3. "Insurance" [Wiki Link](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act).
+3. "Insurance" [Wiki Link](https://en.wikipedia.org/wiki/Health_Insurance_Portability_and_Accountability_Act){:target="_blank"}.
 
-4. "Life insurance" [Wiki Link](https://en.wikipedia.org/wiki/Life_insurance).
+4. "Life insurance" [Wiki Link](https://en.wikipedia.org/wiki/Life_insurance){:target="_blank"}.
 
-5. "Why Health Insurance Is Important" by the U.S Department of Health and Human Services. [Article Link](https://www.healthcare.gov/why-coverage-is-important/)
+5. "Why Health Insurance Is Important" by the U.S Department of Health and Human Services. [Article Link](https://www.healthcare.gov/why-coverage-is-important/){:target="_blank"}
 This article explains the significance of health insurance.
 

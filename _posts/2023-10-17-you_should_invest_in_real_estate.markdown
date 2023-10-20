@@ -22,21 +22,21 @@ The correct financial behavior should be aligning your investments with your per
 
 Further readings for more insight into this fallacy:
 
-1. "The Millionaire Real Estate Investor" by Gary Keller. [Book Link](https://www.amazon.com/Millionaire-Real-Estate-Investor/dp/0071446370/ref=nosim?tag=financialfall-20)
+1. "The Millionaire Real Estate Investor" by Gary Keller. [Book Link](https://www.amazon.com/Millionaire-Real-Estate-Investor/dp/0071446370/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book shares insights about the myths that hold people back from making sound investment decisions.
    
-2. "The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Smart Buy & Hold Real Estate Investing" by Brandon Turner. [Book Link](https://www.amazon.com/Book-Rental-Property-Investing-Passive/dp/B0195LQU2G/ref=nosim?tag=financialfall-20)
+2. "The Book on Rental Property Investing: How to Create Wealth and Passive Income Through Smart Buy & Hold Real Estate Investing" by Brandon Turner. [Book Link](https://www.amazon.com/Book-Rental-Property-Investing-Passive/dp/B0195LQU2G/ref=nosim?tag=financialfall-20){:target="_blank"}
 Takes a different approach, showcasing benefits of real estate investing when done right.
    
-3. "Is Real Estate Investing Safe?" by Investopedia. [Article Link](https://www.investopedia.com/articles/investing/122415/why-real-estate-risky-investment.asp)
+3. "Is Real Estate Investing Safe?" by Investopedia. [Article Link](https://www.investopedia.com/articles/investing/122415/why-real-estate-risky-investment.asp){:target="_blank"}
 An in-depth look into the potential pitfalls of real estate investing
    
-4. "Real Estate Finance and Investments" by William Brueggeman and Jeffrey Fisher. [Book Link](https://www.amazon.com/Estate-Finance-Investments-McGraw-Hill-Insurance/dp/0073377333/ref=nosim?tag=financialfall-20)
+4. "Real Estate Finance and Investments" by William Brueggeman and Jeffrey Fisher. [Book Link](https://www.amazon.com/Estate-Finance-Investments-McGraw-Hill-Insurance/dp/0073377333/ref=nosim?tag=financialfall-20){:target="_blank"}
 A textbook that provides a comprehensive look into the complexities of real estate investing.
    
-5. Report: "Global Real Estate Market Outlook" by CBRE. [Video Link](https://www.cbre.com/insights/books/midyear-global-real-estate-market-outlook-2023)
+5. Report: "Global Real Estate Market Outlook" by CBRE. [Video Link](https://www.cbre.com/insights/books/midyear-global-real-estate-market-outlook-2023){:target="_blank"}
 Offers a global perspective on real estate investing.
    
-6. Real Estate Investing [Wiki Link](https://en.wikipedia.org/wiki/Real_estate_mortgage_investment_conduit)
+6. Real Estate Investing [Wiki Link](https://en.wikipedia.org/wiki/Real_estate_mortgage_investment_conduit){:target="_blank"}
 A broad overview, including details on different approaches to real estate investing
 

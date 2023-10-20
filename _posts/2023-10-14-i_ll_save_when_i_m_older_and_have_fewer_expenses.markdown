@@ -22,8 +22,8 @@ Correct financial behaviour involves prioritizing savings and investments from a
 
 Further readings on this fallacy:
 
-1. "The Millennial Money Fix: What You Need to Know About Budgeting, Debt, and Finding Financial Freedom" by Douglas and Heather Boneparth. [Book Link](https://www.amazon.com/Millennial-Money-Fix-Budgeting-Financial/dp/1632651041/ref=nosim?tag=financialfall-20)
+1. "The Millennial Money Fix: What You Need to Know About Budgeting, Debt, and Finding Financial Freedom" by Douglas and Heather Boneparth. [Book Link](https://www.amazon.com/Millennial-Money-Fix-Budgeting-Financial/dp/1632651041/ref=nosim?tag=financialfall-20){:target="_blank"}
 An intriguing look at common financial fallacies among millennials and how to fix them.
          
-2. "Power Of Compounding: What Is It and Why Does It Matter?" by ET Money. [Article Link](https://www.etmoney.com/learn/personal-finance/what-is-power-of-compounding-meaning-benefit).
+2. "Power Of Compounding: What Is It and Why Does It Matter?" by ET Money. [Article Link](https://www.etmoney.com/learn/personal-finance/what-is-power-of-compounding-meaning-benefit){:target="_blank"}.
 This article sheds light on the power of compounding and why it's vital to begin saving early.

@@ -22,16 +22,16 @@ The correct financial behavior is to start saving and investing as soon as possi
 
 Further readings:
 
-1. "The Procrastinator's Guide to Retirement: How to Retire in 10 Years or Less" by David Trahair. [Book Link](https://music.amazon.com/es-cl/podcasts/7701ea24-771b-4463-b991-f0ccca4b2a60/real-money-talk---a-fresh-take-on-personal-finance)
+1. "The Procrastinator's Guide to Retirement: How to Retire in 10 Years or Less" by David Trahair. [Book Link](https://music.amazon.com/es-cl/podcasts/7701ea24-771b-4463-b991-f0ccca4b2a60/real-money-talk---a-fresh-take-on-personal-finance){:target="_blank"}
 This book offers a plan to get you retirement-ready in ten years or less. 
 
-2. "When Is It Too Late to Have Nothing Saved for Retirement?" on Investopedia. [Article Link](https://www.investopedia.com/ask/answers/175.asp)
+2. "When Is It Too Late to Have Nothing Saved for Retirement?" on Investopedia. [Article Link](https://www.investopedia.com/ask/answers/175.asp){:target="_blank"}
 
-3. "10 tips to help you boost your retirement savings — whatever your age" on Merrill. [Article Link](https://www.merrilledge.com/article/10-tips-to-help-you-boost-your-retirement-savings-whatever-your-age-ose)
+3. "10 tips to help you boost your retirement savings — whatever your age" on Merrill. [Article Link](https://www.merrilledge.com/article/10-tips-to-help-you-boost-your-retirement-savings-whatever-your-age-ose){:target="_blank"}
 This article provides practical tips for those who started saving late.
 
-5. "Individual Retirement Account". [Wiki Link](https://en.wikipedia.org/wiki/Individual_retirement_account).
+5. "Individual Retirement Account". [Wiki Link](https://en.wikipedia.org/wiki/Individual_retirement_account){:target="_blank"}.
 It explains what an individual retirement account is and how it can be beneficial for those starting to save later in life.
 
-6. "How to Retire Happy: The 12 Most Important Decisions You Must Make Before You Retire" by Stan Hinden. [Book Link](https://www.amazon.com/How-Retire-Happy-Important-Decisions/dp/0071464662/ref=nosim?tag=financialfall-20).
+6. "How to Retire Happy: The 12 Most Important Decisions You Must Make Before You Retire" by Stan Hinden. [Book Link](https://www.amazon.com/How-Retire-Happy-Important-Decisions/dp/0071464662/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book provides guidance for making key decisions about retirement savings at any age.

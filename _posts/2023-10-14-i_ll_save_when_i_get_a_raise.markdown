@@ -22,18 +22,18 @@ The correct financial behavior would involve prioritizing saving and investing, 
 
 Further readings:
 
-1. "Your Money Ratios: 8 Simple Tools for Financial Security" by Charles Farrell. [Book Link](https://www.amazon.com/Your-Money-Ratios-Financial-Security/dp/1583334165/ref=nosim?tag=financialfall-20).
+1. "Your Money Ratios: 8 Simple Tools for Financial Security" by Charles Farrell. [Book Link](https://www.amazon.com/Your-Money-Ratios-Financial-Security/dp/1583334165/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Farrell addresses this fallacy and offers simple benchmarks for savings and spending at various income levels. 
 
-2. "Stop Acting Rich: And Start Living Like a Real Millionaire" by Thomas J. Stanley. [Book Link](https://www.amazon.com/Stop-Acting-Rich-Living-Millionaire/dp/1118011570/ref=nosim?tag=financialfall-20)
+2. "Stop Acting Rich: And Start Living Like a Real Millionaire" by Thomas J. Stanley. [Book Link](https://www.amazon.com/Stop-Acting-Rich-Living-Millionaire/dp/1118011570/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book discusses the fallacy of lifestyle inflation and the lack of savings among high income earners. 
 
-3. "The Psychology of Money: Timeless lessons on wealth, greed, and happiness" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=nosim?tag=financialfall-20).
+3. "The Psychology of Money: Timeless lessons on wealth, greed, and happiness" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book explores the psychological reasons behind why we think the way we do about money and how to change our mindset.
 
-5. "Lifestyle creep" [Wiki Link](https://en.wikipedia.org/wiki/Lifestyle_creep).
+5. "Lifestyle creep" [Wiki Link](https://en.wikipedia.org/wiki/Lifestyle_creep){:target="_blank"}.
 
-6. "Saving for tomorrow, tomorrow" by Shlomo Benartzi. [Ted Talk](https://www.ted.com/talks/shlomo_benartzi_saving_for_tomorrow_tomorrow?language=en)
+6. "Saving for tomorrow, tomorrow" by Shlomo Benartzi. [Ted Talk](https://www.ted.com/talks/shlomo_benartzi_saving_for_tomorrow_tomorrow?language=en){:target="_blank"}
 In this TED talk some common fallacies about saving are exposed and an automatic strategy to fix the system is proposed.
 
 Please note that these resources offer a robust exploration of this topic, suitable for both beginners and those seeking to deepen their understanding of personal finance.

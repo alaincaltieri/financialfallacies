@@ -21,17 +21,17 @@ The correct financial behavior involves a well-diversified investment portfolio 
 
 Further Readings:
 
-1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20).
+1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This classic book provides an overview of different types of investments and warns against speculative investment strategies.
 
-2. "Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond" by Chris Burniske and Jack Tatar. [Book Link](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=nosim?tag=financialfall-20).
+2. "Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond" by Chris Burniske and Jack Tatar. [Book Link](https://www.amazon.com/Cryptoassets-Innovative-Investors-Bitcoin-Beyond/dp/1260026671/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Although it discusses the potential of cryptocurrencies, it also presents their risks and uncertainties.
 
-3. "Cryptocurrency and crime". [Wiki Link](https://en.wikipedia.org/wiki/Cryptocurrency_and_crime). 
+3. "Cryptocurrency and crime". [Wiki Link](https://en.wikipedia.org/wiki/Cryptocurrency_and_crime){:target="_blank"}. 
 This page provides a comprehensive view on the risks and security concerns associated with cryptocurrencies.
 
-4. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20).
+4. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book offers timeless investment advice and notably emphasizes the difference between investing and speculating.
 
-5. "Cryptocurrencies: looking beyond the hype" by the Bank for International Settlements. [Report Link](https://www.bis.org/publ/arpdf/ar2018e5.htm)
+5. "Cryptocurrencies: looking beyond the hype" by the Bank for International Settlements. [Report Link](https://www.bis.org/publ/arpdf/ar2018e5.htm){:target="_blank"}
 A report that assesses the potential and the risks of cryptocurrencies as a new form of asset.

@@ -21,17 +21,17 @@ The correct financial behaviour revolves around effective debt management. It's 
 
 For further reading on this financial fallacy:
 
-1. "Rich Dad, Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20)
+1. "Rich Dad, Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book explains the concepts of good and bad debt in simple language, using real-life examples.
 
-2. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20)
+2. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20){:target="_blank"}
 An age-old classic that touches upon the wise use of debt and other financial wisdom.
 
-3. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20)
+3. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20){:target="_blank"}
 Discusses the common economic behaviors of individuals who successfully accumulate wealth, and challenges misconceptions about wealth and financial planning.
 
-4. [Report] "Consumer Credit Reports: A Study of Medical and Non-Medical Collections" by Consumer Financial Protection Bureau. [Report Link](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-reports-a-study-of-medical-and-non-medical-collections/)
+4. [Report] "Consumer Credit Reports: A Study of Medical and Non-Medical Collections" by Consumer Financial Protection Bureau. [Report Link](https://www.consumerfinance.gov/data-research/research-reports/consumer-credit-reports-a-study-of-medical-and-non-medical-collections/){:target="_blank"}
 A deep dive into types of debts and how they influence credit reports and scores.
 
-5. "Debt". [Wiki Link](https://en.wikipedia.org/wiki/List_of_countries_by_external_debt)
+5. "Debt". [Wiki Link](https://en.wikipedia.org/wiki/List_of_countries_by_external_debt){:target="_blank"}
 The Wikipedia page on Debt provides an overview of the concept and forms/types of debts. Make sure to read the "Consumer Debt" section for specific information related to this fallacy.

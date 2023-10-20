@@ -24,13 +24,13 @@ Instead of falling for quick schemes, the correct approach towards financial gro
 
 Recommended readings:
 
-1. "Scam Me If You Can: Simple Strategies to Outsmart Today's Rip-off Artists" by Frank Abagnale. [Book Link](https://www.amazon.com/Scam-Me-You-Can-Strategies/dp/0525538968/ref=nosim?tag=financialfall-20)
+1. "Scam Me If You Can: Simple Strategies to Outsmart Today's Rip-off Artists" by Frank Abagnale. [Book Link](https://www.amazon.com/Scam-Me-You-Can-Strategies/dp/0525538968/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-2. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20)
+2. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-3. "Fool's Gold: Meaning, Avoiding bad Investments, Grammar" on Investopedia. [Article Link](https://www.investopedia.com/terms/f/foolsgold.asp)
+3. "Fool's Gold: Meaning, Avoiding bad Investments, Grammar" on Investopedia. [Article Link](https://www.investopedia.com/terms/f/foolsgold.asp){:target="_blank"}
 
-4. "Get-rich-quick scheme" [Wiki Link](https://en.wikipedia.org/wiki/Get-rich-quick_scheme)
+4. "Get-rich-quick scheme" [Wiki Link](https://en.wikipedia.org/wiki/Get-rich-quick_scheme){:target="_blank"}
 Provides a good overall understanding of the nature of these schemes and why they often fail.
 
-5. "The Index Card: Why Personal Finance Doesn't Have to Be Complicated" by Helaine Olen and Harold Pollack. [Book Link](https://www.amazon.com/Index-Card-Personal-Finance-Complicated/dp/1591847680/ref=nosim?tag=financialfall-20)
+5. "The Index Card: Why Personal Finance Doesn't Have to Be Complicated" by Helaine Olen and Harold Pollack. [Book Link](https://www.amazon.com/Index-Card-Personal-Finance-Complicated/dp/1591847680/ref=nosim?tag=financialfall-20){:target="_blank"}

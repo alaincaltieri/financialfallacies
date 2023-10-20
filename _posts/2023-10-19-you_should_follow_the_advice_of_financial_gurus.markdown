@@ -25,10 +25,10 @@ The correct financial behavior would involve creating a financial plan based on 
 
 Further readings:
 
-1. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20)
+1. "The Richest Man in Babylon" by George S. Clason. [Book Link](https://www.amazon.com/Richest-Man-Babylon-George-Clason/dp/1505339111/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-2. "The Only Investment Guide You'll Ever Need" by Andrew Tobias. [Book Link](https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937/ref=nosim?tag=financialfall-20)
+2. "The Only Investment Guide You'll Ever Need" by Andrew Tobias. [Book Link](https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-3. "Personal Finance for Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Personal-Finance-Dummies-Eric-Tyson/dp/1119517893/ref=nosim?tag=financialfall-20)
+3. "Personal Finance for Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Personal-Finance-Dummies-Eric-Tyson/dp/1119517893/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-4. "Investment style". [Wiki Link](https://en.wikipedia.org/wiki/Investment_style)
+4. "Investment style". [Wiki Link](https://en.wikipedia.org/wiki/Investment_style){:target="_blank"}

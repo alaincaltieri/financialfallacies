@@ -24,12 +24,12 @@ The appropriate financial behavior is to diversify your investments to ensure a 
 
 Further readings on this fallacy:
 
-1. "Concentrated vs. Diversified Portfolios" by J.B. Maverick on Investopedia. [Article Link](https://www.investopedia.com/articles/investing/030916/concentrated-vs-diversified-portfolios-comparing-pros-and-cons.asp)
+1. "Concentrated vs. Diversified Portfolios" by J.B. Maverick on Investopedia. [Article Link](https://www.investopedia.com/articles/investing/030916/concentrated-vs-diversified-portfolios-comparing-pros-and-cons.asp){:target="_blank"}
 
-2. "The Four Pillars of Investing: Lessons for Building a Winning Portfolio" by William J. Bernstein. [Book Link](https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071747052/ref=nosim?tag=financialfall-20)
+2. "The Four Pillars of Investing: Lessons for Building a Winning Portfolio" by William J. Bernstein. [Book Link](https://www.amazon.com/Four-Pillars-Investing-Building-Portfolio/dp/0071747052/ref=nosim?tag=financialfall-20){:target="_blank"}
 A chapter discusses dangers of non-diversification.
 
-3. "Company Stock Ownership: The Risks Outweigh the Rewards" [Morningstar article](https://www.morningstar.com/financial-advice/company-stock-ownership-risks-outweigh-rewards)
+3. "Company Stock Ownership: The Risks Outweigh the Rewards" [Morningstar article](https://www.morningstar.com/financial-advice/company-stock-ownership-risks-outweigh-rewards){:target="_blank"}
 
-4. "Investment diversification". [Wiki Link](https://en.wikipedia.org/wiki/Domain_Developers_Fund)
+4. "Investment diversification". [Wiki Link](https://en.wikipedia.org/wiki/Domain_Developers_Fund){:target="_blank"}
 Comprehensive coverage on the principle of diversification.

@@ -27,15 +27,15 @@ Correct financial behavior involves:
 
 Further Readings:
 
-1. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20)
+1. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20){:target="_blank"}
 
-2. "The MisEducation of the Negro" by Carter G. Woodson. [Book Link](https://www.amazon.com/Mis-Education-Negro-Carter-Godwin-Woodson/dp/086543171X/ref=nosim?tag=financialfall-20).
+2. "The MisEducation of the Negro" by Carter G. Woodson. [Book Link](https://www.amazon.com/Mis-Education-Negro-Carter-Godwin-Woodson/dp/086543171X/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Shows how a degree isn't everything and how it can even become detrimental.
 
-3. "The Millionaire Fastlane: Crack The Code To Wealth and Live Rich For A Lifetime" by MJ DeMarco. [Book Link](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=nosim?tag=financialfall-20)
+3. "The Millionaire Fastlane: Crack The Code To Wealth and Live Rich For A Lifetime" by MJ DeMarco. [Book Link](https://www.amazon.com/Millionaire-Fastlane-Crack-Wealth-Lifetime/dp/0984358102/ref=nosim?tag=financialfall-20){:target="_blank"}
 Breaks down misconceptions around who can become wealthy.
 
-4. "The Education of Millionaires: Everything You Won't Learn in College About How to Be Successful" by Michael Ellsberg. [Book Link](https://www.amazon.com/Education-Millionaires-Everything-College-Successful/dp/1591845610/ref=nosim?tag=financialfall-20). 
+4. "The Education of Millionaires: Everything You Won't Learn in College About How to Be Successful" by Michael Ellsberg. [Book Link](https://www.amazon.com/Education-Millionaires-Everything-College-Successful/dp/1591845610/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 
-5. "The Four-Year Career" by Richard B. Brooke. [Book Link](https://www.amazon.com/The-Four-Year-Career-audiobook/dp/B01C4UR4KC/ref=nosim?tag=financialfall-20).
+5. "The Four-Year Career" by Richard B. Brooke. [Book Link](https://www.amazon.com/The-Four-Year-Career-audiobook/dp/B01C4UR4KC/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Debunks the myth of needing to spend many years and huge amounts of money on a traditional degree.

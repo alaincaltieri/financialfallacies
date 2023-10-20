@@ -22,11 +22,11 @@ The correct financial behavior would involve maintaining a low credit utilizatio
 
 Further readings that are tied to this fallacy are:
 
-1. "What Makes Up Your Credit Score?" on Forbes. [Article Link](https://www.forbes.com/advisor/credit-score/what-makes-up-your-credit-score/)
+1. "What Makes Up Your Credit Score?" on Forbes. [Article Link](https://www.forbes.com/advisor/credit-score/what-makes-up-your-credit-score/){:target="_blank"}
 
-2. "Credit Utilization Ratio: Definition, Calculation, and How To Improve" by Investopedia. [Article Link](https://www.investopedia.com/terms/c/credit-utilization-rate.asp)
+2. "Credit Utilization Ratio: Definition, Calculation, and How To Improve" by Investopedia. [Article Link](https://www.investopedia.com/terms/c/credit-utilization-rate.asp){:target="_blank"}
 
-3. "The truth about credit scores: 10 myths debunked" by USAA. [Article Link](https://www.usaa.com/inet/wc/advice-finances-the-truth-about-credit-scores?akredirect=true)
+3. "The truth about credit scores: 10 myths debunked" by USAA. [Article Link](https://www.usaa.com/inet/wc/advice-finances-the-truth-about-credit-scores?akredirect=true){:target="_blank"}
 
-4. "Credit history". [Wiki Link](https://en.wikipedia.org/wiki/Credit_history)
+4. "Credit history". [Wiki Link](https://en.wikipedia.org/wiki/Credit_history){:target="_blank"}
 Provides a broad overview of credit history and factors influencing credit scores, including credit card utilization.

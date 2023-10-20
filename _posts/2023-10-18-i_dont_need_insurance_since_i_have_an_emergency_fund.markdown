@@ -26,11 +26,11 @@ Accordingly, the correct financial behavior is to both maintain an emergency fun
 
 In-depth readings to gain a deeper understanding into this financial fallacy:
 
-1. Book: "The Total Money Makeover" by Dave Ramsey.[Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20)
+1. Book: "The Total Money Makeover" by Dave Ramsey.[Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}
 Covering the importance of budgeting, building an emergency fund and insuring against life’s risks.
 
-2. Book: "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945/ref=nosim?tag=financialfall-20)
+2. Book: "Insurance for Dummies" by Jack Hungelmann. [Book Link](https://www.amazon.com/Insurance-Dummies-Jack-Hungelmann/dp/0764552945/ref=nosim?tag=financialfall-20){:target="_blank"}
 A comprehensive guide to what insurance is and why we need it.
 
-3. "Rainy Day Fund" [Wiki Link](https://en.wikipedia.org/wiki/Rainy_day_fund)
+3. "Rainy Day Fund" [Wiki Link](https://en.wikipedia.org/wiki/Rainy_day_fund){:target="_blank"}
 Gives a detailed account of what a rainy day fund is and how it fits into personal financial planning.

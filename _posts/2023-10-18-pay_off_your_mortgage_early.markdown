@@ -27,17 +27,17 @@ The correct financial behaviour in this context would be to prioritize paying of
 
 Relevant resources for further reading include:
 
-1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20).
+1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Provides insights on managing debts including home loans.
 
-2. "Bogle on Mutual Funds: New Perspectives For The Intelligent Investor" by John C. Bogle. [Book Link](https://www.amazon.com/Bogle-Mutual-Funds-Perspectives-Intelligent/dp/111908833X/ref=nosim?tag=financialfall-20).
+2. "Bogle on Mutual Funds: New Perspectives For The Intelligent Investor" by John C. Bogle. [Book Link](https://www.amazon.com/Bogle-Mutual-Funds-Perspectives-Intelligent/dp/111908833X/ref=nosim?tag=financialfall-20){:target="_blank"}.
 To learn for whom and when investing is better than paying off low-interest debts.
 
-3. "The Mortgage Wars: Inside Fannie Mae, Big-Money Politics, and the Collapse of the American Dream" by Timothy F. Howard. [Book Link](https://www.amazon.com/Mortgage-Wars-Big-Money-Politics-Collapse/dp/0071821090/ref=nosim?tag=financialfall-20).
+3. "The Mortgage Wars: Inside Fannie Mae, Big-Money Politics, and the Collapse of the American Dream" by Timothy F. Howard. [Book Link](https://www.amazon.com/Mortgage-Wars-Big-Money-Politics-Collapse/dp/0071821090/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Discussion about the mortgage industry.
 
-4. "Home Buying For Dummies" by Eric Tyson and Ray Brown. [Book Link](https://www.amazon.com/Home-Buying-Dummies-Eric-Tyson/dp/0470453656/ref=nosim?tag=financialfall-20).
+4. "Home Buying For Dummies" by Eric Tyson and Ray Brown. [Book Link](https://www.amazon.com/Home-Buying-Dummies-Eric-Tyson/dp/0470453656/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Contains useful advice on managing mortgages.
 
-6. "Mortgage Loan". [Wiki Link](https://en.wikipedia.org/wiki/Mortgage_loan). 
+6. "Mortgage Loan". [Wiki Link](https://en.wikipedia.org/wiki/Mortgage_loan){:target="_blank"}. 
 Understanding the general principles and challenges related with mortgages.

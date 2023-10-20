@@ -21,14 +21,14 @@ The correct financial behavior, on the other hand, is to recognize the role of s
 
 Further Readings: 
 
-1. "The Latte Factor: Why You Don't Have to Be Rich to Live Rich" by David Bach and John David Mann. [Book Link](https://www.amazon.com/Latte-Factor-Dont-Have-Rich/dp/1982120231/ref=nosim?tag=financialfall-20).
+1. "The Latte Factor: Why You Don't Have to Be Rich to Live Rich" by David Bach and John David Mann. [Book Link](https://www.amazon.com/Latte-Factor-Dont-Have-Rich/dp/1982120231/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book tackles this fallacy directly through a compelling narrative about the small expenditures that often go unnoticed.
 
-2. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20).
+2. "Your Money or Your Life: 9 Steps to Transforming Your Relationship with Money and Achieving Financial Independence" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book provides a holistic approach to money management and savings.
 
-4. "The Myth of the Myth of the Latte Millionaire” on Applied Divinity Studies. [Article Link](https://www.applieddivinitystudies.com/latte/)
+4. "The Myth of the Myth of the Latte Millionaire” on Applied Divinity Studies. [Article Link](https://www.applieddivinitystudies.com/latte/){:target="_blank"}
 It debates both sides of the argument presenting a balanced view where cutting out small luxuries might or might not work depending on individual circumstances.
 
-5. "Personal Budget". [Wiki Link](https://en.wikipedia.org/wiki/Personal_budget).
+5. "Personal Budget". [Wiki Link](https://en.wikipedia.org/wiki/Personal_budget){:target="_blank"}.
 

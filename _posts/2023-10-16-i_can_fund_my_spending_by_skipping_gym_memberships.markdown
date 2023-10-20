@@ -22,15 +22,15 @@ The correct financial behavior would be to consistently track your income and ex
 
 Further reading:
 
-1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20)
+1. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}
 Explores the relationship between people's spending habits and their fulfillment.
 
-2. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20)
+2. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}
 Provides a comprehensive guide on managing personal finances and debunking money myths.
 
-3. "The Psychology of Money" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=nosim?tag=financialfall-20).
+3. "The Psychology of Money" by Morgan Housel. [Book Link](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Examines the economic fallacies and misconceptions that people often have.
 
-6. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20).
+6. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Discusses the common economic behaviors of individuals who successfully accumulate wealth, and challenges misconceptions about wealth and financial planning.
 

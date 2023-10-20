@@ -22,14 +22,14 @@ The correct financial behavior, in this case, would be to build an emergency sav
 
 Further Readings:
 
-1. "Payday Loans and Consumer Financial Health" by Neil Bhutta. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0378426614001502)
+1. "Payday Loans and Consumer Financial Health" by Neil Bhutta. [Paper Link](https://www.sciencedirect.com/science/article/abs/pii/S0378426614001502){:target="_blank"}
 A research paper discussing the consequences of payday loans on consumers.
 
-2. "In Harm's Way? Payday Loan Access and Military Personnel Performance" by Scott Carrell and Jonathan Zinman. [Paper Link](https://academic.oup.com/rfs/article-abstract/27/9/2805/1618592?redirectedFrom=fulltext&login=false)
+2. "In Harm's Way? Payday Loan Access and Military Personnel Performance" by Scott Carrell and Jonathan Zinman. [Paper Link](https://academic.oup.com/rfs/article-abstract/27/9/2805/1618592?redirectedFrom=fulltext&login=false){:target="_blank"}
 A research report about the detrimental impact of payday loans on military personnel.
 
-3. "Payday Loans". [Wiki Link](https://en.wikipedia.org/wiki/Payday_loan)
+3. "Payday Loans". [Wiki Link](https://en.wikipedia.org/wiki/Payday_loan){:target="_blank"}
 This Wikipedia page provides an overview of payday loans, their structure, and criticism.
 
-4. "The Two-Income Trap: Why Middle-Class Parents are Going Broke" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907/ref=nosim?tag=financialfall-20)
+4. "The Two-Income Trap: Why Middle-Class Parents are Going Broke" by Elizabeth Warren and Amelia Warren Tyagi. [Book Link](https://www.amazon.com/Two-Income-Trap-Middle-Class-Parents-Going/dp/0465090907/ref=nosim?tag=financialfall-20){:target="_blank"}
 The authors offer an insight into why families might fall into the payday loan trap, alongside strategies to avoid it.

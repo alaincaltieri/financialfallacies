@@ -23,17 +23,17 @@ The correct financial behaviour entails understanding that investing involves di
 
 Further Readings:
 
-1. "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
+1. "A Random Walk Down Wall Street: The Time-Tested Strategy for Successful Investing" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book debunks various investment strategies and provides sound, empirical advice.
 
-2. "Thinking, Fast and Slow" - by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=nosim?tag=financialfall-20)
+2. "Thinking, Fast and Slow" - by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=nosim?tag=financialfall-20){:target="_blank"}
 A book that explains the different systems of thought, highlighting how quick decisions can often lead to unfavorable results. 
 
-3. "The Day Trader: From the Pit to the PC" by Lewis J. Borsellino and Patricia Commins. [Book Link](https://www.amazon.com/Day-Trader-Pit-PC/dp/0471401617/ref=nosim?tag=financialfall-20)
+3. "The Day Trader: From the Pit to the PC" by Lewis J. Borsellino and Patricia Commins. [Book Link](https://www.amazon.com/Day-Trader-Pit-PC/dp/0471401617/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book narrates the experience of a professional day trader, giving firsthand insight into the risks involved.
 
-5. "Barber, et. al. (2017) "Do Day Traders Rationally Learn About Their Ability?"". [Paper Link](https://faculty.haas.berkeley.edu/odean/papers/Day%20Traders/Day%20Trading%20and%20Learning%20110217.pdf)
+5. "Barber, et. al. (2017) "Do Day Traders Rationally Learn About Their Ability?"". [Paper Link](https://faculty.haas.berkeley.edu/odean/papers/Day%20Traders/Day%20Trading%20and%20Learning%20110217.pdf){:target="_blank"}
 This paper from the University of California, Berkeley, summarizes their findings on day trading profits and losses, suggesting that most do not make consistent profits. 
 
-6. Wikipedia page on Pattern day trader. [Wiki Link](https://en.wikipedia.org/wiki/Pattern_day_trader)
+6. Wikipedia page on Pattern day trader. [Wiki Link](https://en.wikipedia.org/wiki/Pattern_day_trader){:target="_blank"}
 This page provides insights into the restrictions and rules concerning day trading, which further clarifies the complexities and potential pitfalls involved in this investing strategy.

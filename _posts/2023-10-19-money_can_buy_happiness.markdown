@@ -22,17 +22,17 @@ The correct financial behaviour involves budgeting, saving, investing, and makin
 
 Further readings:
 
-1. "Happy Money: The Science of Happier Spending" by Elizabeth Dunn and Michael Norton. [Book Link](https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075/ref=nosim?tag=financialfall-20).
+1. "Happy Money: The Science of Happier Spending" by Elizabeth Dunn and Michael Norton. [Book Link](https://www.amazon.com/Happy-Money-Science-Happier-Spending/dp/1451665075/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book reveals how money can buy happiness, but only if used in certain ways.
 
-2. Report: "World Happiness Report". [Report Link](https://worldhappiness.report/)
+2. Report: "World Happiness Report". [Report Link](https://worldhappiness.report/){:target="_blank"}
 This annual report by the UN presents data on global happiness and discusses various factors influencing it, including income.
 
-3. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20).
+3. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This is a comprehensive work on personal finance, challenging the notion that greater wealth equals greater happiness.
 
-4. "Happiness economics". [Wiki Link](https://en.wikipedia.org/wiki/Happiness_economics)
+4. "Happiness economics". [Wiki Link](https://en.wikipedia.org/wiki/Happiness_economics){:target="_blank"}
 This page thoroughly covers various studies and perspectives on the association between money and happiness.
 
-5. "The High Price of Materialism" by Tim Kasser. [Book Link](https://www.amazon.com/High-Price-Materialism-Tim-Kasser/dp/026261197X/ref=nosim?tag=financialfall-20)
+5. "The High Price of Materialism" by Tim Kasser. [Book Link](https://www.amazon.com/High-Price-Materialism-Tim-Kasser/dp/026261197X/ref=nosim?tag=financialfall-20){:target="_blank"}
 He explores how our current obsession with material wealth and consumerism undermines our well-being and personal relationships.

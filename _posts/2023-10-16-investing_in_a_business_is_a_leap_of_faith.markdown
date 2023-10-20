@@ -21,17 +21,17 @@ Correct financial behaviour in investing involves understanding the industry, bu
 
 Recommendations for further reading:
 
-1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20)
+1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book provides in-depth understandings on how investments in stock markets should be based on sound principles and not just intuition or faith.
 
-2. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20)
+2. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20){:target="_blank"}
 This classic text explains investment strategies with a focus on risk management rather than betting on luck.
 
-3. "Common Sense on Mutual Funds" by John C. Bogle. [Book Link](https://www.amazon.com/Common-Sense-Mutual-Funds-Anniversary/dp/0470138130/ref=nosim?tag=financialfall-20)
+3. "Common Sense on Mutual Funds" by John C. Bogle. [Book Link](https://www.amazon.com/Common-Sense-Mutual-Funds-Anniversary/dp/0470138130/ref=nosim?tag=financialfall-20){:target="_blank"}
 Bogle debunks myths and fallacies in mutual funds investing, advocating for a grounded, long-term approach.
 
-4. "Investment Analysis Explained" [Article Link](https://www.investopedia.com/terms/i/investment-analysis.asp).
+4. "Investment Analysis Explained" [Article Link](https://www.investopedia.com/terms/i/investment-analysis.asp){:target="_blank"}.
 This article explains the systematic approach adopted in informed investing.
   
-5. "Fundamental Analysis" [Wiki Link](https://en.wikipedia.org/wiki/Fundamental_analysis)
+5. "Fundamental Analysis" [Wiki Link](https://en.wikipedia.org/wiki/Fundamental_analysis){:target="_blank"}
 This offers insights into the analysis of a company's financials before making investment decisions.

@@ -22,11 +22,11 @@ The correct financial behavior acknowledges the simultaneous necessity of both p
 
 Further readings:
 
-1. "The Automatic Millionaire: A Powerful One-step Plan to Live and Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0767923820/ref=nosim?tag=financialfall-20)
+1. "The Automatic Millionaire: A Powerful One-step Plan to Live and Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Automatic-Millionaire-Powerful-One-Step-Finish/dp/0767923820/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book showcases the importance of automatic savings and debt repayment.
 
-2. "Is It Better To Save Or Pay Off Debt?" on Forbes. [Article Link](https://www.forbes.com/advisor/banking/saving-vs-paying-down-debt/)
+2. "Is It Better To Save Or Pay Off Debt?" on Forbes. [Article Link](https://www.forbes.com/advisor/banking/saving-vs-paying-down-debt/){:target="_blank"}
 Clarifies the conundrum of balancing debt repayment and savings.
    
-3. Debt snowball method. [Wiki Link](https://en.wikipedia.org/wiki/Debt_snowball_method)
+3. Debt snowball method. [Wiki Link](https://en.wikipedia.org/wiki/Debt_snowball_method){:target="_blank"}
 Highlights a strategy for debt repayment that can work in conjunction with savings goals.

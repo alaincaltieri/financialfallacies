@@ -32,17 +32,17 @@ In summary, your financial security and lifestyle should never be dependent on a
 
 Further Readings:
 
-1. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20).
+1. "Rich Dad Poor Dad" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book is about financial independence and building wealth through investing, real estate, owning businesses, and using finance protection tactics.
 
-2. "Your Money or Your Life" by Vicki Robin. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20).
+2. "Your Money or Your Life" by Vicki Robin. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}.
 It can be a practical guide to managing and improving personal finances.
 
-3. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20).
+3. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}.
 It covers the basics of personal finance and dispels many financial myths in a straightforward and motivational way.
 
-4. "Think and Grow Rich" by Napoleon Hill. [Book Link](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331/ref=nosim?tag=financialfall-20).
+4. "Think and Grow Rich" by Napoleon Hill. [Book Link](https://www.amazon.com/Think-Grow-Rich-Landmark-Bestseller/dp/1585424331/ref=nosim?tag=financialfall-20){:target="_blank"}.
 It discusses the psychological power of thought and the brain in the process of furthering your career for both monetary and personal satisfaction.
   
-5. "I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works" by Ramit Sethi. [Book Link](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/ref=nosim?tag=financialfall-20).
+5. "I Will Teach You to Be Rich: No Guilt. No Excuses. Just a 6-Week Program That Works" by Ramit Sethi. [Book Link](https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745/ref=nosim?tag=financialfall-20){:target="_blank"}.
 Provides a practical program to improve how you manage your finances.
