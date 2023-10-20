@@ -23,7 +23,7 @@ If you have any questions or topics you'd like me to cover, or you just want to 
 Let's pave the way to a financially secure future!
 
 ## Credits:
-All images on Your Financial Fallacies have been creted with [Dream by Wombo](https://dream.ai/){:target="_blank"}.
+All images on Your Financial Fallacies have been created with [Dream by Wombo](https://dream.ai/){:target="_blank"}.
 
 This website is powered by [Jekyll](https://jekyllrb.com/){:target="_blank"} & the [So Simple](https://github.com/mmistakes/so-simple-theme){:target="_blank"} theme.
 

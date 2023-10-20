@@ -13,7 +13,7 @@ sitemap: false
 }
 
 html {
-    font-size: calc(16px + 4 * ((100vw - 320px) / 960));
+    font-size: calc(18px + 4 * ((100vw - 320px) / 960));
 }
 
 .site-nav li {
@@ -81,6 +81,10 @@ img.entry-image {
 
 img.entry-feature-image {
     border-radius: 15px;   
+}
+
+div.page-image {
+    padding: 15px;
 }
 
 div.entry-excerpt {
