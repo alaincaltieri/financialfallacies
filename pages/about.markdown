@@ -25,6 +25,8 @@ Let's pave the way to a financially secure future!
 ## Credits:
 All images on Your Financial Fallacies have been creted with [Dream by Wombo](https://dream.ai/).
 
+This website is powered by [Jekyll](https://jekyllrb.com/) & the [So Simple](https://github.com/mmistakes/so-simple-theme) theme.
+
 
 ## Affiliate links:
 
