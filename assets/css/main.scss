@@ -24,6 +24,16 @@ html {
     padding: 1em 0;
 }
 
+div.social-icons {
+    display: inline-table;
+}
+
+@media (max-width:600px) {
+    div.social-icons {
+        display: grid;
+    }
+}
+
 .svg-inline--fa {
     padding: 0.2em;
 }
