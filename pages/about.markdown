@@ -12,16 +12,13 @@ image:
 
 ---
 
-Welcome to Your Financial Fallacies, where myths meet their match!
+Welcome to Your Financial Fallacies.
 
-I'm Calt, a dedicated computer scientist with a passion for debunking financial myths. 
+I'm Calt, a computer scientist with a passion for debunking financial myths. 
 
-Financial literacy is key to making informed decisions about money. Here, we strive to simplify complex concepts, clarify common misconceptions, and offer practical insights and resources to improve your knowledge. 
+Financial literacy is key to making informed decisions about money. Here, we strive to simplify complex concepts and clarify common misconceptions with practical insights and resources to improve your knowledge. 
 
-Whether you're navigating investment strategies, understanding credit scores, or planning for retirement, we've got you covered. Explore our articles and challenge your beliefs about money.
-
-If you have any questions or topics you'd like us to cover, or you just want to connect, don't hesitate to reach out.
-You can contact me directly at **calt [at] financialfallacies [dot] com**.
+If you have any questions or topics you'd like me to cover, or you just want to connect, don't hesitate to reach out. You can contact me directly at **calt [at] financialfallacies [dot] com**.
 
 Let's pave the way to a financially secure future!
 
