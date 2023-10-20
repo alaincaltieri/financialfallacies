@@ -15,7 +15,7 @@ image:
 > Please, [contact me]({{ '/pages/about' | relative_url }}) if you have more resources to recommend. I'm an avid reader.
 
 Before we dive in, here's two ways you can get most of these books at a discount or even free:
-* [Amazon Audible Premium Plus](https://amzn.to/46WSNXl) (you can also [gift a membership](https://amzn.to/3rWyV81)){:target="_blank"}. They have a 30 day free trial: free audiobooks!
+* [Amazon Audible Premium Plus](https://amzn.to/46WSNXl) (you can also [gift a membership](https://amzn.to/3rWyV81){:target="_blank"}). They have a 30 day free trial: free audiobooks!
 * An [Amazon Kindle](https://amzn.to/3SeqhMC){:target="_blank"}: Most books are available in digital format at a fraction of the price of their paper version. Instant delivery, easier highlighting and more.
 
 Now on to the resources.
