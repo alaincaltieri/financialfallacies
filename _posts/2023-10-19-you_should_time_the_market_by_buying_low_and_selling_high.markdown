@@ -29,4 +29,3 @@ Further readings:
 2. "The Intelligent Investor" by Benjamin Graham. [Book Link](https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661/ref=nosim?tag=financialfall-20){:target="_blank"}
 3. "Your Money and Your Brain" by Jason Zweig. [Book Link](https://www.amazon.com/Your-Money-Brain-Science-Neuroeconomics/dp/0743276698/ref=nosim?tag=financialfall-20){:target="_blank"}
 4. "Common Stocks and Uncommon Profits and Other Writings" by Philip A. Fisher. [Book Link](https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471445509/ref=nosim?tag=financialfall-20){:target="_blank"}
-6. Market timing [Wiki Link](https://en.wikipedia.org/wiki/Operation_Market_Time){:target="_blank"}
