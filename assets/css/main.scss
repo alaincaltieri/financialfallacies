@@ -12,6 +12,10 @@ sitemap: false
     max-height: 400px;
 }
 
+.page-image.home {
+    display: none;
+}
+
 html {
     font-size: calc(18px + 4 * ((100vw - 320px) / 960));
 }
