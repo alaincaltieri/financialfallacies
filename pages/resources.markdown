@@ -43,8 +43,8 @@ More:
 - Early Retirement Now: [https://earlyretirementnow.com/](https://earlyretirementnow.com/){:target="_blank"}
 
 For Italian readers only 🤌:
-- https://finanzacafona.it/
-- https://investireconbuonsenso.com/
+- [Finanza Cafona](https://finanzacafona.it/){:target="_blank"}
+- [Investire Con Buonsenso](https://investireconbuonsenso.com/){:target="_blank"}
 
 
 ## My favourite Books 
