@@ -53,7 +53,7 @@ For Italian readers only 🤌:
 
 - **"A Random Walk Down Wall Street" by Burton G. Malkiel** - [Buy on Amazon](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338){:target="_blank"}: will give you the basics to understand sound investing and filter out bad financial advice.
 
-- **"The Millionaire Next Door" by Thomas J. Stanley and William D. Danko** - [Buy on Amazon](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474){:target="_blank"}: will shade light on the real habits of milionairs that were able to build a fortune. Spoiler: they don't behave in the way Hollywood portreits them!
+- **"The Millionaire Next Door" by Thomas J. Stanley and William D. Danko** - [Buy on Amazon](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474){:target="_blank"}: will shade light on the real habits of milionairs that were able to build a fortune. Spoiler: they don't behave in the way Hollywood portraits them!
 
 
 ## All recommended Books
