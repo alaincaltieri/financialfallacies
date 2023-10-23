@@ -1,8 +1,11 @@
 name: Republish
 
-on:
-  schedule:
-    - cron: '31 8 * * *'  # Run at 16:18 pm UTC+2 every day.
+# on:
+#  schedule:
+#    - cron: '30 17 * * *'  # Run at 5:30 pm UTC every day.
+
+# FIXME: Re-enable CRON
+on: push
 
 jobs:
   refresh:
