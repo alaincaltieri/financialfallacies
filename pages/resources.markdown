@@ -41,6 +41,7 @@ More:
 - Financial Samurai: [www.financialsamurai.com](https://www.financialsamurai.com/){:target="_blank"}
 - The Italian Leather Sofa: [https://theitalianleathersofa.com/](https://theitalianleathersofa.com/){:target="_blank"}
 - Early Retirement Now: [https://earlyretirementnow.com/](https://earlyretirementnow.com/){:target="_blank"}
+- In·deed·a·bly [https://indeedably.com/](https://indeedably.com/){:target="_blank"}
 
 For Italian readers only 🤌:
 - [Finanza Cafona](https://finanzacafona.it/){:target="_blank"}
