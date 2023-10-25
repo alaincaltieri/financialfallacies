@@ -24,6 +24,6 @@ Further Readings:
 1. "How Is My Credit Score Calculated?" [Investopedia](https://www.investopedia.com/ask/answers/05/creditscorecalculation.asp){:target="_blank"}.
 
 
-2. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](){:target="_blank"}. this book provides comprehensive advice on financial behaviors, including debunking the car loan myth.
+2. "The Total Money Makeover: A Proven Plan for Financial Fitness" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}. this book provides comprehensive advice on financial behaviors, including debunking the car loan myth.
 
 6. Credit Score in the United States - [Wikipedia](https://en.wikipedia.org/wiki/Credit_score_in_the_United_States){:target="_blank"}.

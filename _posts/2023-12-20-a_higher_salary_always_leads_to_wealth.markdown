@@ -23,10 +23,10 @@ Financial success is more about adopting positive financial habits, savings, and
 
 Further Readings related to this Fallacy:
 
-1. "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!" by Robert Kiyosaki. [Book Link](){:target="_blank"}. This book is a classic on personal finance that challenges conventional thoughts like high income equates to wealth.
+1. "Rich Dad Poor Dad: What the Rich Teach Their Kids About Money That the Poor and Middle Class Do Not!" by Robert Kiyosaki. [Book Link](https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612680194/ref=nosim?tag=financialfall-20){:target="_blank"}. This book is a classic on personal finance that challenges conventional thoughts like high income equates to wealth.
   
-2. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](){:target="_blank"}. This book offers unique insights into the fallacy of equating high income with wealth and provides valuable tips on financial independence.
+2. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}. This book offers unique insights into the fallacy of equating high income with wealth and provides valuable tips on financial independence.
 
-3. "The Millionaire Next Door: The Surprising Secrets of America's Wealthy" by Thomas J. Stanley and William D. Danko. [Book Link](){:target="_blank"}. It provides research-based insights into wealth accumulation strategies of self-made millionaires, challenging the high-income-equals-wealth theory.
+3. "The Millionaire Next Door: The Surprising Secrets of America's Wealthy" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20){:target="_blank"}. It provides research-based insights into wealth accumulation strategies of self-made millionaires, challenging the high-income-equals-wealth theory.
 
 4. Video: "Difference between wealth and income". [Khan Academy](https://www.khanacademy.org/economics-finance-domain/macroeconomics/macroeconomics-income-inequality/piketty-capital/v/wealth-vs-income){:target="_blank"}

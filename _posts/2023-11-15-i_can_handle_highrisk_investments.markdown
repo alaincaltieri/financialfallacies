@@ -22,16 +22,16 @@ The correct financial behavior is balanced and diversified investing. It involve
 
 To grasp a better understanding of this financial fallacy, here are some recommendations for further reading:
 
-1. "Fooled by Randomness" by Nassim Nicholas Taleb. [Book Link](){:target="_blank"}. 
+1. "Fooled by Randomness" by Nassim Nicholas Taleb. [Book Link](https://www.amazon.com/Fooled-Randomness-Hidden-Markets-Incerto/dp/0812975219/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book talks about how we often mistake luck for skill, especially in high-risk investments.
 
-2. "The Black Swan: The Impact of the Highly Improbable" also by Nassim Nicholas Taleb. [Book Link](){:target="_blank"}. 
+2. "The Black Swan: The Impact of the Highly Improbable" also by Nassim Nicholas Taleb. [Book Link](https://www.amazon.com/Black-Swan-Improbable-Robustness-Fragility/dp/081297381X/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 In this book, Taleb explores highly unexpected events, their massive impact, and our limited ability to predict them.
 
-3. "The Psychology of Investing" by John R. Nofsinger. [Book Link](){:target="_blank"}. 
+3. "The Psychology of Investing" by John R. Nofsinger. [Book Link](https://www.amazon.com/Psychology-Investing-John-R-Nofsinger/dp/041539757X/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book gives insights on various investor psychological biases including overconfidence.
 
-4. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](){:target="_blank"}. 
+4. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 The book suggest that markets are largely unpredictable and highlights the importance of diversification and having a long-term plan.
 
 5. "Behavioral Finance: Biases, Emotions and Financial Behavior" - [Investopedia](https://www.investopedia.com/terms/b/behavioralfinance.asp){:target="_blank"}. 

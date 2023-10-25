@@ -22,13 +22,13 @@ Correct financial behavior involves thoughtful, informed decisions. Rather than 
 
 Further Readings Specific to this Fallacy:
 
-1. "Thinking, Fast and Slow" by Daniel Kahneman. [Book Link](){:target="_blank"}. 
+1. "Thinking, Fast and Slow" by Daniel Kahneman. [Book Link](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book explains decision making, addressing biases and fallacies, including ones like the lottery fallacy.
 
-2. "Pound Foolish: Exposing the Dark Side of the Personal Finance Industry" by Helaine Olen. [Book Link](){:target="_blank"}. 
+2. "Pound Foolish: Exposing the Dark Side of the Personal Finance Industry" by Helaine Olen. [Book Link](https://www.amazon.com/Pound-Foolish-Exposing-Personal-Industry/dp/159184679X/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book dives into the truth and illusions within the personal finance industry, including such areas as the lottery.
 
-3. "Investing For Dummies" by Eric Tyson. [Book Link](){:target="_blank"}. 
+3. "Investing For Dummies" by Eric Tyson. [Book Link](https://www.amazon.com/Investing-Dummies-Eric-Tyson/dp/1118884922/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 Provides a solid foundation in what investment really means as opposed to taking chances in lottery.
 
 4. "The Lottery: Is It Ever Worth Playing?" by [Investopedia](https://www.investopedia.com/managing-wealth/worth-playing-lottery/){:target="_blank"}. 

@@ -22,7 +22,7 @@ The ideal financial behaviour is to approach debt with a tailored strategy, cons
 
 Further Reading:
 
-1. Book: "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](){:target="_blank"}. 
+1. Book: "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book provides a comprehensive view of dealing with debt and other financial issues.
 
 2. "Does Debt Consolidation Hurt Your Credit?" on [Forbes](https://www.forbes.com/advisor/debt-relief/does-debt-consolidation-hurt-your-credit/){:target="_blank"}. 

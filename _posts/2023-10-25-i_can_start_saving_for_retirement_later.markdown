@@ -22,10 +22,10 @@ The correct financial behaviour is to start saving for retirement as soon as pos
 
 Here's a list of resources that delve deeper into this specific fallacy:
 
-1. "Start Late, Finish Rich" by David Bach. [Book Link](){:target="_blank"}. 
+1. "Start Late, Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Start-Late-Finish-Rich-Achieving/dp/0767919475/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 A book focused on helping those who are late to the retirement savings game
 
-2. "Compound Interest". [Wiki Link]{:target="_blank"}. 
+2. "Compound Interest". [Wiki Link](https://en.wikipedia.org/wiki/Compound_interest){:target="_blank"}. 
 This article gives a detailed explanation about compound interest and why it matters.
 
 3. "Why Save for Retirement in Your 20s?" — Investopedia. [Article Link](https://www.investopedia.com/articles/personal-finance/040315/why-save-retirement-your-20s.asp){:target="_blank"}. 

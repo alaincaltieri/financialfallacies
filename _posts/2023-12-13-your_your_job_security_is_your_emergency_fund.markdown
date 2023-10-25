@@ -27,11 +27,11 @@ The correct financial behaviour is to build and maintain an emergency fund with 
 
 Additional resources:
 
-1. "The Total Money Makeover" by Dave Ramsey. [Book Link](){:target="_blank"}. It emphasises getting rid of debt and building an emergency fund.
+1. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}. It emphasises getting rid of debt and building an emergency fund.
    
-2. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](){:target="_blank"}. This classic book discusses various perceived financial truths, including the fallacy of job security.
+2. "Your Money or Your Life" by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}. This classic book discusses various perceived financial truths, including the fallacy of job security.
    
-3. "The Index Card: Why Personal Finance Doesn't Have to be Complicated" by Helaine Olen and Harold Pollack. [Book Link](){:target="_blank"}. It speaks on the importance of saving for emergencies.
+3. "The Index Card: Why Personal Finance Doesn't Have to be Complicated" by Helaine Olen and Harold Pollack. [Book Link](https://www.amazon.com/Index-Card-Personal-Finance-Complicated/dp/1591847680/ref=nosim?tag=financialfall-20){:target="_blank"}. It speaks on the importance of saving for emergencies.
    
 4. "Emergency Fund: What It Is and Why It Matters" - [NerdWallet](https://www.nerdwallet.com/article/banking/emergency-fund-why-it-matters){:target="_blank"}.
    

@@ -36,16 +36,16 @@ The correct financial behavior encapsulates:
 
 Further readings:
 
-1. "Your Money or Your Life" by Vicki Robin & Joe Dominguez. [Book Link](){:target="_blank"}.
+1. "Your Money or Your Life" by Vicki Robin & Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book provides a comprehensive view of managing personal finances.
    
-2. "The Only Investment Guide You’ll Ever Need" by Andrew Tobias. [Book Link](){:target="_blank"}.
+2. "The Only Investment Guide You’ll Ever Need" by Andrew Tobias. [Book Link](https://www.amazon.com/Only-Investment-Guide-Youll-Ever/dp/0544781937/ref=nosim?tag=financialfall-20){:target="_blank"}.
 A clear, accessible guide on investments.
 
-3. "Smart Couples Finish Rich" by David Bach. [Book Link](){:target="_blank"}. 
+3. "Smart Couples Finish Rich" by David Bach. [Book Link](https://www.amazon.com/Smart-Couples-Finish-Rich-Creating/dp/0767904842/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 Tailored towards couples, this book gives financial advice for co-managing finances.
 
-4. "The Total Money Makeover" by Dave Ramsey. [Book Link](){:target="_blank"}.
+4. "The Total Money Makeover" by Dave Ramsey. [Book Link](https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277/ref=nosim?tag=financialfall-20){:target="_blank"}.
 This book talks about setting up an emergency fund, paying off debt, investing, and more.
 
 5. Article: "How Financially Literate Are Women? An Overview and New Insights" by Tabea Bucher-Koenen et al. [Paper Link](https://gflec.org/wp-content/uploads/2016/02/WP-2016-1-How-Financially-Literate-Are-Women.pdf){:target="_blank"}

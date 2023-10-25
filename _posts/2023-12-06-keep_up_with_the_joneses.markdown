@@ -23,10 +23,10 @@ The correct financial behavior is to focus on one's own financial goals and limi
 
 Further reading on this fallacy:
 
-1. "Stop Acting Rich: ...And Start Living Like A Real Millionaire" by Thomas J. Stanley. [Book Link](){:target="_blank"}. 
+1. "Stop Acting Rich: ...And Start Living Like A Real Millionaire" by Thomas J. Stanley. [Book Link](https://www.amazon.com/Stop-Acting-Rich-Living-Millionaire/dp/1118011570/ref=nosim?tag=financialfall-20){:target="_blank"}. 
 This book explains the detrimental effects of trying to keep pace with others financially and provides strategies to escape this mindset.
 
-2. "The Overspent American: Why We Want What We Don’t Need" by Juliet Schor. [Book Link](){:target="_blank"}. The author explores the trend of excessive consumerism in America and examines why it’s destructive.
+2. "The Overspent American: Why We Want What We Don’t Need" by Juliet Schor. [Book Link](https://www.amazon.com/Overspent-American-Want-What-Dont/dp/0060977582/ref=nosim?tag=financialfall-20){:target="_blank"}. The author explores the trend of excessive consumerism in America and examines why it’s destructive.
 
 5. "Keeping up with the Joneses" - [Wikipedia](https://en.wikipedia.org/wiki/Keeping_up_with_the_Joneses){:target="_blank"}.
 
