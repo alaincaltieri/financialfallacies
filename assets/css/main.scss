@@ -7,6 +7,12 @@ sitemap: false
 
 @import "so-simple";
 
+.affiliate-notice {
+    font-size: calc(12px + 4 * ((100vw - 320px) / 960));
+    margin-top: 2em;
+    padding: 0 1em;
+}
+
 .page-image img {
     width: auto;
     max-height: 400px;
