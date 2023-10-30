@@ -21,6 +21,8 @@ image:
 
 Believing that you can rely on luck to improve your finances is a financial fallacy due to its inherent unpredictability and lack of control. Building a stable financial future requires consistent effort, determination, and sound financial strategies. Luck, by definition, is an unpredictable force that is beyond our control. Hence, solely relying upon luck equates to placing your financial future in the hands of chance, rather than in your own. This method is unsustainable and often leads to financial instability.
 
+It's not hard to empathize with those who may fall victim to this fallacy. Financial management can be confusing and overwhelming. The idea of luck coming to the rescue offers a type of comfort, a release from the intimidating task of financial planning. Furthermore, societal stories and media often glorify lucky financial windfalls, encouraging this fallacy even more.
+
 Correct financial behaviour involves diligent planning, systematic investments, prudent spending, and regular saving. It's about understanding your cash flow, setting achievable financial goals, budgeting wisely, managing debts, and regularly reviewing your investment portfolio. It's recommended to seek professional advice when needed and continue educating oneself about financial management best practices.
 
 Further readings that can provide more insights into this topic include:

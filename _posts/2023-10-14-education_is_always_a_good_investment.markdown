@@ -21,6 +21,8 @@ The fallacy "Education is always a good investment" operates on the assumption t
 
 In calculating the return on investment (ROI) for education, both direct costs (tuition, books, fees) and indirect costs (opportunity costs such as potential income foregone by attending school instead of working) need to be considered. Depending on these factors, the debt acquired from education may outweigh the financial benefits gained, rendering it a poor investment.
 
+As to why we may fall for this fallacy, it’s understandable. It stems from an ingrained belief that education offers social mobility and success. It’s a testament to the way society values education. In decades past, a solid education was indeed a reliable path to a stable, lucrative career. However, with evolving job markets and rapidly changing industry needs, this is not always the case.
+
 The correct financial behaviour in relation to education would be conducting a full cost-benefit analysis before investing in it. This includes researching potential earning prospects in your chosen field, calculating total education cost, considering the time to graduation, and exploring options for scholarships or financial aid. It's also important to consider non-financial benefits or costs such as interest in the field or job satisfaction.
 
 Further Readings:

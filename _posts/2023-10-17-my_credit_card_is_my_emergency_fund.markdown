@@ -25,6 +25,8 @@ Believing that a credit card could substitute an emergency fund is a financial f
 
 3. Spiralling Debt: Unlike an emergency fund, which represents actual money you've saved, credit card debts can easily pile up creating long term financial issues.
 
+It's easy to understand why one would consider a credit card as an emergency fund. The 'instant' source of funds seems convenient in case of an unexpected expense. In today's economic situation, where saving can be quite hard due to escalating costs and stagnant wages, credit cards can appear to be a quick solution. However, this outlook ignores the consequent financial stress that usually arises from indebtedness and the permanent nature of true financial stability.
+
 The correct financial behavior would be to establish an emergency fund, even if it's small to start with. This means instead of spending money, you should save and invest money each month in a high yield savings account. Over a period of time, your money would grow more than what you can get from a regular savings account. 
 
 These resources can further elaborate on this financial fallacy:

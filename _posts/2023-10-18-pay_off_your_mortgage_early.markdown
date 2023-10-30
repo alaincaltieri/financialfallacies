@@ -23,6 +23,8 @@ Secondly, investing extra money instead of paying off your mortgage can often yi
 
 Lastly, the tax benefits associated with mortgage interest can be beneficial. In certain tax brackets, the amount paid in interest can be deducted, reducing your overall taxable income.
 
+Now, it's easy to empathize on why this fallacy is prevalent. Owning a home free and clear is, without a doubt, a sense of security and a significant achievement. It eliminates a substantial monthly expense, possibly allowing for more flexibility in personal spending and saving. The sense of relief and security associated with being mortgage-free is psychologically appealing, which can often cloud financial judgment.
+
 The correct financial behaviour in this context would be to prioritize paying off high-interest debts first, then build an emergency fund. Once these are in place, focusing on investing your surplus cash for the long-term should be considered. This should be balanced with paying down your mortgage at a reasonable rate.
 
 Relevant resources for further reading include:

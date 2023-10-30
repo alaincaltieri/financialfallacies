@@ -26,6 +26,8 @@ Believing "I can depend on my partner's financial management" is a financial fal
 
 3. Change in Circumstance: Circumstances can change swiftly. From relationship breakdowns to the sudden death of your partner, these situations demand personal financial vigilance and ability.
 
+It’s easy to understand why one might fall for this fallacy. In relationships, we often divide labour based on skill sets or preferences. If your partner is a financial wizard, it’s tempting to leave them in charge of the money. Trust is a fundamental part of any partnership, and in a healthy relationship, there's an inherent belief that your partner has your best interests at heart. The issue is not trust, but rather the need for personal empowerment and contingency planning.
+
 The correct financial behavior encapsulates:
 
 1. Financial Literacy: Make an effort to understand the basic concepts of finance including investing, budgeting, taxation, and retirement planning.

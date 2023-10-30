@@ -18,6 +18,8 @@ image:
 
 The financial fallacy in this statement lies in the assumption that scholarships will completely cover all costs associated with higher education. The reality is that not every student will qualify or receive enough scholarship money to pay for their education in full. Even the most academically gifted students may not receive a full ride, as the availability of scholarships is often competitive and limited. Scholarships also don't always cover every expense, such as books, supplies, transportation, and living expenses.
 
+We can easily be seduced by the idea of scholarships due to their glamour and appeal. Scholarships are often marketed as the key to a free education, and many of us naturally want to do everything we can to give our children the best start in life. This desire, coupled with the fear and confusion around saving for education, can make the idea of a scholarship a tempting escape route.
+
 The right financial behavior should involve strategic planning. Parents should develop a diversified financial plan for their child’s education that is not wholly dependent on receiving scholarships. This could include saving, investing in an education savings plan (like a 529 plan in the U.S.), or considering other options like grants, student loans or work-study programs. Planning ahead and saving can reduce financial stress and increase choices when the time for college arrives.
 
 Further readings on this topic include:

@@ -17,6 +17,8 @@ image:
 
 Saying "I don’t need a budget" is a financial fallacy because it assumes that one can successfully manage their money without setting defined parameters or tracking their spending. This is a risky approach as you might easily find yourself overspending in certain areas and not having sufficient funds for necessities or savings. Budgeting not only facilitates control over your spending, but also helps you understand where your money is going and how you can reallocate it to better serve your financial goals.
 
+Managing a budget can feel restricting and even overwhelming for those who are not used to it. For some, the idea of documenting every dollar might seem unnecessary, especially when they are able to meet their needs. The contemporary hustling culture also promotes the idea that you should "make more, spend more," which further discourages people from diligently tracking their expenses.
+
 The correct financial behaviour is to create, maintain and adhere to a budget. This involves keeping track of all income and expenses, no matter how small they may appear to be because they add up over time. By understanding where your money is being spent every month, you can make informed decisions about discretionary spending, savings and investments. Adequate budgeting can also prevent unnecessary debt and contribute to financial security.
 
 Recommended Further Readings: 

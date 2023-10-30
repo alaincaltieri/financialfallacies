@@ -17,6 +17,8 @@ image:
 
 This idea is predicated on multiple misconceptions. Firstly, penny stocks are typically not traded on established exchanges like NYSE or NASDAQ, rather they are traded on Over-The-Counter (OTC) markets which are less regulated, providing loopholes for fraudulent schemes and manipulation. Secondly, these types of stocks are highly volatile and have low liquidity, which means it may become difficult to sell them when desired. Lastly, these stocks often lack transparency and concrete information, making it challenging to make an informed investment decision.
 
+Who wouldn't want to seize the opportunity to purchase a large number of shares with just a small amount of money, or to capitalize on a so-called 'next big thing'? It's alluring, especially when we hear stories of some investors who have made it big through penny stocks. However, the reality is, many more lose money than make it in these speculative arenas. 
+
 The correct financial behavior is to dedicate ample time in research and understanding the mechanisms of the stock market and the particular stocks you are interested in. Investing your money in well-established, reputable companies and diversifying your investment portfolio minimizes your risk. One should also prioritize their financial goals, creating a realistic and strategic investment plan.
 
 Further Readings Specific to this fallacy:

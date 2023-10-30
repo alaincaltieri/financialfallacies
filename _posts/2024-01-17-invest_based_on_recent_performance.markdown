@@ -17,6 +17,8 @@ image:
 
 The statement, "Invest based on recent performance" is a financial fallacy due to a concept known as "recency bias." This means investors often make decisions based on the most recent information or events, which can negatively impact long-term investment strategies. Investing based on recent performance assumes that an investment that performed well recently will continue to do well in the future. This is akin to the gambler's fallacy; in reality, investment markets are not predictable in the short term and past performance is not a consistent indicator of future outcomes.
 
+There's comfort in patterns, and humans are pattern-seeking creatures. We see a stock or fund doing well over the recent months or years, and we assume the trend will continue. It feels like a safe bet and often, it simply seems like logical reasoning to us.
+
 The correct financial behaviour leans towards a long-term diversified investment strategy. Instead of making decisions based solely on an asset’s recent performance, your investing decisions should be based on your financial goals, risk tolerance, and investment timeline. It's important to diversify your investments to avoid potential risks associated with investing heavily in a single asset.
 
 Further Readings:

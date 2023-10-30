@@ -20,6 +20,8 @@ The financial assumption that "Your income will always increase over time" is a 
 
 A rising income is never a guarantee. Even with promotions or job changes, an increase in your income can also depend on your industry, your career, and many uncontrollable external factors, such as the state of the economy. Also, if you take into account potential interruptions in a person's career due to reasons like health issues or family circumstances, it's clear that income may not always rise.
 
+Understanding why this fallacy is so prevalent is deeply rooted in our optimistic bias and in societal narratives. We live in a world that encourages constant growth and progress, not to mention that many of us were brought up with the adage that hard work is always rewarded in time. It is these optimistic perspectives and upbringing that make us fall for the idea of constant income advancement.
+
 The correct financial behaviour is to emphasise financial planning and budgeting, conscious spending, and regular saving without reliance on a permanent rise in income. Living below your means is also essential, as this will enable you to manage unexpected income drops. Investing and diversifying your income sources can also help protect against relying too heavily on one income which may not always increase.
 
 Part 3: Further Readings 

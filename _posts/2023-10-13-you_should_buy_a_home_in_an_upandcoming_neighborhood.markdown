@@ -20,6 +20,8 @@ Buying a home in an up-and-coming neighborhood can seem like a no-brainer for in
 
 This is a financial fallacy because it involves a great deal of risk and speculation. The success of such an investment is largely predicated on factors beyond individual control, such as the overall economic climate, infrastructure developments, or fluctuations in the housing market. There are no guarantees that an "up-and-coming" neighborhood will have the anticipated uptrend. In some cases, the area might not evolve as expected, or it could take much longer for property values to increase than originally projected. This could lead to a suboptimal investment return or, in worst cases, a loss.
 
+Now, it's completely understandable why we might fall for this fallacy. Society often promotes the idea of real estate as a foolproof investment. The promise of an up-and-coming neighbourhood carries an attractive narrative of opportunity and potential. Also, people tend to follow advice from friends, family, or social media, which may often oversimplify complex financial decisions.
+
 The correct financial behavior is to make investment decisions based on thorough research and understanding of the market, considering factors such as your financial goals, risk tolerance, and the timeframe for your investment. It's also crucial to diversify your investments to mitigate risk.
 
 List of further readings:

@@ -18,6 +18,8 @@ image:
 
 It's important to clarify that the idea of maxing out your credit cards to build credit is indeed a financial fallacy. Maxing out your credit cards can instead negatively affect your credit score because it increases your credit utilization rate, a factor that has a significant impact on your score calculation. Credit utilization refers to how much of your available credit limit you're using at any given time. A high utilization rate suggests to creditors that you might be a higher-risk customer, which could lower your credit score.
 
+This fallacy might be tempting to believe because of the simplified logic that seems to underline it: If little spending builds credit, then a lot of spending should build more credit. It's an understandable misinterpretation. However, this fundamental misunderstanding of credit utilization and management can lead to bad habits and serious financial problems down the line.
+
 The correct financial behavior would involve maintaining a low credit utilization rate, ideally below 30% of your available credit limit. This shows lenders that you're responsible with your credit and can manage it effectively. It's additionally important to pay off your balances on time, avoid incurring unnecessary debts, and keep your accounts in good standing.
 
 Further readings that are tied to this fallacy are:

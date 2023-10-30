@@ -18,6 +18,8 @@ image:
 
 The financial fallacy in the statement, "Buy luxury items and resell them later for a profit," lies in its assumption that all luxury items appreciate with time. Indeed, while certain luxury pieces like rare art or vintage collectors' items might appreciate in value, most luxury items including cars, clothing, and electronics tend to lose value over time due to factors such as wear and tear, technology advancement, and changing fashion trends. Moreover, this approach overlooks the costs associated with such a strategy, like storage, maintenance, and selling fees.
 
+It's understandable why some people might fall for this fallacy. Media often highlights stories of rare items that have skyrocketed in value over years which can mislead people to think it's a common event. There's also an emotionally appealing aspect to owning luxury goods which may cloud judgment and decision-making. However, these are very situational and doesn't reflect the typical experience.
+
 The correct financial behaviour, in contrast, focuses on long-term wealth building through time-tested methods such as investing in a diversified portfolio of stocks, bonds, and mutual funds, maintaining a strong emergency fund, maxing out retirement savings, eliminating high-interest debt, and continuously improving one's earning potential.
 
 Further readings specific to this fallacy:

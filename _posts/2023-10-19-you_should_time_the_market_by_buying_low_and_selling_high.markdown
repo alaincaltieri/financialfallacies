@@ -21,6 +21,8 @@ Market timing requires accurate predictions of market peaks (for selling) and tr
 
 Furthermore, decisions to buy or sell often get influenced by emotions such as fear during a downturn or greed during an upswing. These emotional decisions often lead to buying high and selling low, contrary to the intended strategy.
 
+The appeal of this fallacy is quite understandable. Who wouldn't want to buy at the lowest price possible and sell when the price is at its highest? It's a tantalizing idea of maximized profits and minimized losses. Additionally, it plays into our natural human instinct to seek patterns and predictability in a world full of chaos and uncertainty. 
+
 The more sound financial behaviour is a long-term, disciplined investment strategy. This approach often includes "dollar-cost averaging" where a fixed dollar amount is regularly invested regardless of market conditions. This strategy reduces the risk of large losses from ill-timed investments, while potentially lowering the average cost per share over time. Portfolio diversification is also key, as it spreads risk across various industries, geographies and asset classes, reducing potential losses.
 
 Further readings:

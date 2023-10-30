@@ -17,7 +17,9 @@ image:
 
 Investing in a business is often mistaken as a leap of faith due to the inherent risks involved. It is a financial fallacy because it suggests that there is no method to assess or manage the risks tied to an investment, which isn't accurate. In reality, informed investing depends on thorough research, careful analysis, and strategic decision-making, not on luck or blind faith.
 
-Correct financial behaviour in investing involves understanding the industry, business model, financial health, and the potential growth of a company before investing. Key characteristics include patience, prudence, and the ability to manage risk and emotion. Investors should also diversify their portfolio to mitigate potential losses.
+It's understandable why some may view investing in this fallacious way. Investing can seem complex and intimidating, and the uncertainty about future performance can be unnerving. This leads some people to rely more on gut feeling or faith, rather than research and analysis. Besides, popular culture often romanticizes risky investments that pay off, reinforcing the belief that successful investing is more about faith than facts.
+
+However, the correct financial behaviour in investing involves understanding the industry, business model, financial health, and the potential growth of a company before investing. Key characteristics include patience, prudence, and the ability to manage risk and emotion. Investors should also diversify their portfolio to mitigate potential losses.
 
 Recommendations for further reading:
 

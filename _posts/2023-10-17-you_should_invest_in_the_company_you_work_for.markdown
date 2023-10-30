@@ -20,6 +20,8 @@ This can be risky due to the lack of diversification. Here's why:
 
 Investing heavily in your employer's stocks or contributions exposes your financial health to a concentrated exposure risk. This means, if the company faces severe challenges or goes bankrupt, not only could your employment (and therefore your future income) be at risk, but the value of your investment could take a significant hit too. This lack of diversification contradicts one core principle of investment: not putting all eggs in one basket.
 
+You may feel more secure investing in a company that you are familiar with, where you understand the workings, know the senior team, and witness the growth firsthand. It feels natural to dedicate your resources to the company you're already dedicated to professionally. This also plays into our natural tendency to avoid diversification due to lack of understanding or fear of the unknown.
+
 The appropriate financial behavior is to diversify your investments to ensure a more stable financial future. Diversification can protect you from relying on a single investment’s performance, and can cushion the blow from any single asset class's downturn. Adequate diversification considers several factors, including your age, financial goals, tolerance for risk, and time horizon.
 
 Further readings on this fallacy:

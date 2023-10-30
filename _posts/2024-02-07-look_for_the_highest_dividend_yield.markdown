@@ -19,7 +19,9 @@ Looking for the highest dividend yield is a financial fallacy essentially becaus
 
 A high dividend yield can be attributed to a decrease in the price of a stock relative to its dividend payout which might be due to poor financial performance. Essentially, if a company's stock price is falling while its dividend payout remains constant, the dividend yield will increase. This could imply that the company is not generating adequate profits or that it may have substantial debts. Therefore, instead of indicating a strong financial position, a high dividend yield might suggest the opposite.
 
-The correct financial behaviour is to analyze a company's overall financial health before investing, considering factors such as its earnings growth, debt levels, cash flows, P/E ratio, etc. Additionally, it's vital to diversify investments to effectively manage risk and potential returns.
+In a volatile market, the promise of a high dividend yield can be comforting. It gives the illusion of a safe and steady return. 
+
+However, the correct financial behaviour is to analyze a company's overall financial health before investing, considering factors such as its earnings growth, debt levels, cash flows, P/E ratio, etc. Additionally, it's vital to diversify investments to effectively manage risk and potential returns.
 
 Further readings:
 

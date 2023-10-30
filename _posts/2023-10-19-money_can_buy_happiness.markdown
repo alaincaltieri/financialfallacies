@@ -18,6 +18,8 @@ image:
 
 Firstly, the belief that "Money can buy happiness" is a financial fallacy because while it's true that money can buy comfort and security, it does not guarantee happiness. Happiness is a mental or emotional state, largely influenced by one's perspective, relationships, and experiences, among other things. Money can certainly contribute to happiness by providing for basic needs and comfort but it becomes less influential once a certain level of wealth is attained. 
 
+We live in a society where media highlight the glitz and glam of wealth, linking it directly to happiness. It's also rooted in our survival instincts, whereby wealth often equals security and freedom. But happiness is a multifaceted concept, reliant on emotional well-being, qualitative relationships, a sense of purpose in life, and personal growth, none of which can genuinely be bought.
+
 The correct financial behaviour involves budgeting, saving, investing, and making informed decisions about spending and wealth management. It's about balancing present needs with future goals, understanding the value of money and using it as a tool to build a secure and comfortable life while also leaving room for personal enjoyment.
 
 Further readings:

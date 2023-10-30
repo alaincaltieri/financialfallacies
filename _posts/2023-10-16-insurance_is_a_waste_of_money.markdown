@@ -18,6 +18,8 @@ image:
 
 The statement "Insurance is a waste of money" is a financial fallacy primarily because it overlooks the basic principle of insurance: risk management. Insurance provides a way to spread the potential financial risk over a large group of people, thereby reducing the possible impact on any one individual. Even though you don’t see an immediate return on your payments if you don't make a claim, those payments ensure that you're financially protected against unforeseen events like accidents, illness, house fires, car theft, or even death. Without insurance, you could be exposed to extremely high costs that could deplete your savings or even lead to bankruptcy.
 
+It is understandable why some people might view insurance as a waste. Insurance is an out-of-pocket expense that does not immediately provide a tangible return. So, in times of financial stability where no accidents or unexpected events happen, it may seem futile. This perception is further reinforced in a society that values immediate gratification over long-term security.
+
 The correct financial behaviour suggests that one should judiciously invest in different types of insurance provided they are relevant to their life situation. For instance, if you're a car owner, automobile insurance is imperative, while homeowners should have home insurance. Health and life insurance are equally crucial, especially if you have dependents. In this sense, insurance should be seen as a strategic tool for financial planning that protects you and your family’s financial future from unexpected expenses.
 
 Further Readings: 

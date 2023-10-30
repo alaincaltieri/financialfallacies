@@ -19,6 +19,8 @@ image:
 
 The notion that a higher salary always leads to wealth is a major financial fallacy. This belief is flawed because wealth isn't just about high income, but about how much of that income you manage to save and grow over time. Someone earning a higher salary can still end up with less wealth if they consistently spend more than they earn, have high levels of consumer debt, make poor investment choices or fail to plan for future financial needs such as retirement. Inflation, taxation, and the cost of living can also decrease the value of a higher salary. 
 
+It's easy to assume that a bigger paycheck will address all of our money-related concerns and set us up for financial success. Furthermore, societal norms often equate a higher salary with success and wealth, reinforcing this false belief. 
+
 Financial success is more about adopting positive financial habits, savings, and investments. Budgeting, minimizing expenses, investing wisely, reducing debt, and making consistently thoughtful financial decisions are key strategies for building wealth. This involves living within your means, saving and investing a part of your earning every month, creating emergency funds, planning for retirement, and using credit wisely. 
 
 Further Readings related to this Fallacy:

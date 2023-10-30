@@ -25,6 +25,8 @@ image:
 
 4. No Intrinsic Value: A company's stock has value based on its potential to generate profit. Gold's value, on the other hand, is largely based on demand and supply trends, not its ability to generate revenue or profit.
 
+It's easy to see why we may fall for this fallacy. Gold has been coveted and valued by human civilization for millennia. It's tangible, shiny, and its scarcity gives it intrinsic value. Therefore, it feels safe and reliable, unlike abstract financial assets. Additionally, during periods of economic instability, gold can seem like a solid investment as its price tends to hold steady or even increase while other assets are falling.
+
 The correct financial behavior involves diversification of investments; spreading your investments across various asset classes such as stocks, bonds, real estate, and yes, a small amount in gold or commodities, based on your risk tolerance and financial goals.
 
 Further Reading Specific to Gold Investment Fallacy:

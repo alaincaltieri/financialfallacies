@@ -20,6 +20,8 @@ Investing in collectibles or rare items can indeed be a financial fallacy due to
 
 Additionally, markets for collectibles can be illiquid, meaning it could be challenging to find a buyer when you want to sell. Finally, the upkeep cost, insurance, and storage can erode any potential profits. Lastly, rare items and collectibles do not generate any income while you hold them, unlike assets like real estate or dividends-paying stocks.
 
+The idea of purchasing something tangible, like an antique or piece of art, can feel more satisfying and 'real' than buying a stock or bond. We romanticize the notion of that rare gem hiding at a garage sale, waiting to be discovered and sold for a fortune. Yet, the odds of this happening are incredibly small, and often we lose money or break even at best.
+
 The correct financial behavior focusses on investing in assets that have reliable, measurable returns. Investments should be diversified across a range of asset classes to spread risk. Regularly reviewing and rebalancing your portfolio and planning for the long term rather than seeking short-term gains is also a prudent approach.
 
 Further readings about this financial fallacy:

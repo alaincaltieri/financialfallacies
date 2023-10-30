@@ -18,6 +18,8 @@ image:
 
 Spending on credit assumes you'll always have the income to pay it off later, but that's a financial fallacy. In reality, your income might decrease, jobs can be lost, or unexpected expenses like medical emergencies can arise. Over-relying on credit builds a debt burden that can become difficult to manage, leading to mounting interest, fees, and potentially hurtful credit score impacts. 
 
+The allure of credit lies in its provision of immediate gratification - the ability to afford what seems unaffordable. Credit cards are often marketed as a bridge over financial gaps, making them particularly appealing to individuals experiencing economic troubles. Furthermore, credit cards also capitalise on the faulty human instinct that perceives distant consequences as less important than immediate rewards.
+
 The correct financial behaviour is to spend within your means - that is, to make sure your outgoing expenses, including discretionary spending, do not exceed your net income. Moreover, money should be set aside for potential emergencies, and any credit card debt should ideally be paid off in full every month to avoid accumulating interest charges.
 
 Further reading:

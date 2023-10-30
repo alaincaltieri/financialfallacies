@@ -18,6 +18,8 @@ image:
 
 The statement, "I can't start saving for retirement since I'm too old" is a financial fallacy because it implies that there's a 'correct age' to start saving for retirement, which isn't true. It's never too late to start saving. Being older might mean that you won't have as much time to accumulate as big a nest egg compared to if you'd started earlier, but any savings is better than no savings. Also, depending on your age, there can be incentives like the catch-up contributions for IRAs and 401(k)s for those above 50 that could potentially maximize your savings. 
 
+It's easy to fall into this fallacy due to the common perception that you need to start saving for retirement early in your career. This can make older individuals feel like they've missed their chance, thinking that investments require a long time to mature. Also, the media often emphasizes the youth, creating a misconception that financial planning is not meant for older generations. These factors plus fear and uncertainty can lead someone to avoid saving due to a perceived late start.
+
 The correct financial behavior is to start saving and investing as soon as possible. Utilize retirement savings plans and take advantage of employer matches if available. The key is to consistently save a part of your income, invest wisely, and regularly review and adjust your savings and investment strategy. 
 
 Further readings:

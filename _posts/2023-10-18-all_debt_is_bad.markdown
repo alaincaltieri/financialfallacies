@@ -17,6 +17,8 @@ image:
 
 This statement is a common financial fallacy because it simplifies the nature of debt, failing to differentiate between its different forms and uses. Not all debt is created equal. There are two main types of debt: good debt and bad debt. Good debt, in proper moderation, can represent a strategic investment that brings a return over time. Examples include a student loan for a degree that enhances earning potential, a mortgage for a home that appreciates in value, or a business loan to expand a company promising high returns.
 
+It's understandable why many fall for this fallacy. Debt is often associated with negative circumstances, like bankruptcy or financial crisis. These situations are highly publicized, causing us to develop an innate fear of debt. Moreover, debt involves risk, and risk can be intimidating, especially when it comes to personal finances. Being in debt means you owe someone something, and this can create a psychological burden, making us naturally inclined to view all debt as bad.
+
 The correct financial behaviour revolves around effective debt management. It's about understanding the difference between good and bad debts, using good debt to your advantage, and avoiding or managing bad debts. Good money management also implies keeping your debt within manageable limits, saving and investing wisely, maintaining good credit, and planning for the future.
 
 For further reading on this financial fallacy:

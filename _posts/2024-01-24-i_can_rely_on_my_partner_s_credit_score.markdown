@@ -17,6 +17,8 @@ image:
 
 Relying solely on your partner's credit score is a financial fallacy because credit scores are individually based, not joint. Financial institutions look at each person's credit history separately when determining credit eligibility, regardless of marital status. Your partner's good credit score does not automatically provide you with credit, and if your credit history is poor or non-existent, this can limit your access to credit. Besides, in unfortunate events like a breakup or the death of the partner, you might find yourself financially vulnerable if you never built a credit history of your own.
 
+It's natural to fall into this fallacy, especially when in a long term relationship or marriage. We often merge our lives with our partners', including our finances. We might be drawn to the illusion of security through joint credit or our partner's good credit standing without considering the possible implications for our own financial independence and security in the unforeseen future.
+
 The correct financial behavior involves maintaining your own credit history, even if your partner has a good one. This involves opening a credit account in your own name, paying all your obligations (like credit card bills, rents, loans) on time, and reviewing your credit report periodically to track your progress and rectify any errors. Maintaining a healthy credit score prepares you for financial independence and it is an advantageous trait for both individuals in a partnership.
 
 Further Readings:

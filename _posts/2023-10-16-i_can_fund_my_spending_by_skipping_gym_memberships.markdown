@@ -18,6 +18,8 @@ image:
 
 This statement is a financial fallacy because it suggests that cutting out one expense, like a gym membership, can fund all other spending habits. While it is true that eliminating unnecessary costs can help free up money in your budget, it won't completely fund your entire lifestyle, especially if your spending exceeds your income. Also, a gym membership could provide long-term health benefits which might end up saving you on healthcare costs in the future.
 
+It's easy to understand why people fall into this misconstrued thinking. Gym memberships are typical examples of fixed monthly expenses that people could judge as extraneous or optional, thus an easy target for budget cuts during frugal times. Under a tight budget, reducing any cost may feel like a victory or proof of good financial planning.
+
 The correct financial behavior would be to consistently track your income and expenses, create and adhere to a balanced budget, minimize unnecessary expenditures, and save for the future. This includes an understanding of your needs versus wants, prioritizing essential expenses, and saving or investing the extra funds diligently.
 
 Further reading:

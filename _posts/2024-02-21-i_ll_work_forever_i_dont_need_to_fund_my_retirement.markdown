@@ -24,6 +24,8 @@ This is a financial fallacy due to several reasons:
 
 3. Quality of Life: Working indefinitely doesn't afford the flexibility and freedom that a funded retirement could provide. Continual employment may place undue stress on individuals and prevent them from fully enjoying their later years. 
 
+There is a fear of not having enough, a hope that hard work can solve all financial issues, and perhaps a lack of understanding about how to prepare for retirement. People often avoid confronting their financial fears and uncertainties, leading them to justification strategies like planning to work indefinitely.
+
 The appropriate financial behaviour should involve regular, long-term savings and diversified investments for retirement. This includes taking advantage of employer-matched retirement plans, if available, making additional contributions to retirement accounts, minimizing debt, and building an emergency fund. An individual should also consider speaking with a financial advisor to develop a strategic retirement plan.
 
 Further Readings:

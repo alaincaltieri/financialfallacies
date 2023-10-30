@@ -19,6 +19,8 @@ The statement "I can spend now and save later" is a financial fallacy because it
 
 Moreover, it neglects the concept of compound interest, one of the most powerful principles of investing. The earlier you start saving, the more time your money has to grow. For instance, if you start saving in your 20s, the money has 40 years to grow before retirement, but if you start in your 40s, it only has 20 years.
 
+It's easy to comprehend why many people fall for this fallacy. There's always a strong temptation to enjoy the present and delay thoughts of the future - a cognitive bias known as 'hyperbolic discounting.' Many people prioritize immediate rewards over long term benefits, resulting in decisions that may not be beneficial in the long run. We may also have an unrealistic optimism about our future earning capabilities.
+
 The correct financial behavior is to save and invest consistently from an early age, live within your means, and have a plan for regular increases in the amount saved or invested. It's important to make a budget and stick to it, prioritize needs over wants, establish an emergency fund, and work towards long-term financial goals like retirement.
 
 Further readings related to this financial fallacy:
@@ -30,3 +32,5 @@ This article provides an in-depth explanation of the concept of compound interes
 
 3. "More Than Enough: The Ten Keys to Changing Your Financial Destiny" by Dave Ramsey. [Book Link](https://www.amazon.com/More-than-Enough-Changing-Financial/dp/0142000477/ref=nosim?tag=financialfall-20){:target="_blank"}
 This book gives insights into why waiting to save can lead to financial distress and offers guidance on how to steer clear of such pitfalls.
+
+4. "Hyperbolic discounting" - [Wikipedia](https://en.wikipedia.org/wiki/Hyperbolic_discounting){:target="_blank"}

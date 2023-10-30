@@ -18,6 +18,8 @@ image:
 
 The belief that one can't save money and pay off debt at the same time is indeed a financial fallacy. The underlying assumption here is that all available resources should be poured into debt repayment, leaving absolutely no room for savings. However, this all-or-nothing approach ignores the importance of maintaining a safety net for unforeseen circumstances.
 
+Budgeting and managing finances can be stressful, particularly when it feels like there simply isn't enough money to cover everything. Some people might feel the necessity to prioritize paying off loans or credit card debts before beginning to establish any form of savings. It's also not uncommon to feel overwhelmed by financial jargon and advice that sometimes makes personal financial management seem more complex than it has to be.
+
 The correct financial behavior acknowledges the simultaneous necessity of both paying off debt and saving money. When managing finances, the key is to strike a balance, prioritizing both debt reduction and saving. Firstly, establish an emergency fund, even if it's only a small amount each month. Then, focus on paying off debts, particularly high-interest ones. As your debts decrease, you can gradually increase the money allocated to saving.
 
 Further readings:

@@ -20,6 +20,8 @@ The idea of skipping retirement contributions for a year and spending instead mi
 
 The power of compounding allows your money to make more money over time. When you skip a year, you miss out on the gains that your contributions would have earned during that year. Plus, those earning would themselves compound in the following years. This reduced compounded growth results in a much smaller retirement fund down the line.
 
+It's easy to understand why people fall for this fallacy. We live in a consumer-driven society where spending can often feel satisfying and rewarding in the short term. Skipping a retirement contribution for a year could mean having more money to spend today. Also, the long-term nature of retirement may make the idea of it less urgent compared to immediate needs. Moreover, individuals might believe they can simply make larger contributions in subsequent years, misunderstanding how retirement saving works.
+
 Correct financial behaviour involves consistency in spending habits and savings habits, especially when it comes to retirement contributions. It's crucial to treat retirement contributions as a necessary and consistent expense, just like any other monthly bill you need to pay. If funds are tight, instead of cutting your retirement contributions, look elsewhere in your budget for spending categories you can adjust.
 
 Further readings that provide insight into this financial fallacy and its countermeasures include:

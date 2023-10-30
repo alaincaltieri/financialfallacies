@@ -24,6 +24,8 @@ The assertion that "Renting is throwing money away" is a financial fallacy becau
 
 3. Property Depreciation: A home is an investment, and like all investments, there's no guaranteed return. If the value of your home depreciates, you may end up selling for less than you've paid into it.
 
+It's easy to see why we might fall for this notion. Our culture prizes ownership, and homeownership, in particular, often seen as an indicator of financial success. There's a sense of permanence, security, and pride in owning a home, and paying off a mortgage is seen as "building equity." On the other hand, with rent, it may not always be directly apparent that we are purchasing a service (housing, maintenance, flexibility, etc.) because there's no physical "equity" that we retain.
+
 Correct Financial Behavior: Rather than assuming owning is always better, individuals should consider their personal situation and evaluate both the financial and lifestyle aspects. This includes considering current financial state, future income prospects, job stability, commitment to staying in an area, and readiness to take on the responsibilities of home ownership.
 
 Further Readings:

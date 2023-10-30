@@ -20,6 +20,8 @@ Stating "I don’t need an emergency fund because I have insurance" is indeed a 
 
 On the other hand, an emergency fund is used for unforeseen but often smaller-scale personal events like job loss, car repair, or small health issues. It provides you with quick access to cash for unexpected day-to-day emergencies. Relying on insurance alone may leave you with a coverage gap for these smaller emergencies. Additionally, making too many claims may contribute to raising your future insurance premiums. 
 
+It's understandable why someone might fall for this fallacy. When you're paying for insurance every month, it can feel like an extension of your safety net. After all, it's designed to protect you financially. However, insurance and emergency funds serve different purposes. Recognizing this distinction guards against a potentially crippling financial misunderstanding.
+
 The correct financial behaviour is to maintain both insurance and an emergency fund. Having insurance is critical to protect against large-scale unforeseen events. Concurrently, building an emergency fund reserving at least 3-6 months’ worth of living expenses provides the necessary safety net for day-to-day unexpected events and helps maintain financial stability.
 
 Here are some readings that are informative on this topic:

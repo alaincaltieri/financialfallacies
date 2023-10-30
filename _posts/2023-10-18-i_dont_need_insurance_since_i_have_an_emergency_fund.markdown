@@ -22,6 +22,8 @@ An emergency fund is a saved amount of money set aside to cover unexpected short
 
 Moreover, insurance policies often offer additional benefits such as legal support and expert advice which an emergency fund can't provide.
 
+Maintaining an emergency fund potentially gives a feeling of self-reliance and preparedness. Moreover, the tangibility of having money set aside provides more immediate comfort than the abstract concept of insurance, which only pays out when disaster strikes. The cost of insurance premiums can also serve as a deterrent, especially when compared with the peace of mind having a handy emergency fund brings.
+
 Accordingly, the correct financial behavior is to both maintain an emergency fund for minor, unexpected expenses and carry adequate insurance to protect against large, unpredictable risks. This comprehensive approach provides a safety net for unforeseen expenses that can happen in life.
 
 In-depth readings to gain a deeper understanding into this financial fallacy:

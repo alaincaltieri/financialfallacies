@@ -18,6 +18,8 @@ image:
 
 The reliance on payday loans in emergencies is a financial fallacy because such loans often come with obscenely high-interest rates, associated fees, and very short repayment periods. Relying on them regularly can lead to a cycle of debt, as you'd be constantly borrowing to pay off previous loans plus interest.
 
+The appeal of quick money, especially in desperate situations, can be very compelling. Fear and urgency can cloud judgement, making it easy to overlook the long-term effects, such as the extensive loan costs and harmful debt cycle. We may also underestimate our ability to repay the loan in a short period, not accounting for unexpected expenses that might arise.
+
 The correct financial behavior, in this case, would be to build an emergency savings fund. This fund should ideally consist of three to six months' worth of living expenses, set aside for unexpected financial difficulties such as job loss or medical emergencies. Correct financial behavior also involves living within your means, reducing unnecessary expenses, and identifying and rectifying poor financial habits.
 
 Further Readings:

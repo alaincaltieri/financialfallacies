@@ -21,6 +21,8 @@ Secondly, the lack of regulations and oversight for cryptocurrencies can make th
 
 Thirdly, the anonymity associated with cryptocurrencies has led to their usage in illegal activities. This risk can potentially lead to future regulatory crackdowns, which would negatively impact their value.
 
+It's understandable why people might fall for this fallacy. The prospect of earning a fortune within a short period is tempting. Moreover, cryptocurrencies continue to gain media attention and public interest, which fuels the perception that they are a lucrative investment. Social pressure or fear of missing out (FOMO) also might contribute to the decision to speculate cryptocurrencies.
+
 The appropriate financial behaviour would include diversifying your investment portfolio across a variety of assets to reduce risk. This would typically include stocks, bonds, mutual funds, real estate, and minimal part of speculative assets like cryptocurrencies if you can afford to take that risk. Investments should also be based on sound financial knowledge and understanding of the assets, rather than trends or hype. It's also important to consider your financial goals, time horizons, and risk tolerance when choosing your investments.
 
 For further reading:

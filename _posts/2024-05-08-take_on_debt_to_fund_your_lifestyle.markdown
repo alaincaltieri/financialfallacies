@@ -18,6 +18,8 @@ image:
 
 The concept that it's a wise financial decision to take on debt simply to fund your lifestyle is a fallacy due to a few fundamental reasons. First, it suggests spending beyond one's means, which can lead to a cycle of continuous borrowing. Second, it overlooks the impact of interest costs, which increase your debt over time and can significantly inflate the cost of items or experiences already consumed. Lastly, it doesn't account for the risk of defaulting - in the event of a financial crisis, the inability to repay debt can lead to severe consequences including damaged credit scores, and even bankruptcy. 
 
+Now, it's completely understandable why some people might fall for this fallacy. In an age where consumer culture is pervasive and society often judges people by their material possessions, it is tempting to look prosperous and successful. Advertisements and peer pressure often lead us to believe that we need material goods or luxurious experiences to lead fulfilled lives.
+
 The advisable financial behaviour emphasizes living within your means. That means spending less than you earn, and allocating a part of your income towards savings and investments. It promotes the acquisition of debt only for assets that potentially increase in value or generate income (like a house or a student loan for education that can improve earning potential). Additionally, maintaining an emergency fund for unplanned expenses or financial crises is a key part of sound financial behaviour. 
 
 Further Readings: 

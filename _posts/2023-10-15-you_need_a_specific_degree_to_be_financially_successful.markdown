@@ -18,6 +18,8 @@ image:
 
 Firstly, the statement "you need a specific degree to be financially successful" is indeed a financial fallacy. It's false because financial success isn't strictly tied to the degree you hold. Many financially successful individuals, like Bill Gates and Mark Zuckerberg, don't even have a degree. While some degrees might provide a higher average salary or the possibility to access certain job markets that pay well, success also depends on a myriad of other factors such as entrepreneurship skills, innovation, resilience, and even luck.
 
+We are often told from a young age that education is the key to success, setting a prescriptive path towards career achievement. Society places a lot of emphasis on academic credentials, and there are certainly professions where specific degrees are crucial such as law, medicine or engineering. However, equating a degree to financial success can lead us astray by overlooking other essential elements like financial literacy, entrepreneurial skills, or even opportunities in vocational careers. 
+
 Correct financial behavior involves:
 1. Earning: The base of your financial health comes from your personal income.
 2. Saving: Everyone should have an emergency fund and save for their long-term financial goals.

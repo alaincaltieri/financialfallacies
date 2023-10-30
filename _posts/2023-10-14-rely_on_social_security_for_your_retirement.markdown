@@ -22,6 +22,8 @@ Social Security isn't designed to be your sole source of income during retiremen
 
 Furthermore, there are concerns over the solvency of the Social Security system. The trustees of the Social Security fund have projected that the program cost will rise in 2035, which may result in reduced benefits, increased taxes, or changes in eligibility requirements.
 
+The thought of building a sufficient retirement nest egg can be daunting, and the simplicity of relying on a system that's automatically deducted from our paycheck is tempting. Moreover, an over-reliance on government-provided safety nets is not uncommon, especially for individuals who may not have been educated on personal finance or believe that they won’t have enough saved for retirement.
+
 Instead of solely relying on Social Security, correct financial behaviour for retirement planning includes diversifying your income streams. This can be achieved by saving in a 401(k) or an IRA, investing in the stock market, owning real estate, and having other income sources during retirement. A sound financial plan should also include budgeting, setting retirement goals, and adjusting your strategy as needed. 
 
 Further readings to aid understanding of retirement planning and the risks of relying on Social Security can be found below:

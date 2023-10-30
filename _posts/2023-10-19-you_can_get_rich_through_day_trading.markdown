@@ -17,6 +17,8 @@ image:
 
 The financial fallacy: "You can get rich through day trading" is based on the misconception that day trading is a quick and easy way to amass wealth. In reality, successful day trading requires immense knowledge about the financial markets, a well-developed trading strategy, emotional control, and luck. Many studies reveal that the majority of day traders lose money, making it a high-risk investment strategy. Some factors contributing to this include transaction costs, capital gains taxes, and the psychological stress of the rapid decision-making process. 
 
+It's easy to understand why people might fall for the allure of day trading. Success stories, sensationalized in media or flaunted by the few winners, can make it seem like an easy and quick way to financial independence. Also, with the advent of online trading platforms, getting started appears deceptively simple. Add to this the human tendency to overestimate one's abilities and you have a recipe for inflated expectations.
+
 Correct Financial behaviour:
 
 The correct financial behaviour entails understanding that investing involves discipline, patience, and diversification. Instead of trying to make quick gains through high-risk strategies like day trading, wealth accumulation generally comes from carefully building a diverse portfolio of investments that grow over time. This includes buying and holding assets such as stocks, bonds, and ETFs. 

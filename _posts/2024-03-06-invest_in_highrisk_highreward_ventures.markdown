@@ -17,6 +17,8 @@ image:
 
 Investing in high-risk, high-reward ventures as a guaranteed route to financial success is a fallacy for several reasons. Firstly, while it's true that high-risk investments can yield high returns, they can also result in substantial losses. It's called "high-risk" for a reason - the potential for loss is just as great, if not greater, than the potential for gain. Secondly, this fallacy tends to oversimplify the concept of investing by reducing it to a simple gamble, which is not accurate. It doesn't take into account the importance of factors such as portfolio diversification, risk tolerance, and investment horizon.
 
+The reason why we may fall for this fallacy is due to what psychologists call the 'illusion of control.' We often overestimate our ability to influence events and misjudge the role of chance in investment outcomes. There's also the lure of quick, substantial gains that can create a sort of 'get-rich-quick' mentality, leading us to overlook the inherent risks involved.
+
 The correct financial behaviour is a strategic and diversified approach to investing. It involves spreading your investments across different asset classes to minimize risk while maximizing potential returns. It also requires understanding your financial goals, risk tolerance, and investment horizon before choosing where to invest. Always remember it's not just about making money, but also about preserving your capital and achieving your financial goals over the long term.
 
 Further readings:

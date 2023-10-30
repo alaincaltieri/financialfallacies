@@ -17,6 +17,8 @@ image:
 
 The statement "Only invest in actively managed mutual funds" is a financial fallacy because it wrongly assumes that actively managed funds always outperform passive funds or indexes, which is not always true. While the main goal of actively managed funds is to beat the market, not all of them do, and their fees are often higher than passive funds. High management fees can greatly eat into the returns you would otherwise be making. Moreover, the performance of such funds depends heavily on the fund manager's investment decisions, which can be quite risky.
 
+The financial services industry has a vested interest in promoting expensive products like actively managed funds. The illusion of a hands-on approach from professional managers might seduce you into believing that the high fees are justified. Besides, the narrative of beating the market is tempting, it's human nature to want the best and to strive for superior returns.
+
 The correct financial behaviour suggests a diversification of investment strategies. This would mean not just putting all your eggs in the actively managed funds basket, but instead investing in passively managed funds like index funds or ETFs, bonds, real estate and more. Diversification reduces risks and can potentially increase returns because different types of investments perform well under different market conditions.
 
 For further readings on this subject, consider the following:

@@ -22,6 +22,8 @@ Firstly, property inheritance is not guaranteed. There can be legal disputes, de
 
 Secondly, living beyond your means in expectation of future windfalls can lead to significant financial problems such as debt, bad credit ratings, or even bankruptcy. This does not even take into consideration the sudden unexpected costs such as medical emergencies or car repairs which can put you further into debt. 
 
+Many fall for this fallacy due to a sense of false security and the human tendency to not think long-term, especially when there's a perceived safety net in the form of an inheritance. The immediate gratification from spending now often takes precedence over long-term financial stability, leading to potentially reckless financial behavior.
+
 Correct financial behavior is living within your means: don't spend money you don't have and never count on money that isn't in your account. Additionally, building and maintaining an emergency fund, consistent savings and wise investments are paramount to financial health. 
 
 Here are some further readings:

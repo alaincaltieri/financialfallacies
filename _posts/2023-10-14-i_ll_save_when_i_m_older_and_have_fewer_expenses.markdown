@@ -18,6 +18,8 @@ image:
 
 The statement, 'I’ll save when I’m older and have fewer expenses,' is a financial fallacy for several reasons. Firstly, it assumes that your future self will have the ability to save more than your current self, which is not always guaranteed. Second, it overlooks the power of compound interest, which works more effectively the earlier you start saving. Time is your ally when it comes to personal savings and investments.
 
+It's easy to fall into this line of thinking because it relieves the pressure of saving now and also aligns with our natural tendency to focus on the short term. Immediate needs and wants often take precedence over the abstract, future concept of retirement. Furthermore, the assumption that you'll have more disposable income in the future can be a comforting thought.
+
 Correct financial behaviour involves prioritizing savings and investments from an early age or as soon as you start earning. Even small amounts, when invested wisely, can grow significantly over time due to compound interest. Budgeting, responsible spending, and embracing a lifestyle within one's means is also part of correct financial behaviour. Regularly reassessing your personal finance strategy to ensure alignment with your financial goals should also be emphasized.
 
 Further readings on this fallacy:

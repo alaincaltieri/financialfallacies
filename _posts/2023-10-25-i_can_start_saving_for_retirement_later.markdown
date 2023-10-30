@@ -18,6 +18,8 @@ image:
 
 The belief “I can start saving for retirement later” is a financial fallacy since it doesn't take into account the power of compound interest. Compound interest refers to earning an interest on the initial principal and the accumulated interest over time. This is often referred to as 'interest on interest'. The sooner you start investing, the more time your money has to grow and take advantage of this compounding effect. By delaying retirement savings, you are potentially sacrificing significant growth in your units of investment.
 
+It's totally reasonable why people fall for this fallacy. Short-term financial commitments often feel more urgent and pressing, and retirement seems a long way off when you're young. There may also be student loans, mortgages, or raising children that demand significant portions of one's income.
+
 The correct financial behaviour is to start saving for retirement as soon as possible, even if it's a small amount. Ultimately, it's not only about how much you're saving, but how long you're saving it for. The earlier you start saving and investing, the more you will have by the time retirement comes, thanks to the power of compound interest. 
 
 Here's a list of resources that delve deeper into this specific fallacy:

@@ -19,6 +19,8 @@ image:
 
 Firstly, having a lot of money to start a business is a financial fallacy because it assumes that business success is mainly dependent on capital. While capital is undeniably important, it's not the only critical component. Many businesses have started with meager finances and grown into successful enterprises thanks to a valuable offering and good management. Furthermore, certain types of businesses, such as online businesses, freelance work, or consulting, require little initial capital. What matters most is a clear plan, resourcefulness, and the ability to navigate the early stages of business growth.
 
+This misconception often takes root because starting a business is generally associated with significant expenditures, like renting a brick-and-mortar storefront, stocking inventory, hiring employees, and advertising. There's also a common narrative around successful entrepreneurs who initially invested large sums of money in their businesses. These factors contribute to the perception that starting a business is inherently a high-cost endeavor, making the fallacy easy to fall for.
+
 Correct financial behavior in this context would be to maintain a lean startup mentality. This means starting with a minimal viable product or service, investing the least amount necessary to bring it to market, and then learning and iterating based upon user feedback. It's also crucial to manage your finances wisely, investing in what's necessary, keeping costs low, and seeking outside finance only when necessary and strategically sound.
 
 For further reading on this fallacy and pertaining financial behavior, consider these resources:

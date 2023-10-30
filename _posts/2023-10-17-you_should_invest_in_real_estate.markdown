@@ -18,6 +18,8 @@ image:
 
 The statement "You should invest in real estate" is a financial fallacy because it oversimplifies the complex world of investment. Investment in real estate, similar to all kinds of investment, requires careful analysis, strategic planning, and risk management. Factors to be considered include market conditions, location, potential returns, cost for maintenance, taxes, and the investors' personal financial situation, among others. Investing in real estate is not appropriate for everyone and it doesn't guarantee profits. A poorly informed or timed real estate investment could potentially lead to significant losses. 
 
+It's completely understandable why this fallacy is so pervasive. Our society often portrays real estate investing as a booming, risk-free venture. TV shows glamorize home-flipping, the idea of renting properties portrays a steady income stream, and owning land has been historically associated with wealth and success. All these factors contribute to people's belief that real estate is always a good investment.
+
 The correct financial behavior should be aligning your investments with your personal financial goals, ability to tolerate risk, and timeline for needing returns. Diversification is a common strategy advised by financial experts to spread and lessen the risk. Your investment portfolio could include a mix of assets like stocks, bonds, mutual funds, and may include real estate as well - but that decision should be made after thorough due diligence.
 
 Further readings for more insight into this fallacy:

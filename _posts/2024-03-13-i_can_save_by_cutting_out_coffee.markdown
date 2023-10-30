@@ -17,6 +17,8 @@ image:
 
 The financial fallacy here is assuming that merely cutting out small discretionary spending like coffee will lead to substantial savings. True, eliminating such daily costs can contribute to savings over time, but it might not radically transform your finances. It's often small symbolic measures that don't address the larger issues. People often look at small non-essential purchases like coffee as the enemy, when substantive expenses like rent, transportation, medical care, and consumer debt may be the actual issues.
 
+People often feel overwhelmed by larger financial obligations that seem unchangeable or uncontrollable. Cutting out a daily coffee, or similar purchases, provides an easy, tangible action that gives a sense of control. Moreover, the success of this saving technique is easy to track, making it an attractive option for people seeking quick wins in their financial management attempts.
+
 The correct financial behaviour is to have an organized and comprehensive approach towards your personal finance that includes consistent saving, budgeting, debt management, and investing. The focus shouldn't just be on small hedonic expenditures, but on overall income, fixed expenses, and financial goals. It's important to scrutinize larger spending categories and working on strategies to increase income.
 
 Further readings that can provide more insight into this fallacy and correct management of personal finances include:
