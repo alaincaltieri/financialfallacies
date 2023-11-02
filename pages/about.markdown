@@ -28,6 +28,12 @@ All images on Your Financial Fallacies have been created with [Dream by Wombo](h
 This website is powered by [Jekyll](https://jekyllrb.com/){:target="_blank"} & the [So Simple](https://github.com/mmistakes/so-simple-theme){:target="_blank"} theme.
 
 
+## Disclaimer:
+
+The information provided in this website is for general informational purposes only and should not be construed as financial advice. Any financial decision made based on the information provided herein is at your own risk. You should consult with a qualified financial advisor or professional before making any financial decisions. The user assumes full responsibility for any actions taken based on the information provided, and the author and platform disclaim any liability for any consequences resulting from such actions. This website does not establish a client-advisor relationship between the user and the author or the platform.
+
+Always do your own research and seek professional advice before making any financial decisions.
+
 ## Affiliate links:
 
 This website may contain affiliate links, which means I may earn a commission if you click on the link or make a purchase using the link. When you make a purchase, the price you pay will be the same whether you use the affiliate link or go directly to the vendor's website using a non-affiliate link. 
