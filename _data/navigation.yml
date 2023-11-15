@@ -1,14 +1,14 @@
 - title: Home
   url: /
+- title: Start Here
+  url: /pages/about/
 - title: Categories
-  url: /categories
+  url: /categories/
 - title: Resources
-  url: /pages/resources
-- title: About
-  url: /pages/about
+  url: /pages/resources/
 - title: RSS
   url: /feed/index.xml
 - title: Telegram
   url: "https://t.me/yourfinancialfallacies"
 - title: Search
-  url: /pages/search
+  url: /pages/search/

@@ -122,7 +122,7 @@ author:
     
 footer_links:
   - title: Get in touch
-    url: /pages/about
+    url: /pages/about/
     icon: fas fa-handshake
   - title: Feed
     url: feed/index.xml
