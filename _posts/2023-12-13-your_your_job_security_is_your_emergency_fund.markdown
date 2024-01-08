@@ -5,7 +5,7 @@ comments: true
 
 date: 2023-12-13 17:15:00:00+00:00  
 slug: your_your_job_security_is_your_emergency_fund
-title: "Your your job security is your emergency fund."
+title: "Your job security is your emergency fund."
 
 categories:
   - 'saving'
