@@ -20,9 +20,9 @@ This statement is a financial fallacy because it assumes that wealth can be achi
 
 Humans are naturally inclined to optimism about possibilities, which can sometimes lead us to overlook potential hazards. Also, the appeal of instant financial success can cloud our judgement. We're often enticed by the prospect of high returns without fully understanding the risks. In some situations where a person feels economically disadvantaged, the illusion of a quick financial resolution can seem alluring. 
 
-Now, onto the correct financial behaviour:
+Now, onto An effective financial strategy:
 
-Instead of falling for quick schemes, the correct approach towards financial growth is consistency, patience, and wise decisions. This may involve setting clear financial goals, spending within your means, saving and investing wisely, building emergency funds, and planning for retirement. It often includes seeking advice from financial professionals. Also, financial literacy is important; understanding the basics of personal finance like the compounding interest, how credit works and the basics of taxation can significantly improve one's financial wellbeing.
+Instead of falling for quick schemes, a better approach towards financial growth is consistency, patience, and wise decisions. This may involve setting clear financial goals, spending within your means, saving and investing wisely, building emergency funds, and planning for retirement. It often includes seeking advice from financial professionals. Also, financial literacy is important; understanding the basics of personal finance like the compounding interest, how credit works and the basics of taxation can significantly improve one's financial wellbeing.
 
 Recommended readings:
 

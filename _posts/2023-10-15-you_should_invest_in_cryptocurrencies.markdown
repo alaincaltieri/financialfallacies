@@ -19,7 +19,7 @@ The statement "you should invest in cryptocurrencies" is a financial fallacy for
 
 The meteoric rise of Bitcoin and other cryptocurrencies has made some people incredibly wealthy, leading many to think that they too can achieve similar results. The allure of fast, easy money can be hard to resist. Also, the complexities of the cryptocurrency realm are often not fully understood, causing many to overlook the inherent risks.
 
-The correct financial behavior involves a well-diversified investment portfolio tailored to individual goals, risk tolerance, and time horizon. This includes a mix of different asset classes like equities, bonds, mutual funds, real estate, and potentially a small percentage of investment in speculative assets like cryptocurrencies, contingent on personal risk capacity.
+An appropriate financial practice involves a well-diversified investment portfolio tailored to individual goals, risk tolerance, and time horizon. This includes a mix of different asset classes like equities, bonds, mutual funds, real estate, and potentially a small percentage of investment in speculative assets like cryptocurrencies, contingent on personal risk capacity.
 
 Further Readings:
 

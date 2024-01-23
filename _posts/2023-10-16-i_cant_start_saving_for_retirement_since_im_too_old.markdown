@@ -20,7 +20,7 @@ The statement, "I can't start saving for retirement since I'm too old" is a fina
 
 It's easy to fall into this fallacy due to the common perception that you need to start saving for retirement early in your career. This can make older individuals feel like they've missed their chance, thinking that investments require a long time to mature. Also, the media often emphasizes the youth, creating a misconception that financial planning is not meant for older generations. These factors plus fear and uncertainty can lead someone to avoid saving due to a perceived late start.
 
-The correct financial behavior is to start saving and investing as soon as possible. Utilize retirement savings plans and take advantage of employer matches if available. The key is to consistently save a part of your income, invest wisely, and regularly review and adjust your savings and investment strategy. 
+An appropriate financial practice is to start saving and investing as soon as possible. Utilize retirement savings plans and take advantage of employer matches if available. The key is to consistently save a part of your income, invest wisely, and regularly review and adjust your savings and investment strategy. 
 
 Further readings:
 

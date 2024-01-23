@@ -19,7 +19,7 @@ Saying "I don’t need a budget" is a financial fallacy because it assumes that 
 
 Managing a budget can feel restricting and even overwhelming for those who are not used to it. For some, the idea of documenting every dollar might seem unnecessary, especially when they are able to meet their needs. The contemporary hustling culture also promotes the idea that you should "make more, spend more," which further discourages people from diligently tracking their expenses.
 
-The correct financial behaviour is to create, maintain and adhere to a budget. This involves keeping track of all income and expenses, no matter how small they may appear to be because they add up over time. By understanding where your money is being spent every month, you can make informed decisions about discretionary spending, savings and investments. Adequate budgeting can also prevent unnecessary debt and contribute to financial security.
+An effective financial strategy is to create, maintain and adhere to a budget. This involves keeping track of all income and expenses, no matter how small they may appear to be because they add up over time. By understanding where your money is being spent every month, you can make informed decisions about discretionary spending, savings and investments. Adequate budgeting can also prevent unnecessary debt and contribute to financial security.
 
 Recommended Further Readings: 
 

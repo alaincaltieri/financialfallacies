@@ -23,7 +23,7 @@ True financial success comes from a combination of factors such as financial lit
 
 We live in a society that places high regard on formal education, often equating it with success and achievement. Moreover, statistically, there is indeed a correlation between higher education levels and higher income. This narrative, however, omits the fact that correlation does not equal causation. Success is multi-dimensional and involves more factors than education alone.
 
-The correct financial behaviour involves managing your money wisely. This includes making a budget and sticking to it, saving a portion of your income, investing sensibly, and minimizing debt. It also involves continuously educating yourself about personal finance, whether or not you have a formal education.
+An effective financial strategy involves managing your money wisely. This includes making a budget and sticking to it, saving a portion of your income, investing sensibly, and minimizing debt. It also involves continuously educating yourself about personal finance, whether or not you have a formal education.
 
 For further reading on this topic, here are some resources:
 1. "The Millionaire Next Door" by Thomas J. Stanley and William D. Danko. [Book Link](https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474/ref=nosim?tag=financialfall-20){:target="_blank"}

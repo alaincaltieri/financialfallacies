@@ -20,7 +20,7 @@ The statement "I can borrow my way out of debt" is a financial fallacy because b
 
 It's easy to fall for this fallacy because it can seem like a quick and easy solution. You might think, "If I just take this one loan, I can pay off all my other loans and then only have one payment to worry about". This line of thinking can be particularly attractive during times of financial stress or uncertainty. That's why it's so important to understand the true implications of borrowing money and the dangers of a 'quick fix' that ultimately leads to worse financial health.
 
-The correct financial behaviour, in this case, involves building a budget, cutting non-essential costs, focusing on repaying your current debts, and finding alternative income sources. Avoid taking out additional loans unless very necessary, and even in these situations, there should be a concrete and realistic plan on how to repay them quickly. It's equally important to incorporate saving and investment into your financial planning to strengthen your overall financial health.
+An effective financial strategy, in this case, involves building a budget, cutting non-essential costs, focusing on repaying your current debts, and finding alternative income sources. Avoid taking out additional loans unless very necessary, and even in these situations, there should be a concrete and realistic plan on how to repay them quickly. It's equally important to incorporate saving and investment into your financial planning to strengthen your overall financial health.
 
 Further readings specific to this fallacy include:
 

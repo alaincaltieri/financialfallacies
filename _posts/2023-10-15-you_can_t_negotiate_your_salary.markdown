@@ -19,7 +19,7 @@ Firstly, the notion that "you can't negotiate your salary," is a financial falla
 
 Many people are uncomfortable discussing money and may feel that it's impolite or aggressive to negotiate salary. Others may feel intimidated or anxious about negotiating in a professional context, fearing that they could potentially lose the job offer. So, it’s a common trap to fall into, but it comes from misconceptions about the salary negotiation process.
 
-The correct financial behaviour in this scenario is learning how to effectively negotiate your salary. This means doing your homework researching market rates for your role and industry, knowing your worth, presenting a compelling case based on your skills and accomplishments, and being prepared to counter with a rationale and composed manner when the employer presents their offer.
+An effective financial strategy in this scenario is learning how to effectively negotiate your salary. This means doing your homework researching market rates for your role and industry, knowing your worth, presenting a compelling case based on your skills and accomplishments, and being prepared to counter with a rationale and composed manner when the employer presents their offer.
 
 Here are some additional readings:
 

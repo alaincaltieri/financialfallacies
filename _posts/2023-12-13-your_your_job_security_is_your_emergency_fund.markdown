@@ -25,7 +25,7 @@ The financial fallacy "Your job security is your emergency fund" stems from the 
 
 It's comforting to believe that as long as we're employed, we're financially protected. Believing that a job equals security allows us to avoid facing the uncertainty of the future. This desire for certainty is a common human trait which can lead to mistaken beliefs.
 
-The correct financial behaviour is to build and maintain an emergency fund with enough to cover 3-6 months of living expenses. An emergency fund provides an extra layer of financial security and allows you to meet unexpected expenses without having to resort to loans, credit card debts, or compromising your savings or investments.
+An effective financial strategy is to build and maintain an emergency fund with enough to cover 3-6 months of living expenses. An emergency fund provides an extra layer of financial security and allows you to meet unexpected expenses without having to resort to loans, credit card debts, or compromising your savings or investments.
 
 Additional resources:
 

@@ -20,7 +20,7 @@ The idea that "I can save by skipping regular health checkups" is a financial fa
 
 The costs associated with regular checkups might seem unnecessary, especially if you're relatively young or feel healthy. In fact, when juggling various financial responsibilities such as bills, rent, school fees, etc., health checkups might come across as an 'optional' or 'luxury' expenditure. Furthermore, the fact that health issues often don't present immediate symptoms further makes it easy to put off these checkups.
 
-The correct financial behavior in this situation would be seeing regular checkups as an investment in your future health and well-being. By regularly keeping track of your health status through checkups, you reduce the risk of serious, and often expensive, health issues developing unnoticed. If an issue is found, early treatment is usually more effective and less costly than treatment at more advanced stages.
+An appropriate financial practice in this situation would be seeing regular checkups as an investment in your future health and well-being. By regularly keeping track of your health status through checkups, you reduce the risk of serious, and often expensive, health issues developing unnoticed. If an issue is found, early treatment is usually more effective and less costly than treatment at more advanced stages.
 
 Further readings on this financial fallacy:
 

@@ -21,7 +21,7 @@ The financial fallacy "Keeping up with the Joneses" refers to the practice of ma
 
 It's easy to fall for the "Keeping up with the Joneses" fallacy because we live in a society where a great emphasis is placed on external appearances and material possessions, sometimes equating them with success and happiness. As social beings, it's only natural for us to compare our lives with those around us and feel the pressure to conform or compete. Social media today has amplified this phenomena to a global scale, making it even harder to resist this fallacy. 
 
-The correct financial behavior is to focus on one's own financial goals and limitations, rather than attempting to keep pace with others. This involves budgeting responsibly, saving regularly, managing debts wisely, and investing for the future. It's a more sustainable, long-term financial strategy that considers personal financial health and wellbeing over societal perceptions or immediate gratification.
+An appropriate financial practice is to focus on one's own financial goals and limitations, rather than attempting to keep pace with others. This involves budgeting responsibly, saving regularly, managing debts wisely, and investing for the future. It's a more sustainable, long-term financial strategy that considers personal financial health and wellbeing over societal perceptions or immediate gratification.
 
 Further reading on this fallacy:
 

@@ -22,7 +22,7 @@ On the other hand, an emergency fund is used for unforeseen but often smaller-sc
 
 It's understandable why someone might fall for this fallacy. When you're paying for insurance every month, it can feel like an extension of your safety net. After all, it's designed to protect you financially. However, insurance and emergency funds serve different purposes. Recognizing this distinction guards against a potentially crippling financial misunderstanding.
 
-The correct financial behaviour is to maintain both insurance and an emergency fund. Having insurance is critical to protect against large-scale unforeseen events. Concurrently, building an emergency fund reserving at least 3-6 months’ worth of living expenses provides the necessary safety net for day-to-day unexpected events and helps maintain financial stability.
+An effective financial strategy is to maintain both insurance and an emergency fund. Having insurance is critical to protect against large-scale unforeseen events. Concurrently, building an emergency fund reserving at least 3-6 months’ worth of living expenses provides the necessary safety net for day-to-day unexpected events and helps maintain financial stability.
 
 Here are some readings that are informative on this topic:
 

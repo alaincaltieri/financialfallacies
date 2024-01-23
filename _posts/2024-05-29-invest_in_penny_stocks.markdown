@@ -19,7 +19,7 @@ This idea is predicated on multiple misconceptions. Firstly, penny stocks are ty
 
 Who wouldn't want to seize the opportunity to purchase a large number of shares with just a small amount of money, or to capitalize on a so-called 'next big thing'? It's alluring, especially when we hear stories of some investors who have made it big through penny stocks. However, the reality is, many more lose money than make it in these speculative arenas. 
 
-The correct financial behavior is to dedicate ample time in research and understanding the mechanisms of the stock market and the particular stocks you are interested in. Investing your money in well-established, reputable companies and diversifying your investment portfolio minimizes your risk. One should also prioritize their financial goals, creating a realistic and strategic investment plan.
+An appropriate financial practice is to dedicate ample time in research and understanding the mechanisms of the stock market and the particular stocks you are interested in. Investing your money in well-established, reputable companies and diversifying your investment portfolio minimizes your risk. One should also prioritize their financial goals, creating a realistic and strategic investment plan.
 
 Further Readings Specific to this fallacy:
 

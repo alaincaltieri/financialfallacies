@@ -21,7 +21,7 @@ The statement "You need a high income to be financially secure" is a common fina
 
 The allure of this fallacy is understandable. It's easy to assume that a larger income can solve all our financial problems. We might believe that if we earn more, we won't have to worry about budgeting, saving, or investing. It's a seductive thought, but unfortunately, it's not accurate.
 
-The correct financial behaviour involves responsible financial management. This includes forming a clear understanding of your income and expenses, creating a realistic budget, saving a portion of your income regularly, investing wisely for long-term growth, guarding against risk with suitable insurance policies, and avoiding high interest debt. It also involves continual financial education to make informed decisions.
+An effective financial strategy involves responsible financial management. This includes forming a clear understanding of your income and expenses, creating a realistic budget, saving a portion of your income regularly, investing wisely for long-term growth, guarding against risk with suitable insurance policies, and avoiding high interest debt. It also involves continual financial education to make informed decisions.
 
 Further Readings:
 

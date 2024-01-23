@@ -23,7 +23,7 @@ In calculating the return on investment (ROI) for education, both direct costs (
 
 As to why we may fall for this fallacy, it’s understandable. It stems from an ingrained belief that education offers social mobility and success. It’s a testament to the way society values education. In decades past, a solid education was indeed a reliable path to a stable, lucrative career. However, with evolving job markets and rapidly changing industry needs, this is not always the case.
 
-The correct financial behaviour in relation to education would be conducting a full cost-benefit analysis before investing in it. This includes researching potential earning prospects in your chosen field, calculating total education cost, considering the time to graduation, and exploring options for scholarships or financial aid. It's also important to consider non-financial benefits or costs such as interest in the field or job satisfaction.
+An effective financial strategy in relation to education would be conducting a full cost-benefit analysis before investing in it. This includes researching potential earning prospects in your chosen field, calculating total education cost, considering the time to graduation, and exploring options for scholarships or financial aid. It's also important to consider non-financial benefits or costs such as interest in the field or job satisfaction.
 
 Further Readings:
 1. "Will College Pay Off?: A Guide to the Most Important Financial Decision You'll Ever Make" - Peter Cappelli. [Book Link](https://music.amazon.com/es-cl/podcasts/1145ebdf-dc85-4939-a6e5-1636548aa19c/what's-brewing-cccsfaaa){:target="_blank"}

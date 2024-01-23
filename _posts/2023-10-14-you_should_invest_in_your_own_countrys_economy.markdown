@@ -21,7 +21,7 @@ Over-investing in domestic companies presents the risk of not being adequately d
 
 We tend to trust what we know, and our own countries feel more familiar to us than distant economies. It feels good to support what we love and believe in, and the narrative of helping our home country's economy can be a compelling emotional case. However, investing should not be driven by emotional ties but rather by strategic thinking about risk and return.
 
-The correct financial behaviour should involve an understanding of the need for a diversified portfolio. This means spreading investments across different asset classes and geographies rather than investing excessively in one area. Diversification potentially offers a level of protection against financial losses because the poor performance of some investments will likely be offset by the acceptable performance of others.
+An effective financial strategy should involve an understanding of the need for a diversified portfolio. This means spreading investments across different asset classes and geographies rather than investing excessively in one area. Diversification potentially offers a level of protection against financial losses because the poor performance of some investments will likely be offset by the acceptable performance of others.
 
 Further readings:
 

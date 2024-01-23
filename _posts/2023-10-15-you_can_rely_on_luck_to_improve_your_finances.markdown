@@ -23,7 +23,7 @@ Believing that you can rely on luck to improve your finances is a financial fall
 
 It's not hard to empathize with those who may fall victim to this fallacy. Financial management can be confusing and overwhelming. The idea of luck coming to the rescue offers a type of comfort, a release from the intimidating task of financial planning. Furthermore, societal stories and media often glorify lucky financial windfalls, encouraging this fallacy even more.
 
-Correct financial behaviour involves diligent planning, systematic investments, prudent spending, and regular saving. It's about understanding your cash flow, setting achievable financial goals, budgeting wisely, managing debts, and regularly reviewing your investment portfolio. It's recommended to seek professional advice when needed and continue educating oneself about financial management best practices.
+A recommended approach involves diligent planning, systematic investments, prudent spending, and regular saving. It's about understanding your cash flow, setting achievable financial goals, budgeting wisely, managing debts, and regularly reviewing your investment portfolio. It's recommended to seek professional advice when needed and continue educating oneself about financial management best practices.
 
 Further readings that can provide more insights into this topic include:
 

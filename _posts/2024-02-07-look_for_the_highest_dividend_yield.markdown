@@ -21,7 +21,7 @@ A high dividend yield can be attributed to a decrease in the price of a stock re
 
 In a volatile market, the promise of a high dividend yield can be comforting. It gives the illusion of a safe and steady return. 
 
-However, the correct financial behaviour is to analyze a company's overall financial health before investing, considering factors such as its earnings growth, debt levels, cash flows, P/E ratio, etc. Additionally, it's vital to diversify investments to effectively manage risk and potential returns.
+However, An effective financial strategy is to analyze a company's overall financial health before investing, considering factors such as its earnings growth, debt levels, cash flows, P/E ratio, etc. Additionally, it's vital to diversify investments to effectively manage risk and potential returns.
 
 Further readings:
 

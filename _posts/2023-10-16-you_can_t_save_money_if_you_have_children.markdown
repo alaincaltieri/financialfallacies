@@ -19,7 +19,7 @@ The statement "You can't save money if you have children" is a financial fallacy
 
 The cost of raising children, including education, healthcare, and daily living expenses, seems overwhelming and never-ending. The media frequently highlights these costs, and we often hear stories from stressed-out parents who feel that every penny earned goes straight to their children's expenses. This constant emphasis on the financial pressure associated with raising children can lead people to believe that saving money while having kids is an impossible task.
 
-The correct financial behaviour when you have children or are planning to have them involves practicing disciplined and strategic financial planning. This includes setting a budget, consistently following it, and allocating your resources thoughtfully. It means reducing unnecessary expenses, instilling the value of money in your children from an early age, and seeking out economical alternatives for expensive necessities. It's also important to start saving for their future, such as college expenses, right from the start. 
+An effective financial strategy when you have children or are planning to have them involves practicing disciplined and strategic financial planning. This includes setting a budget, consistently following it, and allocating your resources thoughtfully. It means reducing unnecessary expenses, instilling the value of money in your children from an early age, and seeking out economical alternatives for expensive necessities. It's also important to start saving for their future, such as college expenses, right from the start. 
 
 Further readings specific to this fallacy:
 

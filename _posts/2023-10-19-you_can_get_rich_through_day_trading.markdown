@@ -19,9 +19,9 @@ The financial fallacy: "You can get rich through day trading" is based on the mi
 
 It's easy to understand why people might fall for the allure of day trading. Success stories, sensationalized in media or flaunted by the few winners, can make it seem like an easy and quick way to financial independence. Also, with the advent of online trading platforms, getting started appears deceptively simple. Add to this the human tendency to overestimate one's abilities and you have a recipe for inflated expectations.
 
-Correct Financial behaviour:
+Recommended Financial behaviour:
 
-The correct financial behaviour entails understanding that investing involves discipline, patience, and diversification. Instead of trying to make quick gains through high-risk strategies like day trading, wealth accumulation generally comes from carefully building a diverse portfolio of investments that grow over time. This includes buying and holding assets such as stocks, bonds, and ETFs. 
+An effective financial strategy entails understanding that investing involves discipline, patience, and diversification. Instead of trying to make quick gains through high-risk strategies like day trading, wealth accumulation generally comes from carefully building a diverse portfolio of investments that grow over time. This includes buying and holding assets such as stocks, bonds, and ETFs. 
 
 Further Readings:
 

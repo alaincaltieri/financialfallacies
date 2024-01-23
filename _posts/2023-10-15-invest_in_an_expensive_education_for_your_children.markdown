@@ -21,7 +21,7 @@ The financial fallacy: "Investing in an expensive education for your children sh
 
 Many people fall for this because they equate high cost with high value - a common assumption in many aspects of life. We live in a society where the prestige and cost of universities are often considered indicative of the quality of education. Additionally, societal pressure and the desire to offer your child the "best" can often overpower logical financial decision making.
 
-The correct financial behavior is to consider education as an investment and analyze it from a value perspective. It's prudent to examine all the factors, like the success rate of graduates, the specialty of the institution, scholarship opportunities, among others before making a financial commitment of this magnitude. It's also essential to find a balance between the quality of education and the amount of debt that either you or your child will have to bear.
+An appropriate financial practice is to consider education as an investment and analyze it from a value perspective. It's prudent to examine all the factors, like the success rate of graduates, the specialty of the institution, scholarship opportunities, among others before making a financial commitment of this magnitude. It's also essential to find a balance between the quality of education and the amount of debt that either you or your child will have to bear.
 
 Further readings on this fallacy:
 

@@ -20,7 +20,7 @@ The belief that you need a lot of money to start investing is a common financial
 
 It's understandably easy to fall for this fallacy, especially when our mainstream narrative often paints a picture of investing as something exclusive to the affluent or financially savvy individuals. Many of us aren't taught about investing in school. It's typically something learned from families or self-study. So, it's only natural for people to assume that entering what seems like a complex financial world requires a large sum of money.
 
-The correct financial behaviour towards investing is starting as early as possible, regardless of the amount you initially have. It's best to begin with what you can afford consistently, bearing in mind that the power of compounding interest can significantly grow your wealth over time. 
+An effective financial strategy towards investing is starting as early as possible, regardless of the amount you initially have. It's best to begin with what you can afford consistently, bearing in mind that the power of compounding interest can significantly grow your wealth over time. 
 
 Building a diverse portfolio, regularly contributing to it, and having a long-term perspective are key. You should also prioritize understanding the different types of investments and the associated risks. It's crucial to have a clear investment plan and strategy that suits your financial goals and risk tolerance. Remember, investing is not about getting rich quick; it's about growth over time.
 

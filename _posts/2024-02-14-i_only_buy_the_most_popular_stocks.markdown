@@ -19,7 +19,7 @@ image:
 
 It's easy to see why this fallacy is appealing. If everyone else is buying a particular stock, it's comforting to go with the crowd. There's a sense of security in numbers; if so many people believe in the value of a company, then investing in it seems less risky. This is exacerbated by media hype around certain popular stocks. 
 
-The Correct financial behavior in equity investment is based on thorough research and a balanced portfolio. Instead of going after popular stocks, you should invest in companies with strong fundamentals, good corporate governance, and long-term profitability. A diversified portfolio across sectors and regions is critical to minimize risks. Regular monitoring and balancing of your portfolio based on market conditions and personal financial goals are also necessary.
+An appropriate financial practice in equity investment is based on thorough research and a balanced portfolio. Instead of going after popular stocks, you should invest in companies with strong fundamentals, good corporate governance, and long-term profitability. A diversified portfolio across sectors and regions is critical to minimize risks. Regular monitoring and balancing of your portfolio based on market conditions and personal financial goals are also necessary.
 
 Further Readings Specific to this Fallacy:
 

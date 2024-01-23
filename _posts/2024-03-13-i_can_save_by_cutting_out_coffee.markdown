@@ -19,9 +19,9 @@ The financial fallacy here is assuming that merely cutting out small discretiona
 
 People often feel overwhelmed by larger financial obligations that seem unchangeable or uncontrollable. Cutting out a daily coffee, or similar purchases, provides an easy, tangible action that gives a sense of control. Moreover, the success of this saving technique is easy to track, making it an attractive option for people seeking quick wins in their financial management attempts.
 
-The correct financial behaviour is to have an organized and comprehensive approach towards your personal finance that includes consistent saving, budgeting, debt management, and investing. The focus shouldn't just be on small hedonic expenditures, but on overall income, fixed expenses, and financial goals. It's important to scrutinize larger spending categories and working on strategies to increase income.
+An effective financial strategy is to have an organized and comprehensive approach towards your personal finance that includes consistent saving, budgeting, debt management, and investing. The focus shouldn't just be on small hedonic expenditures, but on overall income, fixed expenses, and financial goals. It's important to scrutinize larger spending categories and working on strategies to increase income.
 
-Further readings that can provide more insight into this fallacy and correct management of personal finances include:
+Further readings that can provide more insight into this fallacy and better management of personal finances include:
 
 1. "Your Money or Your Life” by Vicki Robin and Joe Dominguez. [Book Link](https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766/ref=nosim?tag=financialfall-20){:target="_blank"}. This classic personal finance book encourages readers to consider their relationship with money beyond simple daily transactions.
 

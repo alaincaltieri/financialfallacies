@@ -20,7 +20,7 @@ The financial fallacy of "I'll save when I get a raise" is based on the premise 
 
 It's quite easy to fall into this way of thinking because, at times, we struggle to balance between meeting our present needs and preparing for the future. It's very human to prioritize immediate comfort and pleasure over future security, which saving essentially is. Also, imagining having more income can make us feel as though we'll have more room for saving later, which creates a sense of financial comfort, even if it's unfounded. 
 
-The correct financial behavior would involve prioritizing saving and investing, regardless of income level. It's advised to start saving as early and as consistently as possible while maintaining a reasonable lifestyle that does not increase significantly with income. Additionally, each time you receive a raise, it is smart to increase the amount you save or invest accordingly, so the proportion of your savings grows with your income. This behavior is often referred to as 'paying yourself first' and promotes good savings habits.
+An appropriate financial practice would involve prioritizing saving and investing, regardless of income level. It's advised to start saving as early and as consistently as possible while maintaining a reasonable lifestyle that does not increase significantly with income. Additionally, each time you receive a raise, it is smart to increase the amount you save or invest accordingly, so the proportion of your savings grows with your income. This behavior is often referred to as 'paying yourself first' and promotes good savings habits.
 
 Further readings:
 

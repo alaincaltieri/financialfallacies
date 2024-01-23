@@ -19,7 +19,7 @@ The statement "Only invest in actively managed mutual funds" is a financial fall
 
 The financial services industry has a vested interest in promoting expensive products like actively managed funds. The illusion of a hands-on approach from professional managers might seduce you into believing that the high fees are justified. Besides, the narrative of beating the market is tempting, it's human nature to want the best and to strive for superior returns.
 
-The correct financial behaviour suggests a diversification of investment strategies. This would mean not just putting all your eggs in the actively managed funds basket, but instead investing in passively managed funds like index funds or ETFs, bonds, real estate and more. Diversification reduces risks and can potentially increase returns because different types of investments perform well under different market conditions.
+An effective financial strategy suggests a diversification of investment strategies. This would mean not just putting all your eggs in the actively managed funds basket, but instead investing in passively managed funds like index funds or ETFs, bonds, real estate and more. Diversification reduces risks and can potentially increase returns because different types of investments perform well under different market conditions.
 
 For further readings on this subject, consider the following:
 1. "A Random Walk Down Wall Street" by Burton G. Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}

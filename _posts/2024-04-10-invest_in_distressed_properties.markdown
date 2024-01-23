@@ -22,7 +22,7 @@ Distressed properties often come with numerous hidden costs that aren't immediat
 
 The prospect of buying a property at a significantly reduced price and the potentiality of high returns can be highly attractive to novice and seasoned investors alike. Additionally, popular home makeover shows on television often romanticize the process of flipping distressed houses, making it seem easy, fun, and highly profitable, when the reality can be quite the opposite.
 
-The correct financial behavior would be to carry out thorough due diligence before investing in any property. It's important to diversify investments and not put all your eggs in one basket. Professional advice should be sought, particularly if you're new to real estate investment. Budget accordingly, considering all potential costs, and have a sound plan to manage the property or otherwise make it profitable.
+An appropriate financial practice would be to carry out thorough due diligence before investing in any property. It's important to diversify investments and not put all your eggs in one basket. Professional advice should be sought, particularly if you're new to real estate investment. Budget accordingly, considering all potential costs, and have a sound plan to manage the property or otherwise make it profitable.
 
 Further Readings:
 

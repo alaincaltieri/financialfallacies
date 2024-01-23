@@ -19,7 +19,7 @@ The statement, "Invest based on recent performance" is a financial fallacy due t
 
 There's comfort in patterns, and humans are pattern-seeking creatures. We see a stock or fund doing well over the recent months or years, and we assume the trend will continue. It feels like a safe bet and often, it simply seems like logical reasoning to us.
 
-The correct financial behaviour leans towards a long-term diversified investment strategy. Instead of making decisions based solely on an asset’s recent performance, your investing decisions should be based on your financial goals, risk tolerance, and investment timeline. It's important to diversify your investments to avoid potential risks associated with investing heavily in a single asset.
+An effective financial strategy leans towards a long-term diversified investment strategy. Instead of making decisions based solely on an asset’s recent performance, your investing decisions should be based on your financial goals, risk tolerance, and investment timeline. It's important to diversify your investments to avoid potential risks associated with investing heavily in a single asset.
 
 Further Readings:
 

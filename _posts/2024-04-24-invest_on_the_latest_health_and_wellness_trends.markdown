@@ -20,7 +20,7 @@ Investing in the latest health and wellness trends can be a financial fallacy be
 
 It's understandable why some people fall for this type of fallacy. For one, these health and wellness trends are compelling and attractively packaged. They often promise quick and significant benefits to personal health or well-being, which appeals to our innate desire for immediate gratification. Also, marketing campaigns for these trends are usually quite persuasive and widely dispersed across different media platforms, easily captivating wide audiences.
 
-The correct financial behavior would be to conduct extensive research before making any investment. Rather than following trends, investments should be based on the company's fundamentals, such as its balance sheet, the competency of its management, and its market performance. A diverse investment portfolio that balances risk is also a sound strategy. It is also wise to view investing as a long-term endeavour rather than a get-rich-quick scheme.
+An appropriate financial practice would be to conduct extensive research before making any investment. Rather than following trends, investments should be based on the company's fundamentals, such as its balance sheet, the competency of its management, and its market performance. A diverse investment portfolio that balances risk is also a sound strategy. It is also wise to view investing as a long-term endeavour rather than a get-rich-quick scheme.
 
 Further readings specific to this fallacy:
 

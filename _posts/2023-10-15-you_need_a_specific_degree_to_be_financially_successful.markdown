@@ -20,7 +20,7 @@ Firstly, the statement "you need a specific degree to be financially successful"
 
 We are often told from a young age that education is the key to success, setting a prescriptive path towards career achievement. Society places a lot of emphasis on academic credentials, and there are certainly professions where specific degrees are crucial such as law, medicine or engineering. However, equating a degree to financial success can lead us astray by overlooking other essential elements like financial literacy, entrepreneurial skills, or even opportunities in vocational careers. 
 
-Correct financial behavior involves:
+Advisable financial behavior involves:
 1. Earning: The base of your financial health comes from your personal income.
 2. Saving: Everyone should have an emergency fund and save for their long-term financial goals.
 3. Investing: It's key to grow your money through investments, which often generate higher returns compared to leaving your money in a savings account.

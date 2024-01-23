@@ -20,7 +20,7 @@ The financial fallacy in the statement, "Buy luxury items and resell them later 
 
 It's understandable why some people might fall for this fallacy. Media often highlights stories of rare items that have skyrocketed in value over years which can mislead people to think it's a common event. There's also an emotionally appealing aspect to owning luxury goods which may cloud judgment and decision-making. However, these are very situational and doesn't reflect the typical experience.
 
-The correct financial behaviour, in contrast, focuses on long-term wealth building through time-tested methods such as investing in a diversified portfolio of stocks, bonds, and mutual funds, maintaining a strong emergency fund, maxing out retirement savings, eliminating high-interest debt, and continuously improving one's earning potential.
+An effective financial strategy, in contrast, focuses on long-term wealth building through time-tested methods such as investing in a diversified portfolio of stocks, bonds, and mutual funds, maintaining a strong emergency fund, maxing out retirement savings, eliminating high-interest debt, and continuously improving one's earning potential.
 
 Further readings specific to this fallacy:
 1. "A Random Walk Down Wall Street" by Burton Malkiel. [Book Link](https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/0393330338/ref=nosim?tag=financialfall-20){:target="_blank"}

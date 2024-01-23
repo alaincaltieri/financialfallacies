@@ -21,7 +21,7 @@ Moreover, it neglects the concept of compound interest, one of the most powerful
 
 It's easy to comprehend why many people fall for this fallacy. There's always a strong temptation to enjoy the present and delay thoughts of the future - a cognitive bias known as 'hyperbolic discounting.' Many people prioritize immediate rewards over long term benefits, resulting in decisions that may not be beneficial in the long run. We may also have an unrealistic optimism about our future earning capabilities.
 
-The correct financial behavior is to save and invest consistently from an early age, live within your means, and have a plan for regular increases in the amount saved or invested. It's important to make a budget and stick to it, prioritize needs over wants, establish an emergency fund, and work towards long-term financial goals like retirement.
+An appropriate financial practice is to save and invest consistently from an early age, live within your means, and have a plan for regular increases in the amount saved or invested. It's important to make a budget and stick to it, prioritize needs over wants, establish an emergency fund, and work towards long-term financial goals like retirement.
 
 Further readings related to this financial fallacy:
 

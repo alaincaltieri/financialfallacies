@@ -22,7 +22,7 @@ This is a financial fallacy because it involves a great deal of risk and specula
 
 Now, it's completely understandable why we might fall for this fallacy. Society often promotes the idea of real estate as a foolproof investment. The promise of an up-and-coming neighbourhood carries an attractive narrative of opportunity and potential. Also, people tend to follow advice from friends, family, or social media, which may often oversimplify complex financial decisions.
 
-The correct financial behavior is to make investment decisions based on thorough research and understanding of the market, considering factors such as your financial goals, risk tolerance, and the timeframe for your investment. It's also crucial to diversify your investments to mitigate risk.
+An appropriate financial practice is to make investment decisions based on thorough research and understanding of the market, considering factors such as your financial goals, risk tolerance, and the timeframe for your investment. It's also crucial to diversify your investments to mitigate risk.
 
 List of further readings:
 

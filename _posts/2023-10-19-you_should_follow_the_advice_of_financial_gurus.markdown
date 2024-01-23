@@ -23,7 +23,7 @@ image:
 
 Personal finance can be complicated and intimidating. When a person who is portrayed as an expert gives advice, it seems like a simpler and quicker route to financial success. We may think, "If it worked for them, it should work for me too." But remember, what worked for them might not work for you because of the uniqueness of your financial situation.
 
-The correct financial behavior would involve creating a financial plan based on personal circumstances and long-term goals. It is advisable to maintain a monthly budget, save for emergencies, pay off debts, and invest wisely, after gaining a good understanding of your investment choices and the risks involved. Demonstrate patience during market downturns and do not be driven by fear or greed. Always seek advice from certified professionals, keeping your personal situation in mind. 
+An appropriate financial practice would involve creating a financial plan based on personal circumstances and long-term goals. It is advisable to maintain a monthly budget, save for emergencies, pay off debts, and invest wisely, after gaining a good understanding of your investment choices and the risks involved. Demonstrate patience during market downturns and do not be driven by fear or greed. Always seek advice from certified professionals, keeping your personal situation in mind. 
 
 Further readings:
 

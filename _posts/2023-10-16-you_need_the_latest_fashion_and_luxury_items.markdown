@@ -24,7 +24,7 @@ Third, it doesn't account for the crucial concept of 'opportunity cost,' meaning
 
 People might fall for this fallacy due to societal pressures, advertising campaigns and a natural desire to fit in and feel admired. There is nothing inherently wrong with wanting to feel good about oneself, and for some, designer leathers or fancy cars provide that. However, problems arise when we allow these desires to dictate our spending patterns, especially when it leads to credit card debt, loans, or insufficient savings for emergencies, retirement and other life goals.
 
-The correct financial behavior would be one more focused on long-term financial health and happiness instead of short-term pleasures. This involves creating a budget, making wise investments, setting financial goals, and realizing that material possessions do not lead to lasting happiness nor determine your self-worth.
+An appropriate financial practice would be one more focused on long-term financial health and happiness instead of short-term pleasures. This involves creating a budget, making wise investments, setting financial goals, and realizing that material possessions do not lead to lasting happiness nor determine your self-worth.
 
 Further readings:
 

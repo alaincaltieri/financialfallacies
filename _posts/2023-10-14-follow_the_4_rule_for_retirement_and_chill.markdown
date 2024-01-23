@@ -30,7 +30,7 @@ The 4% retirement rule is a common financial advice guideline that defines a str
 
 People may fall for this fallacy because it simplifies the complex and daunting task of retirement planning. It's an easy-to-understand strategy that provides a concrete number to aim for your retirement fund. Not to mention, it sounds very appealing to be able to 'chill' after you retire. However, this concept oversimplifies and overlooks the complexity of personal finance which makes it quite risky.
 
-The correct financial behaviour for retirement planning should include:
+An effective financial strategy for retirement planning should include:
 
 1. Adjustment according to personal needs: Tailor your withdrawal rate and spending based on your personal needs and lifestyle.
 

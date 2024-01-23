@@ -22,7 +22,7 @@ To begin with, timeshares don't appreciate in value like traditional real estate
 
 It's easy to understand why people fall for this fallacy. Dreamy advertisements and catchy sales pitches paint a picture of affordable vacations, promising investment growth and high return on investment. Many people love the idea of having a home away from home and may think that investing in one will be a good financial decision. Moreover, individuals often overlook the recurring costs associated with timeshares such as the annual fees and maintenance costs.
 
-The correct financial behaviour would be to allocate your funds into diversified, well-researched investments that are expected to appreciate over time, like low-cost index funds, bonds or real estate properties which can generate rental income, and allow for long term capital appreciation. Additionally, maintaining an emergency fund, limiting liabilities and establishing a solid retirement plan are beneficial moves.
+An effective financial strategy would be to allocate your funds into diversified, well-researched investments that are expected to appreciate over time, like low-cost index funds, bonds or real estate properties which can generate rental income, and allow for long term capital appreciation. Additionally, maintaining an emergency fund, limiting liabilities and establishing a solid retirement plan are beneficial moves.
 
 Here are some further readings:
 

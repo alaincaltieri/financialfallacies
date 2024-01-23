@@ -19,7 +19,7 @@ This financial fallacy stems from a misunderstanding of how cumulative savings w
 
 We often fall for this fallacy because the cost of small luxuries seems inconsequential in the context of larger financial commitments, such as rent or a car payment. It is easy to overlook the cumulative impact of these small amounts, and the instant gratification these purchases provide can make them seem beneficial. Additionally, luxury item purchases are often habitual, making it difficult to recognize their collective cost. 
 
-The correct financial behavior, on the other hand, is to recognize the role of small consistent savings in achieving your financial goals. This involves monitoring expenditure, making deliberate choices to cut unnecessary expenses and adhering to a budget. Understanding the value of a dollar saved is fundamental. Apart from saving, proper money management includes smart investing, prudent spending, and understanding financial risk and return. Practical saving strategies can lead to significant long-term savings that help in achieving financial freedom.
+An appropriate financial practice, on the other hand, is to recognize the role of small consistent savings in achieving your financial goals. This involves monitoring expenditure, making deliberate choices to cut unnecessary expenses and adhering to a budget. Understanding the value of a dollar saved is fundamental. Apart from saving, proper money management includes smart investing, prudent spending, and understanding financial risk and return. Practical saving strategies can lead to significant long-term savings that help in achieving financial freedom.
 
 Further Readings: 
 

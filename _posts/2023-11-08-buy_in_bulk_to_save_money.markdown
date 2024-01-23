@@ -19,7 +19,7 @@ The financial fallacy "buy in bulk to save money" assumes that buying large quan
 
 The idea of paying less per unit of a product is very enticing, especially in these times when everyone is looking to justify every penny spent. Moreover, retailers often use bulk discounts as a marketing strategy to entice customers into buying large quantities. The pressure to save, combined with these marketing strategies, can easily lead one into the bulk buying trap.
 
-Correct financial behaviour would be to calculate the cost per unit of products, determine if you have sufficient storage space, and ascertain whether the item will be used before its expiration date. Taking these precautions can help ensure the bulk purchase is truly economical. 
+A recommended approach would be to calculate the cost per unit of products, determine if you have sufficient storage space, and ascertain whether the item will be used before its expiration date. Taking these precautions can help ensure the bulk purchase is truly economical. 
 
 Further readings:
 

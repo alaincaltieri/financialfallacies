@@ -20,7 +20,7 @@ Playing the lottery is indeed a financial fallacy due to a few reasons. Firstly,
 
 It's completely understandable why people may see the lottery as an attractive financial opportunity. Everyone dreams of a windfall that could change their life and alleviate financial stress, and the lottery seems to offer this possibility for a small monetary investment. The thrill of 'chance' and media promotion of lottery winners further reinforce this illusion. However, these incidental successes are exceptions, not the rule, and do not accurately represent the reality of the lottery's odds.
 
-Correct financial behavior involves thoughtful, informed decisions. Rather than betting your money on slim chances, it should be invested methodically in diverse financial instruments such as stocks, bonds, mutual funds, real estate, etc for long term growth. Even simple saving techniques can yield better results over time than the lottery. Additionally, it is crucial to budget and track your income and expenses to stay within your means.
+Considered sound financial conduct involves thoughtful, informed decisions. Rather than betting your money on slim chances, it should be invested methodically in diverse financial instruments such as stocks, bonds, mutual funds, real estate, etc for long term growth. Even simple saving techniques can yield better results over time than the lottery. Additionally, it is crucial to budget and track your income and expenses to stay within your means.
 
 Further Readings Specific to this Fallacy:
 

@@ -20,7 +20,7 @@ The assertion "I can handle high-risk investments" is a financial fallacy primar
 
 Risk tolerance is highly individual and depends on many factors, including financial goals, age, income level, financial knowledge, etc. Some people may feel they can tolerate high risk because they have a steady income flow or significant savings, or perhaps they've seen success stories around high-risk investment. However, it's essential to remember that these stories are often the exception, not the rule. It's easy to fall into this overconfidence trap, especially in a bullish market, or when you've had some investing success.
 
-The correct financial behavior is balanced and diversified investing. It involves a mixture of safe and risky investments in proportions that match an individual's risk tolerance, financial capacity, and investment goals. It includes evaluating each investment not only on its individual merits but also on its contribution to the overall risk of the portfolio. The right behavior also involves continuous education, regular market reviews and adapting your strategy as markets or personal circumstances change.
+An appropriate financial practice is balanced and diversified investing. It involves a mixture of safe and risky investments in proportions that match an individual's risk tolerance, financial capacity, and investment goals. It includes evaluating each investment not only on its individual merits but also on its contribution to the overall risk of the portfolio. The right behavior also involves continuous education, regular market reviews and adapting your strategy as markets or personal circumstances change.
 
 To grasp a better understanding of this financial fallacy, here are some recommendations for further reading:
 

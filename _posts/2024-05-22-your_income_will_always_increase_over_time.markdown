@@ -22,7 +22,7 @@ A rising income is never a guarantee. Even with promotions or job changes, an in
 
 Understanding why this fallacy is so prevalent is deeply rooted in our optimistic bias and in societal narratives. We live in a world that encourages constant growth and progress, not to mention that many of us were brought up with the adage that hard work is always rewarded in time. It is these optimistic perspectives and upbringing that make us fall for the idea of constant income advancement.
 
-The correct financial behaviour is to emphasise financial planning and budgeting, conscious spending, and regular saving without reliance on a permanent rise in income. Living below your means is also essential, as this will enable you to manage unexpected income drops. Investing and diversifying your income sources can also help protect against relying too heavily on one income which may not always increase.
+An effective financial strategy is to emphasise financial planning and budgeting, conscious spending, and regular saving without reliance on a permanent rise in income. Living below your means is also essential, as this will enable you to manage unexpected income drops. Investing and diversifying your income sources can also help protect against relying too heavily on one income which may not always increase.
 
 Part 3: Further Readings 
 

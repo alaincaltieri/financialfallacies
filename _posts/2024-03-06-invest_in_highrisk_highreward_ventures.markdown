@@ -19,7 +19,7 @@ Investing in high-risk, high-reward ventures as a guaranteed route to financial 
 
 The reason why we may fall for this fallacy is due to what psychologists call the 'illusion of control.' We often overestimate our ability to influence events and misjudge the role of chance in investment outcomes. There's also the lure of quick, substantial gains that can create a sort of 'get-rich-quick' mentality, leading us to overlook the inherent risks involved.
 
-The correct financial behaviour is a strategic and diversified approach to investing. It involves spreading your investments across different asset classes to minimize risk while maximizing potential returns. It also requires understanding your financial goals, risk tolerance, and investment horizon before choosing where to invest. Always remember it's not just about making money, but also about preserving your capital and achieving your financial goals over the long term.
+An effective financial strategy is a strategic and diversified approach to investing. It involves spreading your investments across different asset classes to minimize risk while maximizing potential returns. It also requires understanding your financial goals, risk tolerance, and investment horizon before choosing where to invest. Always remember it's not just about making money, but also about preserving your capital and achieving your financial goals over the long term.
 
 Further readings:
 

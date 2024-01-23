@@ -24,7 +24,7 @@ Furthermore, there are concerns over the solvency of the Social Security system.
 
 The thought of building a sufficient retirement nest egg can be daunting, and the simplicity of relying on a system that's automatically deducted from our paycheck is tempting. Moreover, an over-reliance on government-provided safety nets is not uncommon, especially for individuals who may not have been educated on personal finance or believe that they won’t have enough saved for retirement.
 
-Instead of solely relying on Social Security, correct financial behaviour for retirement planning includes diversifying your income streams. This can be achieved by saving in a 401(k) or an IRA, investing in the stock market, owning real estate, and having other income sources during retirement. A sound financial plan should also include budgeting, setting retirement goals, and adjusting your strategy as needed. 
+Instead of solely relying on Social Security, a more sound financial strategy for retirement planning includes diversifying your income streams. This can be achieved by saving in a 401(k) or an IRA, investing in the stock market, owning real estate, and having other income sources during retirement. A sound financial plan should also include budgeting, setting retirement goals, and adjusting your strategy as needed. 
 
 Further readings to aid understanding of retirement planning and the risks of relying on Social Security can be found below:
 

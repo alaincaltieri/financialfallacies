@@ -20,7 +20,7 @@ The financial fallacy of buying a new car to save on maintenance costs is rooted
 
 The prospect of not having to deal with unexpected mechanical issues or having a car that's always in the shop is quite appealing, not to mention the delightful new-car smell and the status symbol associated with the latest vehicle model. 
 
-The correct financial behaviour would be to consider the overall costs of owning a car. This includes purchase price, depreciation, insurance, fuel, parking, loan interest, and maintenance among others. In particular, rather than buying a new vehicle when the first signs of consistent maintenance expenses emerge, keep up with preventive maintenance on your current vehicle as recommended by the manufacturer. This approach will extend the life of the car, and although there will be cost involved, it's likely to be far less than the cost of buying a new car.
+An effective financial strategy would be to consider the overall costs of owning a car. This includes purchase price, depreciation, insurance, fuel, parking, loan interest, and maintenance among others. In particular, rather than buying a new vehicle when the first signs of consistent maintenance expenses emerge, keep up with preventive maintenance on your current vehicle as recommended by the manufacturer. This approach will extend the life of the car, and although there will be cost involved, it's likely to be far less than the cost of buying a new car.
 
 Further readings on this fallacy:
 

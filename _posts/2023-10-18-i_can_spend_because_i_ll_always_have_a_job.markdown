@@ -20,7 +20,7 @@ The argument "I can spend because I’ll always have a job" is a financial falla
 
 It's understandable why this fallacy is appealing. In a society driven by consumption, it's easy to fall into the trap of living beyond our means especially when we feel the reassurance of regular monthly income. It gives us a comfortable illusion of permanent security and prosperity, and allows us to justify impulsive or excessive spending.
 
-The correct financial behaviour is maintaining a balanced approach towards money management. This primarily includes living within or below one's means, regular saving and investing, having an emergency fund, contemplating over insurance covers and planning more thoroughly for the future, like retirement. It's recommended to have a disciplined budgeting process, a clear view of one's income and expenditure, and a pattern of smart spending that contributes to long-term financial health and stability.
+An effective financial strategy is maintaining a balanced approach towards money management. This primarily includes living within or below one's means, regular saving and investing, having an emergency fund, contemplating over insurance covers and planning more thoroughly for the future, like retirement. It's recommended to have a disciplined budgeting process, a clear view of one's income and expenditure, and a pattern of smart spending that contributes to long-term financial health and stability.
 
 Further readings:
 

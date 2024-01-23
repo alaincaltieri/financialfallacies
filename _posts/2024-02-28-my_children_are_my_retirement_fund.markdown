@@ -27,7 +27,7 @@ This fallacy can be seen from a few perspectives:
 
 It’s not hard to see why people fall for this fallacy, particularly in cultures where filial piety is instilled from a young age. Emotional bonds and familial expectations can easily cloud practical financial planning. It's a comfort to think our loved ones can and will support us.
 
-The correct financial behavior implies adopting a sensible, proactive approach towards retirement savings. This includes creating an investment plan and regularly saving money for your retirement, relying on your own savings and investments, and maintaining an emergency fund. 
+An appropriate financial practice implies adopting a sensible, proactive approach towards retirement savings. This includes creating an investment plan and regularly saving money for your retirement, relying on your own savings and investments, and maintaining an emergency fund. 
 
 Some resources regarding this topic include:
 

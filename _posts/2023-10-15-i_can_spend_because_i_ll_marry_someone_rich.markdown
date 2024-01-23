@@ -26,7 +26,7 @@ Indeed, the mentality of "I can spend because I’ll marry someone rich" is a fi
 
 Hopes, dreams, and aspirations often have us envisioning a future where finances are not a concern. People tend to rely on luck and prefer an easy way out, including marrying into wealth. This could also stem from cultural influences, societal norms, or myths around the 'prince charming' rescuing us from all complexities of life. However, life's uncertainties and economic instability mean relying on another's fortune might result in severe financial distress.
 
-Correct Financial Behaviour:
+Recommended financial approach:
 
 Financial responsibility involves building your own financial security and independence. This comprises budgeting, saving, investing, and understanding where your money goes. Your lifestyle should be funded by your own means, and you should always plan for financial emergencies. 
 
